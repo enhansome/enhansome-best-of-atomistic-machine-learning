@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open an issue by selecting one of the provided categories from the issue page",
+          "description": "and fill in the requested information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T19:16:44Z",
+            "owner": "JuDFTteam",
+            "repo": "best-of-atomistic-machine-learning",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modify the projects.yaml",
+          "description": "with your additions or changes, and submit a pull request. This can also be done directly via the Github UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T19:16:44Z",
+            "owner": "JuDFTteam",
+            "repo": "best-of-atomistic-machine-learning",
+            "stars": 709
+          }
+        }
+      ],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:25:52.135Z",
+    "original_repository": "JuDFTteam/best-of-atomistic-machine-learning",
+    "original_repository_sha": "26676c67408a8081f82a2ada89418e98ad6a204a",
+    "enhanced_repository": "enhansome/enhansome-best-of-atomistic-machine-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome best of atomistic machine learning with stars"
+  }
+}
