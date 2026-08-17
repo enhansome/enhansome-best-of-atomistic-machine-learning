@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T19:16:44Z",
+            "last_commit": "2026-08-17T11:53:47Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 711
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T19:16:44Z",
+            "last_commit": "2026-08-17T11:53:47Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 711
@@ -46,9 +46,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:00:11.540Z",
+    "last_updated": "2026-08-17T23:02:22.504Z",
     "original_repository": "JuDFTteam/best-of-atomistic-machine-learning",
-    "original_repository_sha": "26676c67408a8081f82a2ada89418e98ad6a204a",
+    "original_repository_sha": "076cbf6423a272f5bacb203106c8d1751335adaa",
     "enhanced_repository": "enhansome/enhansome-best-of-atomistic-machine-learning",
     "enhanced_repository_description": null,
     "title": "Awesome best of atomistic machine learning with stars"
