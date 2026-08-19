@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Others"
-    },
-    {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 651692511,
             "language": null,
             "last_commit": "2026-08-17T11:53:47Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 711
+            "stars": 712
           }
         },
         {
@@ -29,25 +25,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 651692511,
             "language": null,
             "last_commit": "2026-08-17T11:53:47Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 711
+            "stars": 712
           }
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:03:11.484Z",
+    "last_updated": "2026-08-19T12:21:27.906Z",
     "original_repository": "JuDFTteam/best-of-atomistic-machine-learning",
+    "original_repository_id": 651692511,
     "original_repository_sha": "076cbf6423a272f5bacb203106c8d1751335adaa",
     "enhanced_repository": "enhansome/enhansome-best-of-atomistic-machine-learning",
     "enhanced_repository_description": null,
