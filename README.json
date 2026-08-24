@@ -96,7 +96,7 @@
             "archived": false,
             "id": 608256065,
             "language": "Python",
-            "last_commit": "2026-08-17T20:57:19Z",
+            "last_commit": "2026-08-24T20:31:58Z",
             "owner": "zincware",
             "repo": "IPSuite",
             "stars": 25
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23731
+            "stars": 23729
           }
         }
       ],
@@ -375,7 +375,7 @@
             "last_commit": "2026-07-28T15:58:48Z",
             "owner": "blaiszik",
             "repo": "awesome-matchem-datasets",
-            "stars": 372
+            "stars": 374
           }
         }
       ],
@@ -741,7 +741,7 @@
             "archived": false,
             "id": 27885364,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T22:57:15Z",
+            "last_commit": "2026-08-24T22:07:41Z",
             "owner": "materialsproject",
             "repo": "MPContribs",
             "stars": 40
@@ -891,7 +891,7 @@
             "last_commit": "2026-02-25T15:54:25Z",
             "owner": "openmm",
             "repo": "spice-dataset",
-            "stars": 200
+            "stars": 202
           }
         }
       ],
@@ -1236,7 +1236,7 @@
             "archived": false,
             "id": 181013071,
             "language": "Python",
-            "last_commit": "2026-08-19T18:23:26Z",
+            "last_commit": "2026-08-24T20:49:08Z",
             "owner": "deepmodeling",
             "repo": "dpdata",
             "stars": 254
@@ -1323,7 +1323,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38613
           }
         }
       ],
@@ -1362,7 +1362,7 @@
             "archived": false,
             "id": 235548991,
             "language": "Python",
-            "last_commit": "2026-08-24T09:49:32Z",
+            "last_commit": "2026-08-24T18:06:25Z",
             "owner": "andreagrisafi",
             "repo": "SALTED",
             "stars": 45
@@ -1554,7 +1554,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15166
+            "stars": 15167
           }
         },
         {
@@ -1917,7 +1917,7 @@
             "archived": false,
             "id": 644349088,
             "language": "Python",
-            "last_commit": "2026-08-24T11:07:36Z",
+            "last_commit": "2026-08-24T21:28:05Z",
             "owner": "lab-cosmo",
             "repo": "atomistic-cookbook",
             "stars": 54
@@ -2565,7 +2565,7 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6955
+            "stars": 6958
           }
         }
       ],
@@ -2628,7 +2628,7 @@
             "last_commit": "2025-08-25T15:23:20Z",
             "owner": "usnistgov",
             "repo": "jarvis",
-            "stars": 395
+            "stars": 396
           }
         }
       ],
@@ -3285,7 +3285,7 @@
             "archived": false,
             "id": 114006193,
             "language": "Python",
-            "last_commit": "2026-08-19T14:57:11Z",
+            "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2017
@@ -3390,7 +3390,7 @@
             "archived": false,
             "id": 721195384,
             "language": "Python",
-            "last_commit": "2026-08-21T20:51:11Z",
+            "last_commit": "2026-08-24T20:48:51Z",
             "owner": "metatensor",
             "repo": "metatrain",
             "stars": 78
@@ -3453,7 +3453,7 @@
             "archived": false,
             "id": 671124251,
             "language": "Python",
-            "last_commit": "2026-08-20T07:51:45Z",
+            "last_commit": "2026-08-24T20:53:08Z",
             "owner": "autoatml",
             "repo": "autoplex",
             "stars": 158
@@ -3495,7 +3495,7 @@
             "archived": false,
             "id": 567723645,
             "language": "Python",
-            "last_commit": "2026-08-17T21:51:28Z",
+            "last_commit": "2026-08-24T21:23:12Z",
             "owner": "apax-hub",
             "repo": "apax",
             "stars": 37
@@ -3768,7 +3768,7 @@
             "archived": false,
             "id": 845743328,
             "language": "Python",
-            "last_commit": "2026-08-17T21:15:48Z",
+            "last_commit": "2026-08-24T20:49:00Z",
             "owner": "deepmodeling",
             "repo": "deepmd-gnn",
             "stars": 56
@@ -4716,7 +4716,7 @@
             "last_commit": "2024-05-17T19:25:11Z",
             "owner": "kjappelbaum",
             "repo": "gptchem",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -4728,7 +4728,7 @@
             "archived": false,
             "id": 601226793,
             "language": "Python",
-            "last_commit": "2026-08-17T23:17:35Z",
+            "last_commit": "2026-08-24T17:28:19Z",
             "owner": "OpenBioML",
             "repo": "chemnlp",
             "stars": 178
@@ -5130,7 +5130,7 @@
             "archived": false,
             "id": 876809949,
             "language": "Python",
-            "last_commit": "2026-08-11T15:34:30Z",
+            "last_commit": "2026-08-24T22:18:20Z",
             "owner": "NVIDIA",
             "repo": "cuEquivariance",
             "stars": 422
@@ -5421,7 +5421,7 @@
             "archived": false,
             "id": 97248567,
             "language": "Cuda",
-            "last_commit": "2026-08-24T14:21:48Z",
+            "last_commit": "2026-08-24T19:38:51Z",
             "owner": "brucefan1983",
             "repo": "GPUMD",
             "stars": 827
@@ -5463,7 +5463,7 @@
             "archived": false,
             "id": 337851421,
             "language": "Python",
-            "last_commit": "2026-08-20T19:09:42Z",
+            "last_commit": "2026-08-24T21:31:08Z",
             "owner": "openmm",
             "repo": "openmm-ml",
             "stars": 179
@@ -6228,7 +6228,7 @@
             "archived": false,
             "id": 106024057,
             "language": "Python",
-            "last_commit": "2026-08-17T23:02:36Z",
+            "last_commit": "2026-08-24T20:53:29Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24030
@@ -6354,7 +6354,7 @@
             "archived": false,
             "id": 371569604,
             "language": "Python",
-            "last_commit": "2026-08-23T02:55:45Z",
+            "last_commit": "2026-08-24T21:08:44Z",
             "owner": "ORNL",
             "repo": "HydraGNN",
             "stars": 124
@@ -7233,7 +7233,7 @@
             "archived": false,
             "id": 114006193,
             "language": "Python",
-            "last_commit": "2026-08-19T14:57:11Z",
+            "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2017
@@ -7254,7 +7254,7 @@
             "archived": false,
             "id": 114006193,
             "language": "Python",
-            "last_commit": "2026-08-19T14:57:11Z",
+            "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2017
@@ -7575,7 +7575,7 @@
             "last_commit": "2026-07-01T20:11:33Z",
             "owner": "sissa-data-science",
             "repo": "DADApy",
-            "stars": 150
+            "stars": 151
           }
         }
       ],
@@ -7761,7 +7761,7 @@
             "archived": false,
             "id": 498793280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:03:31Z",
+            "last_commit": "2026-08-24T18:03:51Z",
             "owner": "janosh",
             "repo": "matterviz",
             "stars": 356
@@ -7803,7 +7803,7 @@
             "archived": false,
             "id": 626989792,
             "language": "Python",
-            "last_commit": "2026-08-17T20:57:49Z",
+            "last_commit": "2026-08-24T20:32:40Z",
             "owner": "zincware",
             "repo": "ZnDraw",
             "stars": 50
@@ -8000,7 +8000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:53.593Z",
+    "last_updated": "2026-08-24T23:04:55.528Z",
     "original_repository": "JuDFTteam/best-of-atomistic-machine-learning",
     "original_repository_id": 651692511,
     "original_repository_sha": "07d5a42ec2e20cc2da7b48d53a979af77b6b1059",
