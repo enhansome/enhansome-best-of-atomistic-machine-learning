@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/dpgen",
           "description": "(👨‍💻 76 · 🔀 190 · 📥 2.1K · 📦 8 · 📋 370 - 17% open · ⏱️ 12.07.2026):",
           "children": [],
           "repo_info": {
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mir-group/flare",
           "description": "(👨‍💻 44 · 🔀 78 · 📥 10 · 📦 12 · 📋 220 - 14% open · ⏱️ 30.01.2026):",
           "children": [],
           "repo_info": {
@@ -47,7 +47,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Bin-Cao/Bgolearn",
           "description": "(👨‍💻 4 · 🔀 21 · 📥 87 · ⏱️ 10.08.2026):",
           "children": [],
           "repo_info": {
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/dpgen2",
           "description": "(👨‍💻 19 · 🔀 36 · 📦 6 · 📋 63 - 52% open · ⏱️ 12.07.2026):",
           "children": [],
           "repo_info": {
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zincware/IPSuite",
           "description": "(👨‍💻 9 · 🔀 13 · 📦 14 · 📋 180 - 49% open · ⏱️ 13.03.2026):",
           "children": [],
           "repo_info": {
@@ -176,7 +176,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "janosh/matbench-discovery",
           "description": "(👨‍💻 35 · 🔀 66 · 📥 6.3K · 📦 8 · 📋 78 - 3% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -197,7 +197,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lukasmasuch/best-of-ml-python",
           "description": "(👨‍💻 57 · 🔀 3.1K · 📋 69 - 49% open · ⏱️ 22.03.2026):",
           "children": [],
           "repo_info": {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23729
+            "stars": 23730
           }
         }
       ],
@@ -218,7 +218,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openml/OpenML",
           "description": "(👨‍💻 35 · 🔀 130 · 📋 1K - 37% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -239,7 +239,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "naganandy/graph-based-deep-learning-literature",
           "description": "(👨‍💻 12 · 🔀 770 · ⏱️ 07.06.2026):",
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ddmms/ml-peg",
           "description": "(👨‍💻 32 · 🔀 53 · 📥 57 · 📋 320 - 50% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -281,7 +281,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Garden-AI/garden",
           "description": "(👨‍💻 14 · 🔀 5 · 📦 6 · 📋 380 - 3% open · ⏱️ 18.03.2026):",
           "children": [],
           "repo_info": {
@@ -302,7 +302,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "GT4SD/gt4sd-core",
           "description": "(👨‍💻 20 · 🔀 81 · 📋 110 - 1% open · ⏱️ 31.07.2026):",
           "children": [],
           "repo_info": {
@@ -323,7 +323,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "google-deepmind/materials_discovery",
           "description": "(👨‍💻 3 · 🔀 190 · 📋 37 - 89% open · ⏱️ 29.04.2026):",
           "children": [],
           "repo_info": {
@@ -344,7 +344,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "divelab/AIRS",
           "description": "(👨‍💻 36 · 🔀 96 · 📋 32 - 18% open · ⏱️ 29.06.2026):",
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "blaiszik/awesome-matchem-datasets",
           "description": "(👨‍💻 10 · 🔀 44 · 📋 15 - 26% open · ⏱️ 28.07.2026):",
           "children": [],
           "repo_info": {
@@ -386,7 +386,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Eipgen/Neural-Network-Models-for-Chemistry",
           "description": "(👨‍💻 3 · 🔀 23 · 📋 2 - 50% open · ⏱️ 09.04.2026):",
           "children": [],
           "repo_info": {
@@ -407,7 +407,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tilde-lab/optimade.science",
           "description": "(👨‍💻 9 · 🔀 4 · 📋 26 - 26% open · ⏱️ 06.07.2026):",
           "children": [],
           "repo_info": {
@@ -428,7 +428,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "neurreps/awesome-neural-geometry",
           "description": "(👨‍💻 16 · 🔀 72 · ⏱️ 24.02.2026):",
           "children": [],
           "repo_info": {
@@ -449,7 +449,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sedaoturak/data-resources-for-materials-science",
           "description": "(👨‍💻 2 · 🔀 63 · ⏱️ 17.07.2026):",
           "children": [],
           "repo_info": {
@@ -470,7 +470,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AI4QC/AI_for_Science_paper_collection",
           "description": "(👨‍💻 7 · 🔀 17 · ⏱️ 24.09.2025):",
           "children": [],
           "repo_info": {
@@ -491,7 +491,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smsharma/awesome-neural-sbi",
           "description": "(👨‍💻 7 · 🔀 8 · 📋 2 - 50% open · ⏱️ 28.01.2026):",
           "children": [],
           "repo_info": {
@@ -512,7 +512,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/deepmodeling-projects",
           "description": "(👨‍💻 4 · 🔀 3 · ⏱️ 10.04.2026):",
           "children": [],
           "repo_info": {
@@ -533,7 +533,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kdmsit/Awesome-Crystal-GNNs",
           "description": "(👨‍💻 2 · 🔀 13 · ⏱️ 09.03.2026):",
           "children": [],
           "repo_info": {
@@ -554,7 +554,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "blaiszik/ml_publication_charts",
           "description": "(👨‍💻 2 · ⏱️ 10.03.2026):",
           "children": [],
           "repo_info": {
@@ -671,14 +671,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "facebookresearch/fairchem",
           "description": "(👨‍💻 72 · 🔀 500 · 📋 600 - 0% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:54Z",
+            "last_commit": "2026-08-24T23:52:22Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2230
@@ -692,14 +692,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "facebookresearch/fairchem",
           "description": "(👨‍💻 72 · 🔀 500 · 📋 600 - 0% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:54Z",
+            "last_commit": "2026-08-24T23:52:22Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2230
@@ -713,7 +713,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Materials-Consortia/optimade-python-tools",
           "description": "(👨‍💻 37 · 🔀 54 · 📋 480 - 18% open · ⏱️ 06.08.2026):",
           "children": [],
           "repo_info": {
@@ -734,7 +734,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialsproject/MPContribs",
           "description": "(👨‍💻 32 · 🔀 27 · 📦 60 · 📋 120 - 30% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -755,7 +755,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Materials-Consortia/OPTIMADE",
           "description": "(👨‍💻 24 · 🔀 37 · 📋 260 - 29% open · ⏱️ 03.07.2026):",
           "children": [],
           "repo_info": {
@@ -776,7 +776,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jla-gardner/load-atoms",
           "description": "(👨‍💻 5 · 🔀 5 · 📦 8 · 📋 35 - 14% open · ⏱️ 25.11.2025):",
           "children": [],
           "repo_info": {
@@ -797,7 +797,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "divelab/AIRS",
           "description": "(👨‍💻 36 · 🔀 96 · 📋 32 - 18% open · ⏱️ 29.06.2026):",
           "children": [],
           "repo_info": {
@@ -818,7 +818,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AIRI-Institute/nablaDFT",
           "description": "(👨‍💻 9 · 🔀 25 · 📋 28 - 10% open · ⏱️ 31.12.2025):",
           "children": [],
           "repo_info": {
@@ -839,7 +839,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialyzeai/matpes",
           "description": "(👨‍💻 3 · 🔀 5 · 📋 10 - 20% open · ⏱️ 01.07.2026):",
           "children": [],
           "repo_info": {
@@ -860,7 +860,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mpds-io/mpds-api",
           "description": "(👨‍💻 5 · 🔀 7 · 📋 36 - 22% open · ⏱️ 24.01.2026):",
           "children": [],
           "repo_info": {
@@ -881,7 +881,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openmm/spice-dataset",
           "description": "(👨‍💻 1 · 🔀 11 · 📥 380 · 📋 76 - 27% open · ⏱️ 25.02.2026):",
           "children": [],
           "repo_info": {
@@ -902,7 +902,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openkim/kim-api",
           "description": "(👨‍💻 27 · 🔀 20 · 📋 37 - 40% open · ⏱️ 06.03.2026):",
           "children": [],
           "repo_info": {
@@ -923,7 +923,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/AIS-Square",
           "description": "(👨‍💻 8 · 🔀 9 · 📋 6 - 83% open · ⏱️ 11.08.2026):",
           "children": [],
           "repo_info": {
@@ -944,7 +944,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "NRC-Mila/OBELiX",
           "description": "(👨‍💻 6 · 🔀 9 · 📋 2 - 50% open · ⏱️ 27.11.2025):",
           "children": [],
           "repo_info": {
@@ -965,7 +965,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Ramprasad-Group/polyVERSE",
           "description": "(👨‍💻 10 · 🔀 8 · ⏱️ 02.07.2026):",
           "children": [],
           "repo_info": {
@@ -986,7 +986,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Jesperkemist/perovskitedatabase",
           "description": "(👨‍💻 2 · 🔀 26 · ⏱️ 20.03.2026):",
           "children": [],
           "repo_info": {
@@ -1007,7 +1007,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aimat-lab/visual_graph_datasets",
           "description": "(👨‍💻 2 · 🔀 3 · ⏱️ 24.03.2026):",
           "children": [],
           "repo_info": {
@@ -1229,7 +1229,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/dpdata",
           "description": "(👨‍💻 72 · 🔀 160 · 📦 160 · 📋 160 - 7% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -1250,7 +1250,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metatensor/metatensor",
           "description": "(👨‍💻 37 · 🔀 28 · 📥 55K · 📦 16 · 📋 270 - 20% open · ⏱️ 13.08.2026):",
           "children": [],
           "repo_info": {
@@ -1271,7 +1271,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialsproject/pyrho",
           "description": "(👨‍💻 10 · 🔀 10 · 📦 37 · 📋 10 - 70% open · ⏱️ 11.05.2026):",
           "children": [],
           "repo_info": {
@@ -1292,7 +1292,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dmlc/dlpack",
           "description": "(👨‍💻 36 · 🔀 160 · 📋 88 - 27% open · ⏱️ 11.08.2026):",
           "children": [],
           "repo_info": {
@@ -1313,7 +1313,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "google-research/google-research",
           "description": "(👨‍💻 880 · 🔀 8.4K · 📋 2.3K - 84% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -1323,7 +1323,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38613
+            "stars": 38614
           }
         }
       ],
@@ -1334,7 +1334,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mala-project/mala",
           "description": "(👨‍💻 47 · 🔀 27 · 📦 2 · 📋 310 - 9% open · ⏱️ 16.09.2025):",
           "children": [],
           "repo_info": {
@@ -1355,7 +1355,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "andreagrisafi/SALTED",
           "description": "(👨‍💻 30 · 🔀 9 · 📋 17 - 23% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -1376,7 +1376,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "divelab/AIRS",
           "description": "(👨‍💻 36 · 🔀 96 · 📋 32 - 18% open · ⏱️ 29.06.2026):",
           "children": [],
           "repo_info": {
@@ -1397,7 +1397,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "QuantumLab-ZY/HamGNN",
           "description": "(👨‍💻 8 · 🔀 48 · 📋 85 - 83% open · ⏱️ 27.07.2026):",
           "children": [],
           "repo_info": {
@@ -1418,7 +1418,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mir-group/CiderPress",
           "description": "(👨‍💻 3 · 🔀 3 · ⏱️ 07.08.2026):",
           "children": [],
           "repo_info": {
@@ -1439,7 +1439,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lcmd-epfl/Q-stack",
           "description": "(👨‍💻 8 · 🔀 7 · 📋 57 - 15% open · ⏱️ 03.08.2026):",
           "children": [],
           "repo_info": {
@@ -1460,7 +1460,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/ACEhamiltonians.jl",
           "description": "(👨‍💻 5 · 🔀 7 · 📋 5 - 40% open · ⏱️ 17.09.2025):",
           "children": [],
           "repo_info": {
@@ -1481,7 +1481,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/dftio",
           "description": "(👨‍💻 5 · 🔀 14 · 📋 26 - 84% open · ⏱️ 18.12.2025):",
           "children": [],
           "repo_info": {
@@ -1502,7 +1502,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "StefanoSanvitoGroup/MLdensity",
           "description": "(👨‍💻 3 · ⏱️ 11.08.2026):",
           "children": [],
           "repo_info": {
@@ -1523,7 +1523,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Xiaoxun-Gong/DeepH-E3",
           "description": "(👨‍💻 2 · 🔀 27 · 📋 40 - 67% open · ⏱️ 27.01.2026):",
           "children": [],
           "repo_info": {
@@ -1910,7 +1910,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lab-cosmo/atomistic-cookbook",
           "description": "(👨‍💻 23 · 🔀 11 · 📋 35 - 31% open · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
@@ -1931,7 +1931,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chaitjo/geometric-gnn-dojo",
           "description": "(👨‍💻 4 · 🔀 55 · 📋 9 - 22% open · ⏱️ 09.10.2025):",
           "children": [],
           "repo_info": {
@@ -1952,7 +1952,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "whitead/dmol-book",
           "description": "(👨‍💻 19 · 🔀 130 · 📋 180 - 17% open · ⏱️ 20.02.2026):",
           "children": [],
           "repo_info": {
@@ -1973,7 +1973,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "schwallergroup/ai4chem_course",
           "description": "(👨‍💻 10 · 🔀 64 · 📋 6 - 50% open · ⏱️ 03.04.2026):",
           "children": [],
           "repo_info": {
@@ -1994,7 +1994,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "GDS-Education-Community-of-Practice/DSECOP",
           "description": "(👨‍💻 14 · 🔀 26 · 📋 8 - 12% open · ⏱️ 18.07.2026):",
           "children": [],
           "repo_info": {
@@ -2015,7 +2015,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ceriottm/iam-notebooks",
           "description": "(👨‍💻 7 · 🔀 6 · ⏱️ 22.05.2026):",
           "children": [],
           "repo_info": {
@@ -2036,7 +2036,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aronwalsh/MLforMaterials",
           "description": "(👨‍💻 2 · 🔀 19 · 📋 4 - 25% open · ⏱️ 07.02.2026):",
           "children": [],
           "repo_info": {
@@ -2057,7 +2057,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/mace-tutorials",
           "description": "(👨‍💻 2 · 🔀 17 · ⏱️ 22.01.2026):",
           "children": [],
           "repo_info": {
@@ -2078,7 +2078,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/tutorials",
           "description": "(👨‍💻 12 · 🔀 23 · 📋 4 - 25% open · ⏱️ 11.03.2026):",
           "children": [],
           "repo_info": {
@@ -2390,7 +2390,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aimat-lab/graph_attention_student",
           "description": "(👨‍💻 2 · 🔀 2 · 📋 3 - 33% open · ⏱️ 15.08.2026):",
           "children": [],
           "repo_info": {
@@ -2462,7 +2462,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/DeePTB",
           "description": "(👨‍💻 15 · 🔀 33 · 📦 4 · 📋 80 - 47% open · ⏱️ 15.07.2026):",
           "children": [],
           "repo_info": {
@@ -2534,7 +2534,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rdkit/rdkit",
           "description": "(👨‍💻 280 · 🔀 1K · 📦 3 · 📋 3.8K - 1% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -2555,7 +2555,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepchem/deepchem",
           "description": "(👨‍💻 260 · 🔀 2.3K · 📦 670 · 📋 2.5K - 46% open · ⏱️ 10.08.2026):",
           "children": [],
           "repo_info": {
@@ -2576,7 +2576,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hackingmaterials/matminer",
           "description": "(👨‍💻 58 · 🔀 220 · 📦 490 · 📋 240 - 14% open · ⏱️ 30.06.2026):",
           "children": [],
           "repo_info": {
@@ -2597,7 +2597,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "libAtoms/QUIP",
           "description": "(👨‍💻 87 · 🔀 130 · 📥 1K · 📦 46 · 📋 500 - 23% open · ⏱️ 12.05.2026):",
           "children": [],
           "repo_info": {
@@ -2618,7 +2618,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "usnistgov/jarvis",
           "description": "(👨‍💻 16 · 🔀 140 · 📋 95 - 52% open · ⏱️ 25.08.2025):",
           "children": [],
           "repo_info": {
@@ -2639,7 +2639,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialyzeai/maml",
           "description": "(👨‍💻 39 · 🔀 97 · 📦 17 · 📋 76 - 14% open · ⏱️ 27.07.2026):",
           "children": [],
           "repo_info": {
@@ -2660,7 +2660,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dralgroup/mlatom",
           "description": "(👨‍💻 7 · 🔀 21 · 📋 9 - 44% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -2681,7 +2681,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "scikit-learn-contrib/scikit-matter",
           "description": "(👨‍💻 19 · 🔀 25 · 📥 24 · 📋 84 - 26% open · ⏱️ 03.08.2026):",
           "children": [],
           "repo_info": {
@@ -2702,7 +2702,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "uw-cmg/MAST-ML",
           "description": "(👨‍💻 19 · 🔀 61 · 📥 180 · 📋 220 - 14% open · ⏱️ 10.10.2025):",
           "children": [],
           "repo_info": {
@@ -2723,7 +2723,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "divelab/AIRS",
           "description": "(👨‍💻 36 · 🔀 96 · 📋 32 - 18% open · ⏱️ 29.06.2026):",
           "children": [],
           "repo_info": {
@@ -2945,7 +2945,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "GT4SD/gt4sd-core",
           "description": "(👨‍💻 20 · 🔀 81 · 📋 110 - 1% open · ⏱️ 31.07.2026):",
           "children": [],
           "repo_info": {
@@ -2966,7 +2966,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hspark1212/MOFTransformer",
           "description": "(👨‍💻 2 · 🔀 21 · 📦 8 · 📋 48 - 4% open · ⏱️ 23.05.2026):",
           "children": [],
           "repo_info": {
@@ -2987,7 +2987,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "xiaohang007/SLICES",
           "description": "(👨‍💻 2 · 🔀 57 · 📦 7 · 📋 17 - 23% open · ⏱️ 03.03.2026):",
           "children": [],
           "repo_info": {
@@ -3008,7 +3008,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "atomistic-machine-learning/schnetpack-gschnet",
           "description": "(👨‍💻 3 · 🔀 11 · ⏱️ 13.11.2025):",
           "children": [],
           "repo_info": {
@@ -3029,7 +3029,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "RokasEl/simgen",
           "description": "(👨‍💻 4 · 🔀 5 · 📦 2 · 📋 5 - 20% open · ⏱️ 27.08.2025):",
           "children": [],
           "repo_info": {
@@ -3050,7 +3050,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "LigandPro/Matcha",
           "description": "(👨‍💻 3 · 🔀 4 · 📋 4 - 50% open · ⏱️ 29.04.2026):",
           "children": [],
           "repo_info": {
@@ -3257,14 +3257,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "facebookresearch/fairchem",
           "description": "(👨‍💻 72 · 🔀 500 · 📋 600 - 0% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:54Z",
+            "last_commit": "2026-08-24T23:52:22Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2230
@@ -3278,7 +3278,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/deepmd-kit",
           "description": "(👨‍💻 89 · 🔀 640 · 📥 76K · 📦 60 · 📋 1.2K - 15% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -3299,7 +3299,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mir-group/nequip",
           "description": "(👨‍💻 45 · 🔀 210 · 📦 56 · 📋 130 - 3% open · ⏱️ 19.07.2026):",
           "children": [],
           "repo_info": {
@@ -3320,7 +3320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aiqm/torchani",
           "description": "(👨‍💻 23 · 🔀 140 · 📦 79 · 📋 180 - 4% open · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
@@ -3341,7 +3341,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialyzeai/matcalc",
           "description": "(👨‍💻 23 · 🔀 36 · 📦 27 · 📋 47 - 8% open · ⏱️ 11.08.2026):",
           "children": [],
           "repo_info": {
@@ -3362,7 +3362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/mace",
           "description": "(👨‍💻 81 · 🔀 450 · 📋 670 - 28% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -3372,7 +3372,7 @@
             "last_commit": "2026-08-21T21:37:12Z",
             "owner": "ACEsuit",
             "repo": "mace",
-            "stars": 1322
+            "stars": 1323
           }
         }
       ],
@@ -3383,7 +3383,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metatensor/metatrain",
           "description": "(👨‍💻 40 · 🔀 41 · 📥 110 · 📦 17 · 📋 320 - 33% open · ⏱️ 11.08.2026):",
           "children": [],
           "repo_info": {
@@ -3404,7 +3404,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "torchmd/torchmd-net",
           "description": "(👨‍💻 20 · 🔀 97 · 📥 230 · 📋 120 - 25% open · ⏱️ 13.07.2026):",
           "children": [],
           "repo_info": {
@@ -3425,7 +3425,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stfc/janus-core",
           "description": "(👨‍💻 11 · 🔀 18 · 📥 260 · 📦 16 · 📋 320 - 16% open · ⏱️ 07.08.2026):",
           "children": [],
           "repo_info": {
@@ -3446,7 +3446,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "autoatml/autoplex",
           "description": "(👨‍💻 16 · 🔀 25 · 📦 2 · 📋 150 - 22% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -3467,7 +3467,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openkim/kliff",
           "description": "(👨‍💻 14 · 🔀 21 · 📦 4 · 📋 56 - 41% open · ⏱️ 28.02.2026):",
           "children": [],
           "repo_info": {
@@ -3488,7 +3488,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "apax-hub/apax",
           "description": "(👨‍💻 11 · 🔀 7 · 📦 7 · 📋 180 - 17% open · ⏱️ 01.06.2026):",
           "children": [],
           "repo_info": {
@@ -3509,7 +3509,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openmm/NNPOps",
           "description": "(👨‍💻 11 · 🔀 18 · 📋 67 - 41% open · ⏱️ 04.02.2026):",
           "children": [],
           "repo_info": {
@@ -3530,7 +3530,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "libAtoms/workflow",
           "description": "(👨‍💻 21 · 🔀 21 · 📦 6 · 📋 170 - 42% open · ⏱️ 22.07.2026):",
           "children": [],
           "repo_info": {
@@ -3551,7 +3551,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mir-group/allegro",
           "description": "(👨‍💻 10 · 🔀 74 · 📦 5 · 📋 51 - 1% open · ⏱️ 28.05.2026):",
           "children": [],
           "repo_info": {
@@ -3572,7 +3572,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "learningmatter-mit/NeuralForceField",
           "description": "(👨‍💻 45 · 🔀 61 · 📋 23 - 21% open · ⏱️ 10.02.2026):",
           "children": [],
           "repo_info": {
@@ -3593,7 +3593,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vldgroup/graph-pes",
           "description": "(👨‍💻 8 · 🔀 15 · 📦 3 · 📋 18 - 22% open · ⏱️ 13.07.2026):",
           "children": [],
           "repo_info": {
@@ -3603,7 +3603,7 @@
             "last_commit": "2026-07-13T14:40:46Z",
             "owner": "vldgroup",
             "repo": "graph-pes",
-            "stars": 128
+            "stars": 129
           }
         }
       ],
@@ -3614,7 +3614,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "basf/mlipx",
           "description": "(👨‍💻 5 · 🔀 8 · 📦 7 · 📋 18 - 33% open · ⏱️ 16.10.2025):",
           "children": [],
           "repo_info": {
@@ -3635,7 +3635,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stfc/aiida-mlip",
           "description": "(👨‍💻 9 · 🔀 13 · 📥 53 · 📦 3 · 📋 160 - 43% open · ⏱️ 28.07.2026):",
           "children": [],
           "repo_info": {
@@ -3656,7 +3656,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Teoroo-CMC/PiNN",
           "description": "(👨‍💻 8 · 🔀 41 · 📋 7 - 14% open · ⏱️ 26.03.2026):",
           "children": [],
           "repo_info": {
@@ -3677,7 +3677,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ICAMS/python-ace",
           "description": "(👨‍💻 7 · 🔀 27 · 📋 73 - 43% open · ⏱️ 05.06.2026):",
           "children": [],
           "repo_info": {
@@ -3698,7 +3698,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/mace-jax",
           "description": "(👨‍💻 9 · 🔀 23 · 📋 11 - 45% open · ⏱️ 10.08.2026):",
           "children": [],
           "repo_info": {
@@ -3719,7 +3719,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MMunibas/Asparagus",
           "description": "(👨‍💻 11 · 🔀 6 · ⏱️ 13.08.2026):",
           "children": [],
           "repo_info": {
@@ -3740,7 +3740,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TinkerTools/tinker-hp",
           "description": "(👨‍💻 13 · 🔀 27 · 📋 29 - 24% open · ⏱️ 06.06.2026):",
           "children": [],
           "repo_info": {
@@ -3761,7 +3761,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/deepmd-gnn",
           "description": "(👨‍💻 10 · 🔀 9 · 📋 30 - 53% open · ⏱️ 24.07.2026):",
           "children": [],
           "repo_info": {
@@ -3782,7 +3782,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mcaroba/turbogap",
           "description": "(👨‍💻 11 · 🔀 14 · 📋 12 - 25% open · ⏱️ 12.08.2026):",
           "children": [],
           "repo_info": {
@@ -3803,7 +3803,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bigd4/PyNEP",
           "description": "(👨‍💻 10 · 🔀 19 · 📋 14 - 42% open · ⏱️ 27.10.2025):",
           "children": [],
           "repo_info": {
@@ -3824,7 +3824,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "libAtoms/GAP",
           "description": "(👨‍💻 13 · 🔀 21 · ⏱️ 05.07.2026):",
           "children": [],
           "repo_info": {
@@ -3845,7 +3845,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lanl/ALF",
           "description": "(👨‍💻 9 · 🔀 16 · ⏱️ 13.08.2026):",
           "children": [],
           "repo_info": {
@@ -3866,7 +3866,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/ACEfit.jl",
           "description": "(👨‍💻 10 · 🔀 8 · 📋 61 - 39% open · ⏱️ 20.03.2026):",
           "children": [],
           "repo_info": {
@@ -3887,7 +3887,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "atomicarchitects/equiformer_v2",
           "description": "(👨‍💻 2 · 🔀 49 · 📋 27 - 66% open · ⏱️ 10.04.2026):",
           "children": [],
           "repo_info": {
@@ -3908,7 +3908,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "RowleyGroup/MLXDM",
           "description": "(👨‍💻 8 · 🔀 2 · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -3929,7 +3929,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialyzeai/matml",
           "description": "(👨‍💻 2 · 🔀 2 · ⏱️ 04.05.2026):",
           "children": [],
           "repo_info": {
@@ -4541,7 +4541,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lamalab-org/chembench",
           "description": "(👨‍💻 15 · 🔀 19 · 📦 3 · 📋 340 - 16% open · ⏱️ 11.09.2025):",
           "children": [],
           "repo_info": {
@@ -4562,7 +4562,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "usnistgov/atomgpt",
           "description": "(👨‍💻 7 · 🔀 10 · ⏱️ 21.08.2025):",
           "children": [],
           "repo_info": {
@@ -4583,7 +4583,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/molskill",
           "description": "(👨‍💻 5 · 🔀 14 · 📋 6 - 33% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -4604,7 +4604,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chiang-yuan/llamp",
           "description": "(👨‍💻 6 · 🔀 15 · 📋 25 - 32% open · ⏱️ 11.11.2025):",
           "children": [],
           "repo_info": {
@@ -4625,7 +4625,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vertaix/LLM-Prop",
           "description": "(👨‍💻 7 · 🔀 11 · 📋 3 - 66% open · ⏱️ 31.01.2026):",
           "children": [],
           "repo_info": {
@@ -4656,7 +4656,7 @@
             "last_commit": "2024-12-19T17:47:04Z",
             "owner": "ur-whitelab",
             "repo": "chemcrow-public",
-            "stars": 944
+            "stars": 945
           }
         },
         {
@@ -4922,7 +4922,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "WMD-group/SMACT",
           "description": "(👨‍💻 51 · 🔀 32 · 📦 84 · 📋 63 - 3% open · ⏱️ 09.08.2026):",
           "children": [],
           "repo_info": {
@@ -4943,7 +4943,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/mattergen",
           "description": "(👨‍💻 14 · 🔀 330 · 📋 150 - 7% open · ⏱️ 07.07.2026):",
           "children": [],
           "repo_info": {
@@ -4964,7 +4964,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "LopezGroup-ICIQ/care",
           "description": "(👨‍💻 5 · 🔀 14 · 📥 8 · 📋 2 - 50% open · ⏱️ 07.07.2026):",
           "children": [],
           "repo_info": {
@@ -4985,7 +4985,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "google-deepmind/materials_discovery",
           "description": "(👨‍💻 3 · 🔀 190 · 📋 37 - 89% open · ⏱️ 29.04.2026):",
           "children": [],
           "repo_info": {
@@ -5006,7 +5006,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CompRhys/aviary",
           "description": "(👨‍💻 6 · 🔀 13 · 📦 1 · 📋 34 - 11% open · ⏱️ 12.04.2026):",
           "children": [],
           "repo_info": {
@@ -5123,7 +5123,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "NVIDIA/cuEquivariance",
           "description": "(👨‍💻 14 · 🔀 39 · 📋 90 - 25% open · ⏱️ 10.08.2026):",
           "children": [],
           "repo_info": {
@@ -5144,7 +5144,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "google-deepmind/kfac-jax",
           "description": "(👨‍💻 21 · 🔀 32 · 📦 16 · 📋 38 - 63% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -5165,7 +5165,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PASSIONLab/OpenEquivariance",
           "description": "(👨‍💻 6 · 🔀 15 · 📦 8 · 📋 39 - 5% open · ⏱️ 09.08.2026):",
           "children": [],
           "repo_info": {
@@ -5186,7 +5186,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lab-cosmo/sphericart",
           "description": "(👨‍💻 15 · 🔀 17 · 📥 1.3K · 📦 11 · 📋 52 - 17% open · ⏱️ 09.07.2026):",
           "children": [],
           "repo_info": {
@@ -5207,7 +5207,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/Polynomials4ML.jl",
           "description": "(👨‍💻 12 · 🔀 7 · 📋 62 - 12% open · ⏱️ 17.06.2026):",
           "children": [],
           "repo_info": {
@@ -5228,7 +5228,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "risi-kondor/GElib",
           "description": "(👨‍💻 6 · 🔀 3 · 📋 8 - 50% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -5249,7 +5249,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lab-cosmo/toolbox",
           "description": "(👨‍💻 10 · 🔀 7 · ⏱️ 01.04.2026):",
           "children": [],
           "repo_info": {
@@ -5270,7 +5270,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "risi-kondor/cnine",
           "description": "(👨‍💻 8 · 🔀 4 · 📋 2 - 50% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -5372,7 +5372,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jax-md/jax-md",
           "description": "(👨‍💻 54 · 🔀 240 · 📦 95 · 📋 200 - 24% open · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
@@ -5393,7 +5393,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TorchSim/torch-sim",
           "description": "(👨‍💻 38 · 🔀 100 · 📋 180 - 11% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -5414,14 +5414,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "brucefan1983/GPUMD",
           "description": "(👨‍💻 64 · 🔀 200 · 📋 280 - 7% open · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 97248567,
             "language": "Cuda",
-            "last_commit": "2026-08-24T19:38:51Z",
+            "last_commit": "2026-08-25T05:25:49Z",
             "owner": "brucefan1983",
             "repo": "GPUMD",
             "stars": 827
@@ -5435,7 +5435,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "luigibonati/mlcolvar",
           "description": "(👨‍💻 15 · 🔀 35 · 📦 13 · 📋 120 - 9% open · ⏱️ 14.07.2026):",
           "children": [],
           "repo_info": {
@@ -5456,7 +5456,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openmm/openmm-ml",
           "description": "(👨‍💻 12 · 🔀 47 · 📦 2 · 📋 81 - 32% open · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
@@ -5477,7 +5477,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "FitSNAP/FitSNAP",
           "description": "(👨‍💻 24 · 🔀 65 · 📥 18 · 📋 84 - 25% open · ⏱️ 17.10.2025):",
           "children": [],
           "repo_info": {
@@ -5498,7 +5498,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openmm/openmm-torch",
           "description": "(👨‍💻 9 · 🔀 32 · 📋 110 - 33% open · ⏱️ 24.06.2026):",
           "children": [],
           "repo_info": {
@@ -5519,7 +5519,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/DMFF",
           "description": "(👨‍💻 17 · 🔀 49 · 📋 33 - 39% open · ⏱️ 07.04.2026):",
           "children": [],
           "repo_info": {
@@ -5540,7 +5540,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "molmod/psiflow",
           "description": "(👨‍💻 5 · 🔀 15 · 📋 60 - 18% open · ⏱️ 28.04.2026):",
           "children": [],
           "repo_info": {
@@ -5561,7 +5561,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mir-group/pair_nequip_allegro",
           "description": "(👨‍💻 6 · 🔀 12 · 📋 52 - 23% open · ⏱️ 14.05.2026):",
           "children": [],
           "repo_info": {
@@ -5582,7 +5582,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ICAMS/lammps-user-pace",
           "description": "(👨‍💻 8 · 🔀 16 · 📋 11 - 45% open · ⏱️ 03.12.2025):",
           "children": [],
           "repo_info": {
@@ -5603,7 +5603,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chiang-yuan/muse",
           "description": "(👨‍💻 2 · 📦 1 · 📋 2 - 50% open · ⏱️ 22.04.2026):",
           "children": [],
           "repo_info": {
@@ -5696,7 +5696,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cdk/cdk",
           "description": "(👨‍💻 170 · 🔀 180 · 📥 150K · 📋 330 - 2% open · ⏱️ 17.08.2026):",
           "children": [],
           "repo_info": {
@@ -5717,7 +5717,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SINGROUP/dscribe",
           "description": "(👨‍💻 18 · 🔀 96 · 📦 300 · 📋 110 - 13% open · ⏱️ 27.09.2025):",
           "children": [],
           "repo_info": {
@@ -5738,7 +5738,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hachmannlab/chemml",
           "description": "(👨‍💻 17 · 🔀 34 · 📥 14 · 📦 8 · 📋 16 - 43% open · ⏱️ 28.07.2026):",
           "children": [],
           "repo_info": {
@@ -5759,7 +5759,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "WMD-group/ElementEmbeddings",
           "description": "(👨‍💻 10 · 🔀 5 · 📦 6 · ⏱️ 09.08.2026):",
           "children": [],
           "repo_info": {
@@ -5780,7 +5780,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metatensor/featomic",
           "description": "(👨‍💻 21 · 🔀 19 · 📥 1K · 📦 2 · 📋 88 - 47% open · ⏱️ 22.07.2026):",
           "children": [],
           "repo_info": {
@@ -5801,7 +5801,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PhasesResearchLab/pySIPFENN",
           "description": "(👨‍💻 5 · 🔀 6 · 📥 120 · 📦 7 · 📋 10 - 70% open · ⏱️ 18.07.2026):",
           "children": [],
           "repo_info": {
@@ -5822,7 +5822,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "drcassar/glasspy",
           "description": "(👨‍💻 2 · 🔀 9 · 📦 7 · 📋 17 - 47% open · ⏱️ 17.03.2026):",
           "children": [],
           "repo_info": {
@@ -5843,7 +5843,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rouyang2017/SISSO",
           "description": "(👨‍💻 3 · 🔀 95 · 📋 78 - 23% open · ⏱️ 26.01.2026):",
           "children": [],
           "repo_info": {
@@ -5864,7 +5864,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "WMD-group/PDynA",
           "description": "(👨‍💻 4 · 🔀 6 · 📦 2 · ⏱️ 15.08.2026):",
           "children": [],
           "repo_info": {
@@ -5885,7 +5885,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "capoe/benchml",
           "description": "(👨‍💻 9 · 🔀 6 · 📋 13 - 23% open · ⏱️ 28.10.2025):",
           "children": [],
           "repo_info": {
@@ -5906,7 +5906,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "NU-CUCIS/ElemNet",
           "description": "(👨‍💻 4 · 🔀 35 · 📋 8 - 50% open · ⏱️ 13.01.2026):",
           "children": [],
           "repo_info": {
@@ -5927,7 +5927,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ChemAI-Lab/molpipx",
           "description": "(👨‍💻 13 · 🔀 1 · ⏱️ 27.03.2026):",
           "children": [],
           "repo_info": {
@@ -5948,7 +5948,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Rutgers-ZRG/libfp",
           "description": "(👨‍💻 2 · 🔀 1 · 📦 2 · ⏱️ 22.09.2025):",
           "children": [],
           "repo_info": {
@@ -5969,7 +5969,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "libAtoms/soap_turbo",
           "description": "(👨‍💻 4 · 🔀 10 · 📋 8 - 62% open · ⏱️ 29.05.2026):",
           "children": [],
           "repo_info": {
@@ -6221,7 +6221,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pyg-team/pytorch_geometric",
           "description": "(👨‍💻 570 · 🔀 4K · 📦 11K · 📋 4.1K - 32% open · ⏱️ 17.08.2026):",
           "children": [],
           "repo_info": {
@@ -6242,7 +6242,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "e3nn/e3nn",
           "description": "(👨‍💻 38 · 🔀 180 · 📦 680 · 📋 180 - 17% open · ⏱️ 13.02.2026):",
           "children": [],
           "repo_info": {
@@ -6263,7 +6263,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialyzeai/matgl",
           "description": "(👨‍💻 27 · 🔀 120 · 📦 100 · 📋 160 - 2% open · ⏱️ 06.08.2026):",
           "children": [],
           "repo_info": {
@@ -6284,7 +6284,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "atomistic-machine-learning/schnetpack",
           "description": "(👨‍💻 43 · 🔀 250 · 📦 110 · 📋 280 - 1% open · ⏱️ 20.07.2026):",
           "children": [],
           "repo_info": {
@@ -6305,7 +6305,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "e3nn/e3nn-jax",
           "description": "(👨‍💻 8 · 🔀 23 · 📦 98 · 📋 26 - 15% open · ⏱️ 01.04.2026):",
           "children": [],
           "repo_info": {
@@ -6326,7 +6326,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "usnistgov/alignn",
           "description": "(👨‍💻 8 · 🔀 110 · 📋 87 - 67% open · ⏱️ 25.08.2025):",
           "children": [],
           "repo_info": {
@@ -6347,7 +6347,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ORNL/HydraGNN",
           "description": "(👨‍💻 21 · 🔀 46 · 📦 3 · 📋 63 - 38% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -6368,7 +6368,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/Graphormer",
           "description": "(👨‍💻 15 · 🔀 360 · 📋 160 - 58% open · ⏱️ 12.06.2026):",
           "children": [],
           "repo_info": {
@@ -6389,7 +6389,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lanl/hippynn",
           "description": "(👨‍💻 21 · 🔀 38 · 📦 4 · 📋 42 - 33% open · ⏱️ 24.06.2026):",
           "children": [],
           "repo_info": {
@@ -6410,7 +6410,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "NatLabRockies/nfp",
           "description": "(👨‍💻 6 · 🔀 35 · 📋 8 - 25% open · ⏱️ 24.06.2026):",
           "children": [],
           "repo_info": {
@@ -6431,7 +6431,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "FabianFuchsML/se3-transformer-public",
           "description": "(👨‍💻 2 · 🔀 77 · 📋 29 - 37% open · ⏱️ 03.04.2026):",
           "children": [],
           "repo_info": {
@@ -6452,7 +6452,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "masashitsubaki/molecularGNN_smiles",
           "description": "(👨‍💻 1 · 🔀 80 · 📋 7 - 85% open · ⏱️ 25.06.2026):",
           "children": [],
           "repo_info": {
@@ -6473,7 +6473,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "omron-sinicx/crystalframer",
           "description": "(👨‍💻 3 · 🔀 3 · 📥 16 · ⏱️ 16.10.2025):",
           "children": [],
           "repo_info": {
@@ -6494,7 +6494,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "usccolumbia/deeperGATGNN",
           "description": "(👨‍💻 3 · 🔀 8 · ⏱️ 02.02.2026):",
           "children": [],
           "repo_info": {
@@ -7226,7 +7226,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/deepmd-kit",
           "description": "(👨‍💻 89 · 🔀 640 · 📥 76K · 📦 60 · 📋 1.2K - 15% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -7247,7 +7247,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepmodeling/deepmd-kit",
           "description": "(👨‍💻 89 · 🔀 640 · 📥 76K · 📦 60 · 📋 1.2K - 15% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -7268,14 +7268,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "facebookresearch/fairchem",
           "description": "(👨‍💻 72 · 🔀 500 · 📋 600 - 0% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:54Z",
+            "last_commit": "2026-08-24T23:52:22Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2230
@@ -7289,14 +7289,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "facebookresearch/fairchem",
           "description": "(👨‍💻 72 · 🔀 500 · 📋 600 - 0% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:54Z",
+            "last_commit": "2026-08-24T23:52:22Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2230
@@ -7310,7 +7310,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ACEsuit/mace-foundations",
           "description": "(👨‍💻 5 · 🔀 420 · 📥 570K · 📋 43 - 18% open · ⏱️ 12.07.2026):",
           "children": [],
           "repo_info": {
@@ -7320,7 +7320,7 @@
             "last_commit": "2026-07-12T19:05:18Z",
             "owner": "ACEsuit",
             "repo": "mace-foundations",
-            "stars": 295
+            "stars": 296
           }
         }
       ],
@@ -7331,7 +7331,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/mattersim",
           "description": "(👨‍💻 27 · 🔀 93 · 📥 45 · 📋 48 - 10% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -7352,7 +7352,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MDIL-SNU/SevenNet",
           "description": "(👨‍💻 22 · 🔀 57 · 📥 38K · 📋 96 - 18% open · ⏱️ 22.07.2026):",
           "children": [],
           "repo_info": {
@@ -7373,7 +7373,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "orbital-materials/orb-models",
           "description": "(👨‍💻 16 · 🔀 88 · 📦 41 · 📋 80 - 8% open · ⏱️ 07.08.2026):",
           "children": [],
           "repo_info": {
@@ -7394,7 +7394,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CederGroupHub/chgnet",
           "description": "(👨‍💻 13 · 🔀 100 · 📦 79 · 📋 78 - 5% open · ⏱️ 19.02.2026):",
           "children": [],
           "repo_info": {
@@ -7415,7 +7415,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lab-cosmo/upet",
           "description": "(👨‍💻 17 · 🔀 24 · 📥 110 · 📦 12 · 📋 23 - 4% open · ⏱️ 19.08.2026):",
           "children": [],
           "repo_info": {
@@ -7436,7 +7436,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ICAMS/grace-tensorpotential",
           "description": "(👨‍💻 5 · 🔀 18 · 📦 17 · 📋 21 - 66% open · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -7457,7 +7457,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "atomind-ai/mlip-arena",
           "description": "(👨‍💻 3 · 🔀 9 · 📦 2 · 📋 23 - 56% open · ⏱️ 16.06.2026):",
           "children": [],
           "repo_info": {
@@ -7478,7 +7478,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ASK-Berkeley/EScAIP",
           "description": "(👨‍💻 2 · 🔀 6 · 📥 22 · 📋 9 - 22% open · ⏱️ 26.09.2025):",
           "children": [],
           "repo_info": {
@@ -7565,7 +7565,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sissa-data-science/DADApy",
           "description": "(👨‍💻 23 · 🔀 24 · 📋 50 - 32% open · ⏱️ 27.05.2026):",
           "children": [],
           "repo_info": {
@@ -7712,7 +7712,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "materialsproject/crystaltoolkit",
           "description": "(👨‍💻 39 · 🔀 67 · 📦 43 · 📋 150 - 45% open · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
@@ -7733,7 +7733,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "janosh/pymatviz",
           "description": "(👨‍💻 14 · 🔀 43 · 📥 23K · 📦 37 · ⏱️ 18.08.2026):",
           "children": [],
           "repo_info": {
@@ -7754,7 +7754,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "janosh/matterviz",
           "description": "(👨‍💻 10 · 🔀 44 · 📥 13K · 📦 8 · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -7775,7 +7775,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lab-cosmo/chemiscope",
           "description": "(👨‍💻 27 · 🔀 43 · 📥 750 · 📦 6 · 📋 170 - 9% open · ⏱️ 08.08.2026):",
           "children": [],
           "repo_info": {
@@ -7796,7 +7796,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zincware/ZnDraw",
           "description": "(👨‍💻 17 · 🔀 5 · 📦 16 · 📋 400 - 23% open · ⏱️ 27.05.2026):",
           "children": [],
           "repo_info": {
@@ -7817,7 +7817,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "usnistgov/atomvision",
           "description": "(👨‍💻 4 · 🔀 17 · 📦 4 · 📋 9 - 55% open · ⏱️ 25.08.2025):",
           "children": [],
           "repo_info": {
@@ -7838,7 +7838,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deepqmc/deepqmc",
           "description": "(👨‍💻 16 · 🔀 62 · 📥 4 · 📦 3 · 📋 65 - 1% open · ⏱️ 10.08.2026):",
           "children": [],
           "repo_info": {
@@ -7859,7 +7859,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "google-deepmind/ferminet",
           "description": "(👨‍💻 26 · 🔀 170 · 📋 74 - 5% open · ⏱️ 21.05.2026):",
           "children": [],
           "repo_info": {
@@ -7880,7 +7880,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bytedance/jaqmc",
           "description": "(👨‍💻 8 · 🔀 26 · ⏱️ 20.08.2026):",
           "children": [],
           "repo_info": {
@@ -8000,7 +8000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:04:55.528Z",
+    "last_updated": "2026-08-25T06:11:18.304Z",
     "original_repository": "JuDFTteam/best-of-atomistic-machine-learning",
     "original_repository_id": 651692511,
     "original_repository_sha": "07d5a42ec2e20cc2da7b48d53a979af77b6b1059",
