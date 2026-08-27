@@ -75,7 +75,7 @@
             "archived": false,
             "id": 464315033,
             "language": "Python",
-            "last_commit": "2026-08-03T14:03:58Z",
+            "last_commit": "2026-08-27T03:40:58Z",
             "owner": "deepmodeling",
             "repo": "dpgen2",
             "stars": 43
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23729
+            "stars": 23732
           }
         }
       ],
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-21T14:46:04Z",
             "owner": "ddmms",
             "repo": "ml-peg",
-            "stars": 56
+            "stars": 57
           }
         }
       ],
@@ -333,7 +333,7 @@
             "last_commit": "2026-06-23T21:05:43Z",
             "owner": "google-deepmind",
             "repo": "materials_discovery",
-            "stars": 1229
+            "stars": 1230
           }
         }
       ],
@@ -354,7 +354,7 @@
             "last_commit": "2026-06-29T22:57:16Z",
             "owner": "divelab",
             "repo": "AIRS",
-            "stars": 791
+            "stars": 793
           }
         }
       ],
@@ -459,7 +459,7 @@
             "last_commit": "2026-07-17T18:50:47Z",
             "owner": "sedaoturak",
             "repo": "data-resources-for-materials-science",
-            "stars": 456
+            "stars": 457
           }
         }
       ],
@@ -678,7 +678,7 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-25T23:05:40Z",
+            "last_commit": "2026-08-26T21:23:13Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
@@ -699,7 +699,7 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-25T23:05:40Z",
+            "last_commit": "2026-08-26T21:23:13Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
@@ -741,7 +741,7 @@
             "archived": false,
             "id": 27885364,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T22:33:23Z",
+            "last_commit": "2026-08-26T23:23:30Z",
             "owner": "materialsproject",
             "repo": "MPContribs",
             "stars": 40
@@ -807,7 +807,7 @@
             "last_commit": "2026-06-29T22:57:16Z",
             "owner": "divelab",
             "repo": "AIRS",
-            "stars": 791
+            "stars": 793
           }
         }
       ],
@@ -1320,10 +1320,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-26T23:28:07Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38618
+            "stars": 38626
           }
         }
       ],
@@ -1362,7 +1362,7 @@
             "archived": false,
             "id": 235548991,
             "language": "Python",
-            "last_commit": "2026-08-25T16:48:42Z",
+            "last_commit": "2026-08-26T16:39:32Z",
             "owner": "andreagrisafi",
             "repo": "SALTED",
             "stars": 45
@@ -1386,7 +1386,7 @@
             "last_commit": "2026-06-29T22:57:16Z",
             "owner": "divelab",
             "repo": "AIRS",
-            "stars": 791
+            "stars": 793
           }
         }
       ],
@@ -1418,15 +1418,15 @@
       "items": [
         {
           "node_type": "item",
-          "title": "mir-group/CiderPress",
+          "title": "cider-dft/CiderPress",
           "description": "(👨‍💻 3 · 🔀 3 · ⏱️ 07.08.2026):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 790830064,
             "language": "Python",
-            "last_commit": "2026-08-09T13:17:19Z",
-            "owner": "mir-group",
+            "last_commit": "2026-08-26T22:45:43Z",
+            "owner": "cider-dft",
             "repo": "CiderPress",
             "stars": 23
           }
@@ -1509,7 +1509,7 @@
             "archived": false,
             "id": 595799295,
             "language": "Python",
-            "last_commit": "2026-08-22T17:57:02Z",
+            "last_commit": "2026-08-26T14:26:43Z",
             "owner": "StefanoSanvitoGroup",
             "repo": "MLdensity",
             "stars": 8
@@ -1554,7 +1554,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15168
+            "stars": 15169
           }
         },
         {
@@ -2109,7 +2109,7 @@
             "last_commit": "2021-09-17T05:10:37Z",
             "owner": "deepchem",
             "repo": "DeepLearningLifeSciences",
-            "stars": 412
+            "stars": 413
           }
         },
         {
@@ -2541,10 +2541,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-25T10:13:12Z",
+            "last_commit": "2026-08-27T03:32:26Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3563
+            "stars": 3565
           }
         }
       ],
@@ -2565,7 +2565,7 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6960
+            "stars": 6961
           }
         }
       ],
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-20T03:43:17Z",
             "owner": "dralgroup",
             "repo": "mlatom",
-            "stars": 157
+            "stars": 158
           }
         }
       ],
@@ -2688,7 +2688,7 @@
             "archived": false,
             "id": 303491844,
             "language": "Python",
-            "last_commit": "2026-08-03T08:47:48Z",
+            "last_commit": "2026-08-26T12:31:46Z",
             "owner": "scikit-learn-contrib",
             "repo": "scikit-matter",
             "stars": 97
@@ -2733,7 +2733,7 @@
             "last_commit": "2026-06-29T22:57:16Z",
             "owner": "divelab",
             "repo": "AIRS",
-            "stars": 791
+            "stars": 793
           }
         }
       ],
@@ -3039,7 +3039,7 @@
             "last_commit": "2025-08-27T12:50:23Z",
             "owner": "RokasEl",
             "repo": "simgen",
-            "stars": 29
+            "stars": 31
           }
         }
       ],
@@ -3264,7 +3264,7 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-25T23:05:40Z",
+            "last_commit": "2026-08-26T21:23:13Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
@@ -3288,7 +3288,7 @@
             "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
-            "stars": 2018
+            "stars": 2022
           }
         }
       ],
@@ -3309,7 +3309,7 @@
             "last_commit": "2026-08-16T06:50:34Z",
             "owner": "mir-group",
             "repo": "nequip",
-            "stars": 956
+            "stars": 957
           }
         }
       ],
@@ -3372,7 +3372,7 @@
             "last_commit": "2026-08-21T21:37:12Z",
             "owner": "ACEsuit",
             "repo": "mace",
-            "stars": 1323
+            "stars": 1324
           }
         }
       ],
@@ -3432,10 +3432,10 @@
             "archived": false,
             "id": 754081470,
             "language": "Python",
-            "last_commit": "2026-08-07T14:04:59Z",
+            "last_commit": "2026-08-26T19:15:16Z",
             "owner": "stfc",
             "repo": "janus-core",
-            "stars": 50
+            "stars": 51
           }
         }
       ],
@@ -4791,7 +4791,7 @@
             "last_commit": "2024-09-03T15:21:15Z",
             "owner": "CFN-softbio",
             "repo": "SciBot",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -4929,7 +4929,7 @@
             "archived": false,
             "id": 14117740,
             "language": "Python",
-            "last_commit": "2026-08-20T19:29:33Z",
+            "last_commit": "2026-08-26T16:26:26Z",
             "owner": "WMD-group",
             "repo": "SMACT",
             "stars": 141
@@ -4995,7 +4995,7 @@
             "last_commit": "2026-06-23T21:05:43Z",
             "owner": "google-deepmind",
             "repo": "materials_discovery",
-            "stars": 1229
+            "stars": 1230
           }
         }
       ],
@@ -5151,7 +5151,7 @@
             "archived": false,
             "id": 471322163,
             "language": "Python",
-            "last_commit": "2026-08-19T14:44:24Z",
+            "last_commit": "2026-08-27T00:07:25Z",
             "owner": "google-deepmind",
             "repo": "kfac-jax",
             "stars": 329
@@ -5382,7 +5382,7 @@
             "last_commit": "2026-08-18T12:17:06Z",
             "owner": "jax-md",
             "repo": "jax-md",
-            "stars": 1457
+            "stars": 1458
           }
         }
       ],
@@ -5421,7 +5421,7 @@
             "archived": false,
             "id": 97248567,
             "language": "Cuda",
-            "last_commit": "2026-08-25T19:45:28Z",
+            "last_commit": "2026-08-26T18:15:31Z",
             "owner": "brucefan1983",
             "repo": "GPUMD",
             "stars": 827
@@ -6231,7 +6231,7 @@
             "last_commit": "2026-08-24T20:53:29Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24031
+            "stars": 24032
           }
         }
       ],
@@ -6294,7 +6294,7 @@
             "last_commit": "2026-08-25T14:27:59Z",
             "owner": "atomistic-machine-learning",
             "repo": "schnetpack",
-            "stars": 935
+            "stars": 936
           }
         }
       ],
@@ -6354,10 +6354,10 @@
             "archived": false,
             "id": 371569604,
             "language": "Python",
-            "last_commit": "2026-08-24T21:08:44Z",
+            "last_commit": "2026-08-27T03:10:50Z",
             "owner": "ORNL",
             "repo": "HydraGNN",
-            "stars": 124
+            "stars": 125
           }
         }
       ],
@@ -6378,7 +6378,7 @@
             "last_commit": "2026-06-12T20:05:34Z",
             "owner": "microsoft",
             "repo": "Graphormer",
-            "stars": 2473
+            "stars": 2474
           }
         }
       ],
@@ -6525,7 +6525,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14842
+            "stars": 14840
           }
         },
         {
@@ -6540,7 +6540,7 @@
             "last_commit": "2025-07-31T23:53:10Z",
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14282
+            "stars": 14281
           }
         },
         {
@@ -6615,7 +6615,7 @@
             "last_commit": "2021-09-06T05:23:51Z",
             "owner": "txie-93",
             "repo": "cgcnn",
-            "stars": 889
+            "stars": 890
           }
         },
         {
@@ -6645,7 +6645,7 @@
             "last_commit": "2024-10-31T17:00:20Z",
             "owner": "QUVA-Lab",
             "repo": "escnn",
-            "stars": 544
+            "stars": 545
           }
         },
         {
@@ -7236,7 +7236,7 @@
             "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
-            "stars": 2018
+            "stars": 2022
           }
         }
       ],
@@ -7257,7 +7257,7 @@
             "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
-            "stars": 2018
+            "stars": 2022
           }
         }
       ],
@@ -7275,7 +7275,7 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-25T23:05:40Z",
+            "last_commit": "2026-08-26T21:23:13Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
@@ -7296,7 +7296,7 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-25T23:05:40Z",
+            "last_commit": "2026-08-26T21:23:13Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
@@ -7317,7 +7317,7 @@
             "archived": false,
             "id": 741903654,
             "language": "Shell",
-            "last_commit": "2026-07-12T19:05:18Z",
+            "last_commit": "2026-08-26T09:06:04Z",
             "owner": "ACEsuit",
             "repo": "mace-foundations",
             "stars": 296
@@ -7383,7 +7383,7 @@
             "last_commit": "2026-08-07T15:07:14Z",
             "owner": "orbital-materials",
             "repo": "orb-models",
-            "stars": 615
+            "stars": 616
           }
         }
       ],
@@ -7443,7 +7443,7 @@
             "archived": false,
             "id": 856289642,
             "language": "Python",
-            "last_commit": "2026-08-25T13:08:38Z",
+            "last_commit": "2026-08-26T14:26:54Z",
             "owner": "ICAMS",
             "repo": "grace-tensorpotential",
             "stars": 106
@@ -7761,7 +7761,7 @@
             "archived": false,
             "id": 498793280,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T14:19:54Z",
+            "last_commit": "2026-08-26T21:12:26Z",
             "owner": "janosh",
             "repo": "matterviz",
             "stars": 356
@@ -7782,7 +7782,7 @@
             "archived": false,
             "id": 212547680,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T17:49:37Z",
+            "last_commit": "2026-08-26T14:45:47Z",
             "owner": "lab-cosmo",
             "repo": "chemiscope",
             "stars": 183
@@ -7887,7 +7887,7 @@
             "archived": false,
             "id": 560380242,
             "language": "Python",
-            "last_commit": "2026-08-25T10:16:05Z",
+            "last_commit": "2026-08-26T13:37:56Z",
             "owner": "bytedance",
             "repo": "jaqmc",
             "stars": 120
@@ -8000,7 +8000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:10:29.436Z",
+    "last_updated": "2026-08-27T04:04:38.295Z",
     "original_repository": "JuDFTteam/best-of-atomistic-machine-learning",
     "original_repository_id": 651692511,
     "original_repository_sha": "07d5a42ec2e20cc2da7b48d53a979af77b6b1059",
