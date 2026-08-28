@@ -16,7 +16,8 @@
             "owner": "deepmodeling",
             "repo": "dpgen",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DP-GEN (🥇23 · ⭐ 400) - The deep potential generator to generate a deep-learning based model of interatomic potential energy and force field. LGPL-3.0 ML-IAP MD workflows"
@@ -37,7 +38,8 @@
             "owner": "mir-group",
             "repo": "flare",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "FLARE (🥈19 · ⭐ 360 · 💤) - An open-source Python package for creating fast and accurate interatomic potentials. MIT C++ ML-IAP"
@@ -58,7 +60,8 @@
             "owner": "Bin-Cao",
             "repo": "Bgolearn",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Bgolearn (🥈17 · ⭐ 150) - [NPJ Com. Mat.] Offical implement of Bgolearn. MIT materials-discovery probabilistic"
@@ -79,7 +82,8 @@
             "owner": "deepmodeling",
             "repo": "dpgen2",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DP-GEN2 (🥈16 · ⭐ 43) - 2nd generation of the Deep Potential GENerator. LGPL-3.0 ML-IAP MD workflows"
@@ -100,7 +104,8 @@
             "owner": "zincware",
             "repo": "IPSuite",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "IPSuite (🥈16 · ⭐ 25) - A Python toolkit for FAIR development and deployment of machine-learned interatomic potentials. EPL-2.0 ML-IAP MD workflows HTC FAIR"
@@ -121,7 +126,8 @@
             "owner": "ulissigroup",
             "repo": "finetuna",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -136,7 +142,8 @@
             "owner": "mir-group",
             "repo": "flare_pp",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -151,7 +158,8 @@
             "owner": "nec-research",
             "repo": "alebrew",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -166,7 +174,8 @@
             "owner": "ACEsuit",
             "repo": "ACEHAL",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 4 hidden projects..."
@@ -187,7 +196,8 @@
             "owner": "janosh",
             "repo": "matbench-discovery",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatBench Discovery (🥇24 · ⭐ 250) - An evaluation framework for machine learning models simulating high-throughput materials discovery. MIT datasets benchmarking model-repository"
@@ -204,11 +214,12 @@
             "archived": false,
             "id": 317029148,
             "language": null,
-            "last_commit": "2026-08-20T14:14:49Z",
+            "last_commit": "2026-08-27T17:48:15Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23733
-          }
+            "stars": 23734
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Best-of Machine Learning with Python (🥇21 · ⭐ 24K) - A ranked list of awesome machine learning Python libraries. Updated weekly. CC-BY-4.0 general-ml Python"
@@ -229,7 +240,8 @@
             "owner": "openml",
             "repo": "OpenML",
             "stars": 753
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "OpenML (🥇21 · ⭐ 750) - Open Machine Learning. BSD-3 datasets"
@@ -250,7 +262,8 @@
             "owner": "naganandy",
             "repo": "graph-based-deep-learning-literature",
             "stars": 5096
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Graph-based Deep Learning Literature (🥈18 · ⭐ 5.1K) - links to conference publications in graph-based deep learning. MIT general-ml rep-learn"
@@ -271,7 +284,8 @@
             "owner": "ddmms",
             "repo": "ml-peg",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ML-PEG (🥈18 · ⭐ 56) - ML Performance and Extrapolation Guide. GPL-3.0 benchmarking viz datasets structure-optimization MD transport-phenomena biomolecules long-range electrostatics"
@@ -292,7 +306,8 @@
             "owner": "Garden-AI",
             "repo": "garden",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Garden (🥈18 · ⭐ 41) - FAIR AI/ML Model Publishing Framework. MIT model-repository"
@@ -313,7 +328,8 @@
             "owner": "GT4SD",
             "repo": "gt4sd-core",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GT4SD - Generative Toolkit for Scientific Discovery (🥈15 · ⭐ 380) - Gradio apps of generative models in GT4SD. MIT generative pretrained drug-discovery model-repository"
@@ -334,7 +350,8 @@
             "owner": "google-deepmind",
             "repo": "materials_discovery",
             "stars": 1230
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GNoME Explorer (🥈13 · ⭐ 1.2K) - Graph Networks for Materials Exploration Database. Apache-2 datasets materials-discovery"
@@ -355,7 +372,8 @@
             "owner": "divelab",
             "repo": "AIRS",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "AI for Science Resources (🥈13 · ⭐ 790) - List of resources for AI4Science research, including learning resources. GPL-3.0 license"
@@ -376,7 +394,8 @@
             "owner": "blaiszik",
             "repo": "awesome-matchem-datasets",
             "stars": 374
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Awesome Materials & Chemistry Datasets (🥈12 · ⭐ 370) - A curated list of the most useful datasets in materials science and chemistry for training machine learning and AI.. MIT datasets experimental-data literature-data proprietary"
@@ -397,7 +416,8 @@
             "owner": "Eipgen",
             "repo": "Neural-Network-Models-for-Chemistry",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Neural-Network-Models-for-Chemistry (🥈12 · ⭐ 200) - A collection of Neural Network Models for chemistry. MIT rep-learn"
@@ -418,7 +438,8 @@
             "owner": "tilde-lab",
             "repo": "optimade.science",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "optimade.science (🥈11 · ⭐ 10) - A sky-scanner Optimade browser-only GUI. MIT datasets"
@@ -439,7 +460,8 @@
             "owner": "neurreps",
             "repo": "awesome-neural-geometry",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Awesome Neural Geometry (🥉8 · ⭐ 1.1K) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks,.. Unlicensed educational rep-learn"
@@ -460,7 +482,8 @@
             "owner": "sedaoturak",
             "repo": "data-resources-for-materials-science",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "The Collection of Database and Dataset Resources in Materials Science (🥉8 · ⭐ 460) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning.. Unlicensed datasets"
@@ -481,7 +504,8 @@
             "owner": "AI4QC",
             "repo": "AI_for_Science_paper_collection",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "AI for Science paper collection (🥉8 · ⭐ 170 · 💤) - List the AI for Science papers accepted by top conferences. Apache-2"
@@ -502,7 +526,8 @@
             "owner": "smsharma",
             "repo": "awesome-neural-sbi",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Awesome Neural SBI (🥉8 · ⭐ 170 · 💤) - Community-sourced list of papers and resources on neural simulation-based inference. MIT active-learning"
@@ -519,11 +544,12 @@
             "archived": false,
             "id": 712206641,
             "language": null,
-            "last_commit": "2026-08-20T18:09:21Z",
+            "last_commit": "2026-08-27T21:13:13Z",
             "owner": "deepmodeling",
             "repo": "deepmodeling-projects",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeepModeling Projects (🥉8 · ⭐ 8) - DeepModeling projects. CC-BY-4.0"
@@ -544,7 +570,8 @@
             "owner": "kdmsit",
             "repo": "Awesome-Crystal-GNNs",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Awesome-Crystal-GNNs (🥉7 · ⭐ 120) - This repository contains a collection of resources and papers on GNN Models on Crystal Solid State Materials. MIT"
@@ -565,7 +592,8 @@
             "owner": "blaiszik",
             "repo": "ml_publication_charts",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Charting ML Publications in Science (🥉7 · ⭐ 47) - Literature analysis of ML applications in materials science, chemistry, physics. MIT literature-data general-ml"
@@ -586,7 +614,8 @@
             "owner": "yuzhimanhua",
             "repo": "Awesome-Scientific-Language-Models",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -601,7 +630,8 @@
             "owner": "tilde-lab",
             "repo": "awesome-materials-informatics",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -616,7 +646,8 @@
             "owner": "yuanqidu",
             "repo": "awesome-graph-generation",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -631,7 +662,8 @@
             "owner": "materialsproject",
             "repo": "matbench",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -646,7 +678,8 @@
             "owner": "ncfrey",
             "repo": "resources",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -661,7 +694,8 @@
             "owner": "AlexDuvalinho",
             "repo": "geometric-gnns",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 12 hidden projects..."
@@ -678,11 +712,12 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-26T21:23:13Z",
+            "last_commit": "2026-08-27T20:39:55Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "FAIR Chemistry datasets (🥇31 · ⭐ 2.2K · 📉) - Datasets OC20, OC22, etc. Formerly known as Open Catalyst Project. MIT catalysis"
@@ -699,11 +734,12 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-26T21:23:13Z",
+            "last_commit": "2026-08-27T20:39:55Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Meta Open Materials 2024 (OMat24) Dataset (🥇30 · ⭐ 2.2K · 📉) - Contains over 100 million Density Functional Theory calculations focused on structural and compositional diversity. CC-BY-4.0"
@@ -720,11 +756,12 @@
             "archived": false,
             "id": 136234321,
             "language": "Python",
-            "last_commit": "2026-08-09T11:32:42Z",
+            "last_commit": "2026-08-27T17:12:17Z",
             "owner": "Materials-Consortia",
             "repo": "optimade-python-tools",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "OPTIMADE Python tools (🥇24 · ⭐ 91) - Tools for implementing and consuming OPTIMADE APIs in Python. MIT"
@@ -741,11 +778,12 @@
             "archived": false,
             "id": 27885364,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T23:23:30Z",
+            "last_commit": "2026-08-28T00:05:29Z",
             "owner": "materialsproject",
             "repo": "MPContribs",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MPContribs (🥇24 · ⭐ 40) - Platform for materials scientists to contribute and disseminate their materials data through Materials Project. MIT"
@@ -766,7 +804,8 @@
             "owner": "Materials-Consortia",
             "repo": "OPTIMADE",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Open Databases Integration for Materials Design (OPTIMADE) (🥈16 · ⭐ 110) - Specification of a common REST API for access to materials databases. CC-BY-4.0"
@@ -787,7 +826,8 @@
             "owner": "jla-gardner",
             "repo": "load-atoms",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "load-atoms (🥈16 · ⭐ 49 · 💤) - download and manipulate atomistic datasets. MIT data-structures"
@@ -808,7 +848,8 @@
             "owner": "divelab",
             "repo": "AIRS",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "QH9 (🥈13 · ⭐ 790) - A Quantum Hamiltonian Prediction Benchmark. CC-BY-NC-SA-4.0 ML-DFT"
@@ -829,7 +870,8 @@
             "owner": "AIRI-Institute",
             "repo": "nablaDFT",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "nablaDFT (🥈12 · ⭐ 240 · 💤) - nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset. MIT ML-DFT ML-WFT drug-discovery ML-IAP benchmarking"
@@ -850,7 +892,8 @@
             "owner": "materialyzeai",
             "repo": "matpes",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatPES (🥈12 · ⭐ 58) - A foundational potential energy dataset for materials. BSD-3 UIP ML-IAP"
@@ -871,7 +914,8 @@
             "owner": "mpds-io",
             "repo": "mpds-api",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MPDS API (🥈12 · ⭐ 27 · 💤) - Tutorials, notebooks, issue tracker, and website on the MPDS API: the data retrieval interface for the Materials.. CC-BY-4.0 phase-transition"
@@ -892,7 +936,8 @@
             "owner": "openmm",
             "repo": "spice-dataset",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SPICE (🥈11 · ⭐ 200) - A collection of QM data for training potential functions. MIT ML-IAP MD"
@@ -913,7 +958,8 @@
             "owner": "openkim",
             "repo": "kim-api",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "OpenKIM (🥈11 · ⭐ 38) - The Open Knowledgebase of Interatomic Models (OpenKIM) aims to be an online resource for standardized testing, long-.. LGPL-2.1 model-repository knowledge-base pretrained"
@@ -934,7 +980,8 @@
             "owner": "deepmodeling",
             "repo": "AIS-Square",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "AIS Square (🥉10 · ⭐ 15) - A collaborative and open-source platform for sharing AI for Science datasets, models, and workflows. Home of the.. LGPL-3.0 community-resource model-repository"
@@ -955,7 +1002,8 @@
             "owner": "NRC-Mila",
             "repo": "OBELiX",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "OBELiX (🥉9 · ⭐ 61 · 💤) - A Curated Dataset of Crystal Structures and Experimentally Measured Ionic Conductivities for Lithium Solid-State.. CC-BY-4.0 experimental-data transport-phenomena"
@@ -976,7 +1024,8 @@
             "owner": "Ramprasad-Group",
             "repo": "polyVERSE",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "polyVERSE (🥉9 · ⭐ 41) - polyVERSE is a comprehensive repository of informatics-ready datasets curated by the Ramprasad Group. Custom soft-matter"
@@ -997,7 +1046,8 @@
             "owner": "Jesperkemist",
             "repo": "perovskitedatabase",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "The Perovskite Database Project (🥉5 · ⭐ 74) - Perovskite Database Project aims at making all perovskite device data, both past and future, available in a form.. Unlicensed community-resource"
@@ -1018,7 +1068,8 @@
             "owner": "aimat-lab",
             "repo": "visual_graph_datasets",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Visual Graph Datasets (🥉5 · ⭐ 5) - Datasets for the training of graph neural networks (GNNs) and subsequent visualization of attributional explanations.. MIT XAI rep-learn"
@@ -1039,7 +1090,8 @@
             "owner": "drorlab",
             "repo": "atom3d",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1106,8 @@
             "owner": "learningmatter-mit",
             "repo": "geom",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1122,8 @@
             "owner": "deepchem",
             "repo": "moleculenet",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1138,8 @@
             "owner": "isayev",
             "repo": "ANI1_dataset",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1154,8 @@
             "owner": "aiqm",
             "repo": "ANI1x_datasets",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1170,8 @@
             "owner": "isayev",
             "repo": "COMP6",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1186,8 @@
             "owner": "aimat-lab",
             "repo": "3DSC",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1202,8 @@
             "owner": "drcassar",
             "repo": "SciGlass",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1218,8 @@
             "owner": "ulissigroup",
             "repo": "tmQM_wB97MV",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1234,8 @@
             "owner": "ORNL",
             "repo": "Analysis-of-Large-Scale-Molecular-Datasets-with-Python",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1250,8 @@
             "owner": "mathsphy",
             "repo": "paper-data-redundancy",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1266,8 @@
             "owner": "HSE-LAMBDA",
             "repo": "ai4material_design",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1282,8 @@
             "owner": "BingqingCheng",
             "repo": "linear-regression-benchmarks",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 17 hidden projects..."
@@ -1240,7 +1304,8 @@
             "owner": "deepmodeling",
             "repo": "dpdata",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "dpdata (🥇29 · ⭐ 250 · 📈) - A Python package for manipulating atomistic data of software in computational science. LGPL-3.0"
@@ -1261,7 +1326,8 @@
             "owner": "metatensor",
             "repo": "metatensor",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Metatensor (🥈24 · ⭐ 110) - Self-describing sparse tensor data format for atomistic machine learning and beyond. BSD-3 ML-IAP MD Rust C-lang C++ Python"
@@ -1278,11 +1344,12 @@
             "archived": false,
             "id": 266894456,
             "language": "Python",
-            "last_commit": "2026-08-14T01:46:27Z",
+            "last_commit": "2026-08-28T02:55:40Z",
             "owner": "materialsproject",
             "repo": "pyrho",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "mp-pyrho (🥉18 · ⭐ 43 · 📈) - Tools for re-griding volumetric quantum chemistry data for machine-learning purposes. Custom ML-DFT"
@@ -1303,7 +1370,8 @@
             "owner": "dmlc",
             "repo": "dlpack",
             "stars": 1242
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "dlpack (🥉17 · ⭐ 1.2K) - common in-memory tensor structure. Apache-2 C++"
@@ -1323,8 +1391,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
-          }
+            "stars": 38635
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "JAX-DFT (🥇26 · ⭐ 39K) - This library provides basic building blocks that can construct DFT calculations as a differentiable program. Apache-2"
@@ -1345,7 +1414,8 @@
             "owner": "mala-project",
             "repo": "mala",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MALA (🥇16 · ⭐ 100 · 💤) - Materials Learning Algorithms. A framework for machine learning materials properties from first-principles data. BSD-3"
@@ -1362,11 +1432,12 @@
             "archived": false,
             "id": 235548991,
             "language": "Python",
-            "last_commit": "2026-08-26T16:39:32Z",
+            "last_commit": "2026-08-27T21:15:39Z",
             "owner": "andreagrisafi",
             "repo": "SALTED",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SALTED (🥇15 · ⭐ 45) - Symmetry-Adapted Learning of Three-dimensional Electron Densities (and their electrostatic response). GPL-3.0"
@@ -1387,7 +1458,8 @@
             "owner": "divelab",
             "repo": "AIRS",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "QHNet (🥈13 · ⭐ 790) - Artificial Intelligence Research for Science (AIRS). GPL-3.0 rep-learn"
@@ -1404,11 +1476,12 @@
             "archived": false,
             "id": 666399334,
             "language": "C",
-            "last_commit": "2026-07-27T11:15:31Z",
+            "last_commit": "2026-08-27T14:46:43Z",
             "owner": "QuantumLab-ZY",
             "repo": "HamGNN",
-            "stars": 220
-          }
+            "stars": 221
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "HamGNN (🥈13 · ⭐ 220) - An E(3) equivariant Graph Neural Network for predicting electronic Hamiltonian matrix. GPL-3.0 rep-learn magnetism C-lang"
@@ -1425,11 +1498,12 @@
             "archived": false,
             "id": 790830064,
             "language": "Python",
-            "last_commit": "2026-08-26T22:45:43Z",
+            "last_commit": "2026-08-27T18:07:08Z",
             "owner": "cider-dft",
             "repo": "CiderPress",
-            "stars": 23
-          }
+            "stars": 25
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "CiderPress (🥈13 · ⭐ 23) - A high-performance software package for training and evaluating machine-learned XC functionals using the CIDER.. GPL-3.0 ml-functional C-lang"
@@ -1450,7 +1524,8 @@
             "owner": "lcmd-epfl",
             "repo": "Q-stack",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Q-stack (🥈13 · ⭐ 20) - Stack of codes for dedicated pre- and post-processing tasks for Quantum Machine Learning (QML). MIT excited-states general-tool"
@@ -1471,7 +1546,8 @@
             "owner": "ACEsuit",
             "repo": "ACEhamiltonians.jl",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ACEhamiltonians (🥈9 · ⭐ 17 · 💤) - Provides tools for constructing, fitting, and predicting self-consistent Hamiltonian and overlap matrices in solid-.. MIT Julia"
@@ -1492,7 +1568,8 @@
             "owner": "deepmodeling",
             "repo": "dftio",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "dftio (🥈8 · ⭐ 16 · 💤) - dftio is to assist machine learning communities to transcript DFT output into a format that is easy to read or used by.. LGPL-3.0 data-structures workflows"
@@ -1513,7 +1590,8 @@
             "owner": "StefanoSanvitoGroup",
             "repo": "MLdensity",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MLDensity (🥈8 · ⭐ 8) - Linear Jacobi-Legendre expansion of the charge density for machine learning-accelerated electronic structure.. Unlicensed"
@@ -1534,7 +1612,8 @@
             "owner": "Xiaoxun-Gong",
             "repo": "DeepH-E3",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeepH-E3 (🥉7 · ⭐ 120 · 💤) - General framework for E(3)-equivariant neural network representation of density functional theory Hamiltonian. MIT magnetism"
@@ -1555,7 +1634,8 @@
             "owner": "google-deepmind",
             "repo": "deepmind-research",
             "stars": 15170
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1650,8 @@
             "owner": "mzjb",
             "repo": "DeepH-pack",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1666,8 @@
             "owner": "deepmodeling",
             "repo": "deepks-kit",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1682,8 @@
             "owner": "XanaduAI",
             "repo": "GradDFT",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1698,8 @@
             "owner": "peterbjorgensen",
             "repo": "DeepDFT",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1714,8 @@
             "owner": "AIforGreatGood",
             "repo": "charge3net",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1730,8 @@
             "owner": "biklooost",
             "repo": "PROPhet",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1746,8 @@
             "owner": "kyonofx",
             "repo": "scdp",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1762,8 @@
             "owner": "mzjb",
             "repo": "xDeepH",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1778,8 @@
             "owner": "semodi",
             "repo": "neuralxc",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1794,8 @@
             "owner": "gomes-lab",
             "repo": "Mat2Spec",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1810,8 @@
             "owner": "MihailBogojeski",
             "repo": "ml-dft",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1735,7 +1826,8 @@
             "owner": "semodi",
             "repo": "libnxc",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1750,7 +1842,8 @@
             "owner": "ccr-cheng",
             "repo": "InfGCN-pytorch",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1765,7 +1858,8 @@
             "owner": "ulissigroup",
             "repo": "charge-density-models",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1780,7 +1874,8 @@
             "owner": "ChemAI-Lab",
             "repo": "ofdft_nflows",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1795,7 +1890,8 @@
             "owner": "brunocuevas",
             "repo": "a3md",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1810,7 +1906,8 @@
             "owner": "siddarthachar",
             "repo": "deepcdp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1825,7 +1922,8 @@
             "owner": "emotionor",
             "repo": "APET",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1840,7 +1938,8 @@
             "owner": "pedersor",
             "repo": "ksr_dft",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1855,7 +1954,8 @@
             "owner": "m-stack-org",
             "repo": "rho_learn",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1870,7 +1970,8 @@
             "owner": "foxjas",
             "repo": "CSNN",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1885,7 +1986,8 @@
             "owner": "lab-cosmo",
             "repo": "rholearn",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2002,8 @@
             "owner": "mala-project",
             "repo": "malada",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 26 hidden projects..."
@@ -1921,7 +2024,8 @@
             "owner": "lab-cosmo",
             "repo": "atomistic-cookbook",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "COSMO Software Cookbook (🥇14 · ⭐ 54) - A collection of simulation recipes for the atomic-scale modeling of materials and molecules. BSD-3"
@@ -1942,7 +2046,8 @@
             "owner": "chaitjo",
             "repo": "geometric-gnn-dojo",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Geometric GNN Dojo (🥇12 · ⭐ 520 · 💤) - New to geometric GNNs: try our practical notebook, prepared for MPhil students at the University of Cambridge. MIT rep-learn"
@@ -1963,7 +2068,8 @@
             "owner": "whitead",
             "repo": "dmol-book",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Deep Learning for Molecules and Materials Book (🥈11 · ⭐ 750) - Deep learning for molecules and materials book. Custom"
@@ -1984,7 +2090,8 @@
             "owner": "schwallergroup",
             "repo": "ai4chem_course",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "AI4Chemistry course (🥈11 · ⭐ 290) - EPFL AI for chemistry course, Spring 2023. https://schwallergroup.github.io/ai4chem_course. MIT chemistry"
@@ -2005,7 +2112,8 @@
             "owner": "GDS-Education-Community-of-Practice",
             "repo": "DSECOP",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DSECOP (🥈9 · ⭐ 55) - This repository contains data science educational materials developed by DSECOP Fellows. CCO-1.0"
@@ -2026,7 +2134,8 @@
             "owner": "ceriottm",
             "repo": "iam-notebooks",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "iam-notebooks (🥈9 · ⭐ 38) - Jupyter notebooks for the lectures of the Introduction to Atomistic Modeling. Apache-2"
@@ -2047,7 +2156,8 @@
             "owner": "aronwalsh",
             "repo": "MLforMaterials",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MLforMaterials (🥈8 · ⭐ 160) - Online resource for a practical course in machine learning for materials research at Imperial College London.. MIT community-resource general-ml rep-eng materials-discovery"
@@ -2068,7 +2178,8 @@
             "owner": "ACEsuit",
             "repo": "mace-tutorials",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MACE-tutorials (🥉6 · ⭐ 71 · 💤) - Another set of tutorials for the MACE interatomic potential by one of the authors. MIT ML-IAP rep-learn MD"
@@ -2089,7 +2200,8 @@
             "owner": "deepmodeling",
             "repo": "tutorials",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeepModeling Tutorials (🥉6 · ⭐ 17) - Tutorials for DeepModeling projects. Unlicensed"
@@ -2110,7 +2222,8 @@
             "owner": "deepchem",
             "repo": "DeepLearningLifeSciences",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2238,8 @@
             "owner": "rdkit",
             "repo": "rdkit-tutorials",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2254,8 @@
             "owner": "argonne-lcf",
             "repo": "ai-science-training-series",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2270,8 @@
             "owner": "anthony-wang",
             "repo": "BestPractices",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2286,8 @@
             "owner": "deepmodeling",
             "repo": "AI4Science101",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2302,8 @@
             "owner": "JARVIS-Materials-Design",
             "repo": "jarvis-tools-notebooks",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2318,8 @@
             "owner": "BingqingCheng",
             "repo": "ML-in-chemistry-101",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2215,7 +2334,8 @@
             "owner": "WardLT",
             "repo": "applied-ai-for-materials",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2350,8 @@
             "owner": "CompPhysVienna",
             "repo": "MLSummerSchoolVienna2022",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2366,8 @@
             "owner": "Materials-Consortia",
             "repo": "optimade-tutorial-exercises",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2382,8 @@
             "owner": "ulissigroup",
             "repo": "ml_catalysis_tutorials",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2398,8 @@
             "owner": "bfocassio",
             "repo": "MLDensity_tutorial",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2414,8 @@
             "owner": "gabor1",
             "repo": "chemrev-gpr",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2430,8 @@
             "owner": "Teoroo-CMC",
             "repo": "DoE_Course_Material",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2320,7 +2446,8 @@
             "owner": "victorprincipe",
             "repo": "pair_potentials",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2462,8 @@
             "owner": "Teoroo-CMC",
             "repo": "PiNN_lab",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2350,7 +2478,8 @@
             "owner": "mala-project",
             "repo": "mala_tutorial",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2494,8 @@
             "owner": "aimat-lab",
             "repo": "MAChINE",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2380,7 +2510,8 @@
             "owner": "ai4chemmat",
             "repo": "ai4chemmat.github.io",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 20 hidden projects..."
@@ -2401,7 +2532,8 @@
             "owner": "aimat-lab",
             "repo": "graph_attention_student",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MEGAN: Multi Explanation Graph Attention Student (🥈9 · ⭐ 12) - Minimal implementation of graph attention student model architecture. MIT rep-learn"
@@ -2422,7 +2554,8 @@
             "owner": "ur-whitelab",
             "repo": "exmol",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2437,7 +2570,8 @@
             "owner": "CitrineInformatics-ERD-public",
             "repo": "linear-vs-blackbox",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2452,7 +2586,8 @@
             "owner": "kwang3939",
             "repo": "XElemNet",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -2473,7 +2608,8 @@
             "owner": "deepmodeling",
             "repo": "DeePTB",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeePTB (🥇17 · ⭐ 120) - DeePTB: A deep learning package for tight-binding Hamiltonian with ab initio accuracy. LGPL-3.0 ML-DFT"
@@ -2494,7 +2630,8 @@
             "owner": "masashitsubaki",
             "repo": "QuantumDeepField_molecule",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2509,7 +2646,8 @@
             "owner": "muhrin",
             "repo": "e3psi",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2524,7 +2662,8 @@
             "owner": "ecignoni",
             "repo": "halex",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 5 hidden projects..."
@@ -2541,11 +2680,12 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-27T03:32:26Z",
+            "last_commit": "2026-08-28T02:56:45Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3565
-          }
+            "stars": 3567
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "RDKit (🥇39 · ⭐ 3.6K) - BSD-3 C++ cheminformatics"
@@ -2565,8 +2705,9 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6962
-          }
+            "stars": 6964
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeepChem (🥇34 · ⭐ 7K) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology. MIT"
@@ -2587,7 +2728,8 @@
             "owner": "hackingmaterials",
             "repo": "matminer",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Matminer (🥇28 · ⭐ 610) - Data mining for materials science. Custom"
@@ -2608,7 +2750,8 @@
             "owner": "libAtoms",
             "repo": "QUIP",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "QUIP (🥈26 · ⭐ 400) - libAtoms/QUIP molecular dynamics framework: https://libatoms.github.io. GPL-2.0 MD ML-IAP rep-eng Fortran"
@@ -2629,7 +2772,8 @@
             "owner": "usnistgov",
             "repo": "jarvis",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "JARVIS-Tools (🥈24 · ⭐ 390 · 💤) - About JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications:.. Custom"
@@ -2650,7 +2794,8 @@
             "owner": "materialyzeai",
             "repo": "maml",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MAML (🥈21 · ⭐ 470) - Python for Materials Machine Learning, Materials Descriptors, Machine Learning Force Fields, Deep Learning, etc. BSD-3"
@@ -2671,7 +2816,8 @@
             "owner": "dralgroup",
             "repo": "mlatom",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MLatom (🥈19 · ⭐ 160) - AI-enhanced computational chemistry. MIT UIP ML-IAP MD ML-DFT ML-ESM transfer-learning active-learning spectroscopy structure-optimization"
@@ -2688,11 +2834,12 @@
             "archived": false,
             "id": 303491844,
             "language": "Python",
-            "last_commit": "2026-08-27T11:06:32Z",
+            "last_commit": "2026-08-27T13:16:48Z",
             "owner": "scikit-learn-contrib",
             "repo": "scikit-matter",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Scikit-Matter (🥈18 · ⭐ 97) - A collection of scikit-learn compatible utilities that implement methods born out of the materials science and.. BSD-3 scikit-learn"
@@ -2713,7 +2860,8 @@
             "owner": "uw-cmg",
             "repo": "MAST-ML",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MAST-ML (🥉14 · ⭐ 130 · 💤) - MAterials Simulation Toolkit for Machine Learning (MAST-ML). MIT"
@@ -2734,7 +2882,8 @@
             "owner": "divelab",
             "repo": "AIRS",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Artificial Intelligence for Science (AIRS) (🥉13 · ⭐ 790) - Artificial Intelligence Research for Science (AIRS). GPL-3.0 license rep-learn generative ML-IAP MD ML-DFT ML-WFT biomolecules"
@@ -2755,7 +2904,8 @@
             "owner": "Mariewelt",
             "repo": "OpenChem",
             "stars": 753
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2770,7 +2920,8 @@
             "owner": "datamol-io",
             "repo": "molfeat",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2785,7 +2936,8 @@
             "owner": "pycroscopy",
             "repo": "atomai",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2800,7 +2952,8 @@
             "owner": "qmlcode",
             "repo": "qml",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2815,7 +2968,8 @@
             "owner": "hackingmaterials",
             "repo": "automatminer",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2830,7 +2984,8 @@
             "owner": "yoshida-lab",
             "repo": "XenonPy",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2845,7 +3000,8 @@
             "owner": "deepchem",
             "repo": "jaxchem",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2860,7 +3016,8 @@
             "owner": "ulissigroup",
             "repo": "amptorch",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2875,7 +3032,8 @@
             "owner": "ulissigroup",
             "repo": "uncertainty_benchmarking",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2890,7 +3048,8 @@
             "owner": "deepchem",
             "repo": "torchchem",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2905,7 +3064,8 @@
             "owner": "lab-cosmo",
             "repo": "equisolve",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2920,7 +3080,8 @@
             "owner": "hgheiberger",
             "repo": "quantum-structure-ml",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -2935,7 +3096,8 @@
             "owner": "ACEsuit",
             "repo": "ACEatoms.jl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 14 hidden projects..."
@@ -2956,7 +3118,8 @@
             "owner": "GT4SD",
             "repo": "gt4sd-core",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GT4SD (🥇17 · ⭐ 380 · 📈) - GT4SD, an open-source library to accelerate hypothesis generation in the scientific discovery process. MIT pretrained drug-discovery rep-learn"
@@ -2977,7 +3140,8 @@
             "owner": "hspark1212",
             "repo": "MOFTransformer",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PMTransformer (🥇14 · ⭐ 120) - Universal Transfer Learning in Porous Materials, including MOFs. MIT transfer-learning pretrained transformer"
@@ -2998,7 +3162,8 @@
             "owner": "xiaohang007",
             "repo": "SLICES",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SLICES and MatterGPT (🥈11 · ⭐ 140) - SLICES: An Invertible, Invariant, and String-based Crystal Representation [2023, Nature Communications] MatterGPT,.. LGPL-2.1 rep-eng language-models transformer materials-discovery structure-prediction"
@@ -3019,7 +3184,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "schnetpack-gschnet",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SchNetPack G-SchNet (🥈11 · ⭐ 64 · 💤) - G-SchNet extension for SchNetPack. MIT"
@@ -3040,7 +3206,8 @@
             "owner": "RokasEl",
             "repo": "simgen",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SiMGen (🥈10 · ⭐ 29 · 💤) - Zero Shot Molecular Generation via Similarity Kernels. MIT viz"
@@ -3061,7 +3228,8 @@
             "owner": "LigandPro",
             "repo": "Matcha",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Matcha (🥉5 · ⭐ 33) - Multi-stage Riemannian flow matching for physically valid molecular docking, with GNINA scoring, PoseBusters.. Unlicensed drug-discovery cheminformatics rep-learn benchmarking"
@@ -3082,7 +3250,8 @@
             "owner": "ehoogeboom",
             "repo": "e3_diffusion_for_molecules",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3097,7 +3266,8 @@
             "owner": "microsoft",
             "repo": "molecule-generation",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3112,7 +3282,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "G-SchNet",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3127,7 +3298,8 @@
             "owner": "terraytherapeutics",
             "repo": "COATI",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3142,7 +3314,8 @@
             "owner": "aksub99",
             "repo": "molecular-vae",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3157,7 +3330,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "cG-SchNet",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3172,7 +3346,8 @@
             "owner": "whitead",
             "repo": "synspace",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3187,7 +3362,8 @@
             "owner": "tsudalab",
             "repo": "bVAE-IM",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3202,7 +3378,8 @@
             "owner": "tsudalab",
             "repo": "rxngenerator",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3217,7 +3394,8 @@
             "owner": "tsudalab",
             "repo": "MolSLEPA",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3232,7 +3410,8 @@
             "owner": "arnoldjulian",
             "repo": "Mapping-out-phase-diagrams-with-generative-classifiers",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3247,7 +3426,8 @@
             "owner": "m-cobelli",
             "repo": "descriptors-inversion",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 12 hidden projects..."
@@ -3264,11 +3444,12 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-26T21:23:13Z",
+            "last_commit": "2026-08-27T20:39:55Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "fairchem (🥇31 · ⭐ 2.2K · 📉) - FAIR Chemistrys library of machine learning methods for chemistry. Formerly known as Open Catalyst Project. MIT pretrained UIP rep-learn catalysis"
@@ -3288,8 +3469,9 @@
             "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
-            "stars": 2022
-          }
+            "stars": 2024
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeePMD-kit (🥇31 · ⭐ 2K) - A deep learning package for many-body potential energy representation and molecular dynamics. LGPL-3.0 MD workflows C++"
@@ -3310,7 +3492,8 @@
             "owner": "mir-group",
             "repo": "nequip",
             "stars": 957
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "NequIP (🥇28 · ⭐ 950) - NequIP is a code for building E(3)-equivariant interatomic potentials. MIT"
@@ -3331,7 +3514,8 @@
             "owner": "aiqm",
             "repo": "torchani",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "TorchANI (🥇26 · ⭐ 550) - TorchANI 2.0 is an open-source library that supports training, development, and research of ANI-style neural network.. MIT"
@@ -3352,7 +3536,8 @@
             "owner": "materialyzeai",
             "repo": "matcalc",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatCalc (🥇25 · ⭐ 150) - A python library for calculating materials properties from the PES. BSD-3 workflows benchmarking UIP pretrained model-repository"
@@ -3372,8 +3557,9 @@
             "last_commit": "2026-08-27T10:20:42Z",
             "owner": "ACEsuit",
             "repo": "mace",
-            "stars": 1325
-          }
+            "stars": 1327
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MACE (🥇24 · ⭐ 1.3K) - MACE - Fast and accurate machine learning interatomic potentials with higher order equivariant message passing. MIT"
@@ -3394,7 +3580,8 @@
             "owner": "metatensor",
             "repo": "metatrain",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Metatrain (🥇23 · ⭐ 77) - Train, fine-tune, and manipulate machine learning models for atomistic systems. BSD-3 workflows benchmarking rep-eng rep-learn"
@@ -3415,7 +3602,8 @@
             "owner": "torchmd",
             "repo": "torchmd-net",
             "stars": 482
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "TorchMD-NET (🥇20 · ⭐ 480) - Training neural network potentials. MIT MD rep-learn transformer pretrained"
@@ -3436,7 +3624,8 @@
             "owner": "stfc",
             "repo": "janus-core",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "janus-core (🥇20 · ⭐ 50) - Tools for machine learnt interatomic potentials. BSD-3 benchmarking workflows structure-optimization MD transport-phenomena"
@@ -3457,7 +3646,8 @@
             "owner": "autoatml",
             "repo": "autoplex",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Autoplex (🥈18 · ⭐ 160 · 📈) - Code for automated fitting of machine learned interatomic potentials. GPL-3.0 benchmarking workflows"
@@ -3478,7 +3668,8 @@
             "owner": "openkim",
             "repo": "kliff",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "KLIFF (🥈18 · ⭐ 40) - KIM-based Learning-Integrated Fitting Framework for interatomic potentials. LGPL-2.1 probabilistic workflows"
@@ -3499,7 +3690,8 @@
             "owner": "apax-hub",
             "repo": "apax",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "apax (🥈17 · ⭐ 37) - A flexible and performant framework for training machine learning potentials. MIT"
@@ -3520,7 +3712,8 @@
             "owner": "openmm",
             "repo": "NNPOps",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "NNPOps (🥈16 · ⭐ 100) - High-performance operations for neural network potentials. MIT MD C++"
@@ -3541,7 +3734,8 @@
             "owner": "libAtoms",
             "repo": "workflow",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "wfl (🥈16 · ⭐ 43) - Workflow is a Python toolkit for building interatomic potential creation and atomistic simulation workflows. GPL-2.0 workflows HTC"
@@ -3562,7 +3756,8 @@
             "owner": "mir-group",
             "repo": "allegro",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Allegro (🥈15 · ⭐ 500) - Allegro is a code for building highly scalable E(3)-equivariant interatomic potentials. MIT"
@@ -3583,7 +3778,8 @@
             "owner": "learningmatter-mit",
             "repo": "NeuralForceField",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Neural Force Field (🥈15 · ⭐ 290) - Neural Network Force Field based on PyTorch. MIT pretrained"
@@ -3604,7 +3800,8 @@
             "owner": "vldgroup",
             "repo": "graph-pes",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Graph-PES (🥈15 · ⭐ 130) - train and use graph-based ML models of potential energy surfaces. MIT rep-learn UIP MD pretrained"
@@ -3625,7 +3822,8 @@
             "owner": "basf",
             "repo": "mlipx",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MLIPX - Machine-Learned Interatomic Potential eXploration (🥈15 · ⭐ 110 · 💤) - Machine-Learned Interatomic Potential eXploration (mlipx) is designed at BASF for evaluating machine-learned.. MIT benchmarking viz workflows"
@@ -3646,7 +3844,8 @@
             "owner": "stfc",
             "repo": "aiida-mlip",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "aiida-mlip (🥈14 · ⭐ 26) - machine learning interatomic potentials aiida plugin. BSD-3 workflows structure-optimization MD"
@@ -3667,7 +3866,8 @@
             "owner": "Teoroo-CMC",
             "repo": "PiNN",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PiNN (🥈12 · ⭐ 130) - A Python library for building atomic neural networks. BSD-3"
@@ -3684,11 +3884,12 @@
             "archived": false,
             "id": 429776445,
             "language": "C++",
-            "last_commit": "2026-06-05T14:44:44Z",
+            "last_commit": "2026-08-27T18:56:54Z",
             "owner": "ICAMS",
             "repo": "python-ace",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Pacemaker (🥈12 · ⭐ 110) - Python package for fitting atomic cluster expansion (ACE) potentials. Custom"
@@ -3709,7 +3910,8 @@
             "owner": "ACEsuit",
             "repo": "mace-jax",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MACE-Jax (🥈12 · ⭐ 110) - Equivariant machine learning interatomic potentials in JAX. MIT"
@@ -3730,7 +3932,8 @@
             "owner": "MMunibas",
             "repo": "Asparagus",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Asparagus (🥈12 · ⭐ 13) - Program Package for Sampling, Training and Applying ML-based Potential models https://doi.org/10.48550/arXiv.2407.15175. MIT workflows sampling MD"
@@ -3751,7 +3954,8 @@
             "owner": "TinkerTools",
             "repo": "tinker-hp",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "tinker-hp (🥉11 · ⭐ 100) - Tinker-HP: High-Performance Massively Parallel Tinker for CPUs & GPUs. Custom"
@@ -3772,7 +3976,8 @@
             "owner": "deepmodeling",
             "repo": "deepmd-gnn",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeepMD-GNN (🥉11 · ⭐ 56) - DeePMD-kit plugin for various graph neural network models. LGPL-3.0 rep-learn MD UIP C++"
@@ -3793,7 +3998,8 @@
             "owner": "mcaroba",
             "repo": "turbogap",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "TurboGAP (🥉11 · ⭐ 21) - The TurboGAP code. Custom Fortran"
@@ -3814,7 +4020,8 @@
             "owner": "bigd4",
             "repo": "PyNEP",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PyNEP (🥉9 · ⭐ 73 · 💤) - A python interface of the machine learning potential NEP used in GPUMD. MIT"
@@ -3835,7 +4042,8 @@
             "owner": "libAtoms",
             "repo": "GAP",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GAP (🥉9 · ⭐ 48) - Gaussian Approximation Potential (GAP). Custom"
@@ -3852,11 +4060,12 @@
             "archived": false,
             "id": 585338324,
             "language": "Python",
-            "last_commit": "2026-08-20T16:13:11Z",
+            "last_commit": "2026-08-27T15:03:12Z",
             "owner": "lanl",
             "repo": "ALF",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ALF (🥉9 · ⭐ 45) - An open-source active learning framework for training machine-learned interatomic potentials. Custom active-learning"
@@ -3877,7 +4086,8 @@
             "owner": "ACEsuit",
             "repo": "ACEfit.jl",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ACEfit (🥉9 · ⭐ 8) - MIT Julia"
@@ -3898,7 +4108,8 @@
             "owner": "atomicarchitects",
             "repo": "equiformer_v2",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "EquiformerV2 (🥉8 · ⭐ 350) - [ICLR 2024] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations. MIT pretrained UIP rep-learn"
@@ -3915,11 +4126,12 @@
             "archived": false,
             "id": 488308498,
             "language": "Python",
-            "last_commit": "2026-08-23T17:41:53Z",
+            "last_commit": "2026-08-27T17:01:48Z",
             "owner": "RowleyGroup",
             "repo": "MLXDM",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MLXDM (🥉7 · ⭐ 9) - A Neural Network Potential with Rigorous Treatment of Long-Range Dispersion https://doi.org/10.1039/D2DD00150K. MIT long-range"
@@ -3940,7 +4152,8 @@
             "owner": "materialyzeai",
             "repo": "matml",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatML (🥉5 · ⭐ 9) - Full MatML Docker image, including MatGL, MatCalc, MatPES and LAMMPS with ML-GNNP and ML-SNAP. BSD-3 MD UIP rep-learn pretrained"
@@ -3961,7 +4174,8 @@
             "owner": "materialyzeai",
             "repo": "megnet",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3976,7 +4190,8 @@
             "owner": "gasteigerjo",
             "repo": "dimenet",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -3991,7 +4206,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "SchNet",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4006,7 +4222,8 @@
             "owner": "jparkhill",
             "repo": "TensorMol",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4021,7 +4238,8 @@
             "owner": "CompPhysVienna",
             "repo": "n2p2",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4036,7 +4254,8 @@
             "owner": "isayev",
             "repo": "ASE_ANI",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4051,7 +4270,8 @@
             "owner": "TUM-DAML",
             "repo": "gemnet_pytorch",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4066,7 +4286,8 @@
             "owner": "stefanch",
             "repo": "sGDML",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4080,8 +4301,9 @@
             "last_commit": "2025-06-02T15:46:31Z",
             "owner": "thorben-frank",
             "repo": "mlff",
-            "stars": 137
-          }
+            "stars": 138
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4096,7 +4318,8 @@
             "owner": "MMunibas",
             "repo": "PhysNet",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4111,7 +4334,8 @@
             "owner": "aiqm",
             "repo": "aimnet",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4126,7 +4350,8 @@
             "owner": "MaterSim",
             "repo": "PyXtal_FF",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4141,7 +4366,8 @@
             "owner": "uf3",
             "repo": "uf3",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4156,7 +4382,8 @@
             "owner": "ACEsuit",
             "repo": "ACE.jl",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4171,7 +4398,8 @@
             "owner": "MDIL-SNU",
             "repo": "SIMPLE-NN",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4186,7 +4414,8 @@
             "owner": "MDIL-SNU",
             "repo": "SIMPLE-NN_v2",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4201,7 +4430,8 @@
             "owner": "learningmatter-mit",
             "repo": "Atomistic-Adversarial-Attacks",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4216,7 +4446,8 @@
             "owner": "materialyzeai",
             "repo": "snap",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4231,7 +4462,8 @@
             "owner": "spozdn",
             "repo": "pet",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4246,7 +4478,8 @@
             "owner": "sirmarcel",
             "repo": "glp",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4261,7 +4494,8 @@
             "owner": "mariogeiger",
             "repo": "nequip-jax",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4276,7 +4510,8 @@
             "owner": "ACEsuit",
             "repo": "ACE1.jl",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4291,7 +4526,8 @@
             "owner": "mariogeiger",
             "repo": "allegro-jax",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4306,7 +4542,8 @@
             "owner": "ibayashi-hikaru",
             "repo": "allegro-legato",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4321,7 +4558,8 @@
             "owner": "ICAMS",
             "repo": "TensorPotential",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4336,7 +4574,8 @@
             "owner": "aimat-lab",
             "repo": "NNsForMD",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4351,7 +4590,8 @@
             "owner": "libAtoms",
             "repo": "testing-framework",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4366,7 +4606,8 @@
             "owner": "Teoroo-CMC",
             "repo": "CCS",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4381,7 +4622,8 @@
             "owner": "lmj1029123",
             "repo": "SingleNN",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4396,7 +4638,8 @@
             "owner": "mttrin93",
             "repo": "mag-ace",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4411,7 +4654,8 @@
             "owner": "jla-gardner",
             "repo": "nnp-pre-training",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4426,7 +4670,8 @@
             "owner": "HSE-LAMBDA",
             "repo": "MEGNetSparse",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4441,7 +4686,8 @@
             "owner": "Luthaf",
             "repo": "alchemical-learning",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4456,7 +4702,8 @@
             "owner": "cometscome",
             "repo": "BPNET",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4471,7 +4718,8 @@
             "owner": "loilisxka",
             "repo": "AisNet",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4486,7 +4734,8 @@
             "owner": "ACEsuit",
             "repo": "ACE1pack.jl",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4501,7 +4750,8 @@
             "owner": "cesmix-mit",
             "repo": "MLP",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4516,7 +4766,8 @@
             "owner": "AaltoRSE",
             "repo": "PeriodicPotentials",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4531,7 +4782,8 @@
             "owner": "ACEsuit",
             "repo": "ACEworkflows",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 44 hidden projects..."
@@ -4552,7 +4804,8 @@
             "owner": "lamalab-org",
             "repo": "chembench",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ChemBench (🥇17 · ⭐ 140 · 💤) - How good are LLMs at chemistry?. MIT benchmarking multimodal"
@@ -4573,7 +4826,8 @@
             "owner": "usnistgov",
             "repo": "atomgpt",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "AtomGPT (🥈11 · ⭐ 50 · 💤) - https://atomgpt.org. Custom generative pretrained transformer"
@@ -4594,7 +4848,8 @@
             "owner": "microsoft",
             "repo": "molskill",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MolSkill (🥉10 · ⭐ 120) - Extracting medicinal chemistry intuition via preference machine learning. MIT drug-discovery recommender"
@@ -4615,7 +4870,8 @@
             "owner": "chiang-yuan",
             "repo": "llamp",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "LLaMP (🥉8 · ⭐ 100 · 💤) - [EMNLP 25] A web app and Python API for multi-modal RAG framework to ground LLMs on high-fidelity materials.. BSD-3 multimodal RAG materials-discovery pretrained JavaScript Python"
@@ -4636,7 +4892,8 @@
             "owner": "vertaix",
             "repo": "LLM-Prop",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "LLM-Prop (🥉7 · ⭐ 58 · 💤) - A repository for the LLM-Prop implementation. MIT"
@@ -4656,8 +4913,9 @@
             "last_commit": "2024-12-19T17:47:04Z",
             "owner": "ur-whitelab",
             "repo": "chemcrow-public",
-            "stars": 945
-          }
+            "stars": 946
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4672,7 +4930,8 @@
             "owner": "materialsintelligence",
             "repo": "mat2vec",
             "stars": 641
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4687,7 +4946,8 @@
             "owner": "IBM",
             "repo": "molformer",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4702,7 +4962,8 @@
             "owner": "mcs07",
             "repo": "ChemDataExtractor",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4717,7 +4978,8 @@
             "owner": "kjappelbaum",
             "repo": "gptchem",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4732,7 +4994,8 @@
             "owner": "OpenBioML",
             "repo": "chemnlp",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4747,7 +5010,8 @@
             "owner": "facebookresearch",
             "repo": "crystal-text-llm",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4762,7 +5026,8 @@
             "owner": "Yeonghun1675",
             "repo": "ChatMOF",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4777,7 +5042,8 @@
             "owner": "OSU-NLP-Group",
             "repo": "LLM4Chem",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4792,7 +5058,8 @@
             "owner": "CFN-softbio",
             "repo": "SciBot",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4807,7 +5074,8 @@
             "owner": "whitead",
             "repo": "nlcc",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4822,7 +5090,8 @@
             "owner": "lamalab-org",
             "repo": "chemlift",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4837,7 +5106,8 @@
             "owner": "hoon-ock",
             "repo": "CatBERTa",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4852,7 +5122,8 @@
             "owner": "StefanoSanvitoGroup",
             "repo": "BERT-PSIE-TC",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4867,7 +5138,8 @@
             "owner": "lamm-mit",
             "repo": "Cephalo",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4882,7 +5154,8 @@
             "owner": "ShuHuang",
             "repo": "chemdatawriter",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4897,7 +5170,8 @@
             "owner": "maykcaldas",
             "repo": "MAPI_LLM",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -4912,7 +5186,8 @@
             "owner": "usnistgov",
             "repo": "chemnlp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 18 hidden projects..."
@@ -4929,11 +5204,12 @@
             "archived": false,
             "id": 14117740,
             "language": "Python",
-            "last_commit": "2026-08-26T16:26:26Z",
+            "last_commit": "2026-08-27T18:05:10Z",
             "owner": "WMD-group",
             "repo": "SMACT",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SMACT (🥇25 · ⭐ 140) - Python package to aid materials design and informatics. MIT HTC structure-prediction electrostatics"
@@ -4950,11 +5226,12 @@
             "archived": false,
             "id": 894988451,
             "language": "Python",
-            "last_commit": "2026-08-22T01:29:31Z",
+            "last_commit": "2026-08-27T16:29:17Z",
             "owner": "microsoft",
             "repo": "mattergen",
-            "stars": 1801
-          }
+            "stars": 1804
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatterGen (🥇16 · ⭐ 1.8K) - Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table.. MIT generative structure-prediction pretrained"
@@ -4975,7 +5252,8 @@
             "owner": "LopezGroup-ICIQ",
             "repo": "care",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "CARE (🥈14 · ⭐ 88) - Automated creation and manipulation of chemical reaction networks (CRNs) in heterogeneous catalysis, powered by state-.. MIT catalysis cheminformatics ML-IAP Julia"
@@ -4996,7 +5274,8 @@
             "owner": "google-deepmind",
             "repo": "materials_discovery",
             "stars": 1230
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Materials Discovery: GNoME (🥈13 · ⭐ 1.2K) - Graph Networks for Materials Science (GNoME) and dataset of 381,000 novel stable materials. Apache-2 UIP datasets rep-learn proprietary"
@@ -5017,7 +5296,8 @@
             "owner": "CompRhys",
             "repo": "aviary",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "aviary (🥈12 · ⭐ 64) - The Wren sits on its Roost in the Aviary. MIT"
@@ -5038,7 +5318,8 @@
             "owner": "Minoru938",
             "repo": "CSPML",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5053,7 +5334,8 @@
             "owner": "MDIL-SNU",
             "repo": "SPINNER",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5068,7 +5350,8 @@
             "owner": "takahashi-akira-36m",
             "repo": "ml_atomate",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5083,7 +5366,8 @@
             "owner": "CitrineInformatics-ERD-public",
             "repo": "sl_discovery",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5098,7 +5382,8 @@
             "owner": "ulissigroup",
             "repo": "CAMD",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5113,7 +5398,8 @@
             "owner": "aced-differentiate",
             "repo": "closed-loop-acceleration-benchmarks",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -5133,8 +5419,9 @@
             "last_commit": "2026-08-24T22:18:20Z",
             "owner": "NVIDIA",
             "repo": "cuEquivariance",
-            "stars": 422
-          }
+            "stars": 423
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "cuEquivariance (🥇23 · ⭐ 420) - cuEquivariance is a math library that is a collective of low-level primitives and tensor ops to accelerate widely-used.. Apache-2 rep-learn"
@@ -5151,11 +5438,12 @@
             "archived": false,
             "id": 471322163,
             "language": "Python",
-            "last_commit": "2026-08-27T00:07:25Z",
+            "last_commit": "2026-08-28T02:48:50Z",
             "owner": "google-deepmind",
             "repo": "kfac-jax",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "KFAC-JAX (🥇21 · ⭐ 330) - Second Order Optimization and Curvature Estimation with K-FAC in JAX. Apache-2"
@@ -5176,7 +5464,8 @@
             "owner": "PASSIONLab",
             "repo": "OpenEquivariance",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "OpenEquivariance (🥇21 · ⭐ 160) - OpenEquivariance: a fast, open-source GPU JIT kernel generator for the Clebsch-Gordon Tensor Product. BSD-3 rep-learn"
@@ -5197,7 +5486,8 @@
             "owner": "lab-cosmo",
             "repo": "sphericart",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SpheriCart (🥈20 · ⭐ 100) - Multi-language library for the calculation of spherical harmonics in Cartesian coordinates. MIT"
@@ -5218,7 +5508,8 @@
             "owner": "ACEsuit",
             "repo": "Polynomials4ML.jl",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Polynomials4ML.jl (🥈13 · ⭐ 14) - Polynomials for ML: fast evaluation, batching, differentiation. MIT Julia"
@@ -5239,7 +5530,8 @@
             "owner": "risi-kondor",
             "repo": "GElib",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GElib (🥉10 · ⭐ 26) - C++/CUDA library for SO(3) equivariant operations. MPL-2.0 C++"
@@ -5260,7 +5552,8 @@
             "owner": "lab-cosmo",
             "repo": "toolbox",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "COSMO Toolbox (🥉6 · ⭐ 8) - Assorted libraries and utilities for atomistic simulation analysis. Unlicensed C++"
@@ -5281,7 +5574,8 @@
             "owner": "risi-kondor",
             "repo": "cnine",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "cnine (🥉6 · ⭐ 5) - Cnine tensor library. Unlicensed C++"
@@ -5302,7 +5596,8 @@
             "owner": "ziatdinovmax",
             "repo": "gpax",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5317,7 +5612,8 @@
             "owner": "YWolfeee",
             "repo": "lapjax",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5332,7 +5628,8 @@
             "owner": "lie-nn",
             "repo": "lie-nn",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5347,7 +5644,8 @@
             "owner": "aced-differentiate",
             "repo": "EquivariantOperators.jl",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5355,14 +5653,15 @@
           "description": "(🥉1 · ⭐ 2 · 💀) - Collection of programs to benchmark Wigner kernels. Unlicensed benchmarking",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "id": 575842690,
             "language": "Python",
             "last_commit": "2023-07-08T15:48:41Z",
             "owner": "lab-cosmo",
             "repo": "wigner_kernels",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 6 hidden projects..."
@@ -5383,7 +5682,8 @@
             "owner": "jax-md",
             "repo": "jax-md",
             "stars": 1458
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "JAX-MD (🥇28 · ⭐ 1.5K) - Differentiable, Hardware Accelerated, Molecular Dynamics. Apache-2"
@@ -5403,8 +5703,9 @@
             "last_commit": "2026-08-21T12:03:54Z",
             "owner": "TorchSim",
             "repo": "torch-sim",
-            "stars": 488
-          }
+            "stars": 487
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "TorchSim (🥇25 · ⭐ 490) - Torch-native, batchable, atomistic simulations. MIT HTC UIP ML-IAP structure-optimization"
@@ -5421,11 +5722,12 @@
             "archived": false,
             "id": 97248567,
             "language": "Cuda",
-            "last_commit": "2026-08-27T07:56:53Z",
+            "last_commit": "2026-08-28T05:43:44Z",
             "owner": "brucefan1983",
             "repo": "GPUMD",
             "stars": 828
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GPUMD (🥈22 · ⭐ 830) - GPUMD is a highly efficient general-purpose molecular dynamic (MD) package and enables machine-learned potentials.. GPL-3.0 ML-IAP C++ electrostatics"
@@ -5446,7 +5748,8 @@
             "owner": "luigibonati",
             "repo": "mlcolvar",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "mlcolvar (🥈19 · ⭐ 140) - A unified framework for machine learning collective variables for enhanced sampling simulations. MIT sampling"
@@ -5466,8 +5769,9 @@
             "last_commit": "2026-08-24T21:31:08Z",
             "owner": "openmm",
             "repo": "openmm-ml",
-            "stars": 179
-          }
+            "stars": 180
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "OpenMM-ML (🥈18 · ⭐ 180) - High level API for using machine learning models in OpenMM simulations. MIT ML-IAP"
@@ -5488,7 +5792,8 @@
             "owner": "FitSNAP",
             "repo": "FitSNAP",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "FitSNAP (🥈17 · ⭐ 190 · 💤) - Software for generating machine-learning interatomic potentials for LAMMPS. GPL-2.0"
@@ -5509,7 +5814,8 @@
             "owner": "openmm",
             "repo": "openmm-torch",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "openmm-torch (🥉16 · ⭐ 220) - OpenMM plugin to define forces with neural networks. Custom ML-IAP C++"
@@ -5530,7 +5836,8 @@
             "owner": "deepmodeling",
             "repo": "DMFF",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DMFF (🥉13 · ⭐ 200) - DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable.. LGPL-3.0 C++"
@@ -5551,7 +5858,8 @@
             "owner": "molmod",
             "repo": "psiflow",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Psiflow (🥉12 · ⭐ 140) - scalable molecular simulation. MIT ML-IAP active-learning sampling"
@@ -5572,7 +5880,8 @@
             "owner": "mir-group",
             "repo": "pair_nequip_allegro",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "pair_allegro (🥉12 · ⭐ 65) - LAMMPS pair styles for NequIP and Allegro deep learning interatomic potentials. MIT ML-IAP rep-learn"
@@ -5593,7 +5902,8 @@
             "owner": "ICAMS",
             "repo": "lammps-user-pace",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PACE (🥉8 · ⭐ 34 · 💤) - The LAMMPS ML-IAP `pair_style pace`, aka Atomic Cluster Expansion (ACE), aka ML-PACE,.. Custom"
@@ -5614,7 +5924,8 @@
             "owner": "chiang-yuan",
             "repo": "muse",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MUSE (🥉6 · ⭐ 11) - A python package for fast building amorphous solids and liquid mixtures from @materialsproject computed structures and.. MIT ML-IAP Defects & Disorder"
@@ -5635,7 +5946,8 @@
             "owner": "mir-group",
             "repo": "pair_nequip",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5650,7 +5962,8 @@
             "owner": "initqp",
             "repo": "somd",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -5671,7 +5984,8 @@
             "owner": "isayev",
             "repo": "ReLeaSE",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -5686,7 +6000,8 @@
             "owner": "ulissigroup",
             "repo": "catgym",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 2 hidden projects..."
@@ -5706,8 +6021,9 @@
             "last_commit": "2026-08-21T13:07:18Z",
             "owner": "cdk",
             "repo": "cdk",
-            "stars": 601
-          }
+            "stars": 602
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "cdk (🥇26 · ⭐ 600) - The Chemistry Development Kit. LGPL-2.1 cheminformatics Java"
@@ -5728,7 +6044,8 @@
             "owner": "SINGROUP",
             "repo": "dscribe",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DScribe (🥇25 · ⭐ 470 · 💤) - DScribe is a python package for creating machine learning descriptors for atomistic systems. Apache-2"
@@ -5749,7 +6066,8 @@
             "owner": "hachmannlab",
             "repo": "chemml",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ChemML (🥇19 · ⭐ 180) - ChemML is a machine learning and informatics program suite for the chemical and materials sciences. BSD-3 cheminformatics active-learning workflows"
@@ -5770,7 +6088,8 @@
             "owner": "WMD-group",
             "repo": "ElementEmbeddings",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ElementEmbeddings (🥇17 · ⭐ 52) - Python package to interact with high-dimensional representations of the chemical elements. MIT XAI USL viz"
@@ -5791,7 +6110,8 @@
             "owner": "metatensor",
             "repo": "featomic",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Featomic (🥈15 · ⭐ 82) - Computing representations for atomistic machine learning. BSD-3 Rust C++"
@@ -5812,7 +6132,8 @@
             "owner": "PhasesResearchLab",
             "repo": "pySIPFENN",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "pySIPFENN (🥈15 · ⭐ 24) - Python python toolset for Structure-Informed Property and Feature Engineering with Neural Networks. It offers unique.. LGPL-3.0 material-defect Defects & Disorder pretrained transfer-learning"
@@ -5833,7 +6154,8 @@
             "owner": "drcassar",
             "repo": "glasspy",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GlassPy (🥈14 · ⭐ 41) - Python module for scientists working with glass materials. GPL-3.0"
@@ -5854,7 +6176,8 @@
             "owner": "rouyang2017",
             "repo": "SISSO",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SISSO (🥈12 · ⭐ 370 · 💤) - A data-driven method combining symbolic regression and compressed sensing for accurate & interpretable models. Apache-2 Fortran"
@@ -5875,7 +6198,8 @@
             "owner": "WMD-group",
             "repo": "PDynA",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PDynA (🥈11 · ⭐ 57) - Python package to analyse the structural dynamics of perovskites. MIT MD"
@@ -5896,7 +6220,8 @@
             "owner": "capoe",
             "repo": "benchml",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "BenchML (🥈11 · ⭐ 15 · 💤) - ML benchmarking and pipeling framework. Apache-2 benchmarking"
@@ -5917,7 +6242,8 @@
             "owner": "NU-CUCIS",
             "repo": "ElemNet",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ElemNet (🥉7 · ⭐ 100 · 💤) - Deep Learning the Chemistry of Materials From Only Elemental Composition for Enhancing Materials Property Prediction. Unlicensed single-paper"
@@ -5938,7 +6264,8 @@
             "owner": "ChemAI-Lab",
             "repo": "molpipx",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MOLPIPx (🥉7 · ⭐ 50) - Differentiable version of Permutationally Invariant Polynomial (PIP) models in JAX and Rust. Apache-2 Python Rust"
@@ -5959,7 +6286,8 @@
             "owner": "Rutgers-ZRG",
             "repo": "libfp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "fplib (🥉6 · ⭐ 8 · 💤) - libfp is a library for calculating crystalline fingerprints and measuring similarities of materials. MIT C-lang single-paper"
@@ -5980,7 +6308,8 @@
             "owner": "libAtoms",
             "repo": "soap_turbo",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "soap_turbo (🥉5 · ⭐ 8) - soap_turbo comprises a series of libraries to be used in combination with QUIP/GAP and TurboGAP. Custom Fortran"
@@ -6001,7 +6330,8 @@
             "owner": "SUNCAT-Center",
             "repo": "CatLearn",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6016,7 +6346,8 @@
             "owner": "ppdebreuck",
             "repo": "modnet",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6031,7 +6362,8 @@
             "owner": "lab-cosmo",
             "repo": "librascal",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6046,7 +6378,8 @@
             "owner": "muhrin",
             "repo": "milad",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6061,7 +6394,8 @@
             "owner": "Kaaiian",
             "repo": "CBFV",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6076,7 +6410,8 @@
             "owner": "sirmarcel",
             "repo": "cmlkit",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6091,7 +6426,8 @@
             "owner": "lantunes",
             "repo": "skipatom",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6106,7 +6442,8 @@
             "owner": "dilkins",
             "repo": "TENSOAP",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6121,7 +6458,8 @@
             "owner": "lab-cosmo",
             "repo": "nice",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6136,7 +6474,8 @@
             "owner": "capoe",
             "repo": "soapxx",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6151,7 +6490,8 @@
             "owner": "cnislab",
             "repo": "MXenes4HER",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6166,7 +6506,8 @@
             "owner": "mm-tud",
             "repo": "automl-materials",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6181,7 +6522,8 @@
             "owner": "ceriottm",
             "repo": "lode",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6196,7 +6538,8 @@
             "owner": "msg-byu",
             "repo": "ML-for-CurieTemp-Predictions",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6211,7 +6554,8 @@
             "owner": "dppant",
             "repo": "magnetism-prediction",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 17 hidden projects..."
@@ -6231,8 +6575,9 @@
             "last_commit": "2026-08-24T20:53:29Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24037
-          }
+            "stars": 24042
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PyG Models (🥇34 · ⭐ 24K) - Representation learning models implemented in PyTorch Geometric. MIT general-ml"
@@ -6253,7 +6598,8 @@
             "owner": "e3nn",
             "repo": "e3nn",
             "stars": 1280
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "e3nn (🥇29 · ⭐ 1.3K) - A modular framework for neural networks with Euclidean symmetry. MIT"
@@ -6274,7 +6620,8 @@
             "owner": "materialyzeai",
             "repo": "matgl",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatGL (Materials Graph Library) (🥇28 · ⭐ 570) - Graph deep learning library for materials. BSD-3 ML-IAP pretrained multifidelity"
@@ -6295,7 +6642,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "schnetpack",
             "stars": 936
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SchNetPack (🥇25 · ⭐ 930) - SchNetPack - Deep Neural Networks for Atomistic Systems. MIT"
@@ -6316,7 +6664,8 @@
             "owner": "e3nn",
             "repo": "e3nn-jax",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "e3nn-jax (🥇23 · ⭐ 230) - jax library for E3 Equivariant Neural Networks. Apache-2"
@@ -6336,8 +6685,9 @@
             "last_commit": "2025-08-25T15:21:57Z",
             "owner": "usnistgov",
             "repo": "alignn",
-            "stars": 329
-          }
+            "stars": 330
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ALIGNN (🥈20 · ⭐ 330 · 💤) - Atomistic Line Graph Neural Network https://scholar.google.com/citations?user=9Q-tNnwAAAAJ.. Custom"
@@ -6358,7 +6708,8 @@
             "owner": "ORNL",
             "repo": "HydraGNN",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "HydraGNN (🥈17 · ⭐ 120 · 📈) - Distributed PyTorch implementation of multi-headed graph convolutional neural networks. BSD-3"
@@ -6378,8 +6729,9 @@
             "last_commit": "2026-06-12T20:05:34Z",
             "owner": "microsoft",
             "repo": "Graphormer",
-            "stars": 2474
-          }
+            "stars": 2473
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Graphormer (🥈15 · ⭐ 2.5K) - Graphormer is a general-purpose deep learning backbone for molecular modeling. MIT transformer pretrained"
@@ -6400,7 +6752,8 @@
             "owner": "lanl",
             "repo": "hippynn",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "hippynn (🥈13 · ⭐ 98) - python library for atomistic machine learning. Custom workflows"
@@ -6421,7 +6774,8 @@
             "owner": "NatLabRockies",
             "repo": "nfp",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Neural fingerprint (nfp) (🥈11 · ⭐ 62) - Keras layers for end-to-end learning with rdkit and pymatgen. Custom"
@@ -6441,8 +6795,9 @@
             "last_commit": "2026-04-03T11:41:40Z",
             "owner": "FabianFuchsML",
             "repo": "se3-transformer-public",
-            "stars": 583
-          }
+            "stars": 584
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SE(3)-Transformers (🥈9 · ⭐ 580) - code for the SE3 Transformers paper: https://arxiv.org/abs/2006.10503. MIT single-paper transformer"
@@ -6463,7 +6818,8 @@
             "owner": "masashitsubaki",
             "repo": "molecularGNN_smiles",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "molecularGNN_smiles (🥉8 · ⭐ 340) - The code of a graph neural network (GNN) for molecules, which is based on learning representations of r-radius.. Apache-2"
@@ -6484,7 +6840,8 @@
             "owner": "omron-sinicx",
             "repo": "crystalframer",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Crystalframer (🥉8 · ⭐ 21 · 💤) - The official code respository for Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR.. MIT transformer single-paper"
@@ -6505,7 +6862,8 @@
             "owner": "usccolumbia",
             "repo": "deeperGATGNN",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeeperGATGNN (🥉7 · ⭐ 64) - Scalable graph neural networks for materials property prediction. MIT"
@@ -6525,8 +6883,9 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14841
-          }
+            "stars": 14840
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6541,7 +6900,8 @@
             "owner": "dmlc",
             "repo": "dgl",
             "stars": 14281
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6555,8 +6915,9 @@
             "last_commit": "2023-06-22T04:03:53Z",
             "owner": "graphdeeplearning",
             "repo": "benchmarking-gnns",
-            "stars": 2671
-          }
+            "stars": 2670
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6571,7 +6932,8 @@
             "owner": "divelab",
             "repo": "DIG",
             "stars": 2007
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6585,8 +6947,9 @@
             "last_commit": "2025-05-29T07:41:36Z",
             "owner": "deepmodeling",
             "repo": "Uni-Mol",
-            "stars": 1155
-          }
+            "stars": 1156
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6601,7 +6964,8 @@
             "owner": "snap-stanford",
             "repo": "pretrain-gnns",
             "stars": 1070
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6615,8 +6979,9 @@
             "last_commit": "2021-09-06T05:23:51Z",
             "owner": "txie-93",
             "repo": "cgcnn",
-            "stars": 890
-          }
+            "stars": 891
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6631,7 +6996,8 @@
             "owner": "awslabs",
             "repo": "dgl-lifesci",
             "stars": 809
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6646,7 +7012,8 @@
             "owner": "QUVA-Lab",
             "repo": "escnn",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6661,7 +7028,8 @@
             "owner": "atomicarchitects",
             "repo": "equiformer",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6676,7 +7044,8 @@
             "owner": "gasteigerjo",
             "repo": "gdc",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6691,7 +7060,8 @@
             "owner": "tensorfieldnetworks",
             "repo": "tensorfieldnetworks",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6706,7 +7076,8 @@
             "owner": "chao1224",
             "repo": "Geom3D",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6721,7 +7092,8 @@
             "owner": "aimat-lab",
             "repo": "gcnn_keras",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6736,7 +7108,8 @@
             "owner": "llnl",
             "repo": "graphite",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6751,7 +7124,8 @@
             "owner": "superlouis",
             "repo": "GATGNN",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6766,7 +7140,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "dtnn",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6781,7 +7156,8 @@
             "owner": "lamm-mit",
             "repo": "Graph-Aware-Transformers",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6796,7 +7172,8 @@
             "owner": "risilab",
             "repo": "cormorant",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6811,7 +7188,8 @@
             "owner": "ACEsuit",
             "repo": "mace-layer",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6826,7 +7204,8 @@
             "owner": "Open-Catalyst-Project",
             "repo": "AdsorbML",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6841,7 +7220,8 @@
             "owner": "sparks-baird",
             "repo": "xtal2png",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6856,7 +7236,8 @@
             "owner": "idocx",
             "repo": "Atom2Vec",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6871,7 +7252,8 @@
             "owner": "learningmatter-mit",
             "repo": "uvvisml",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6886,7 +7268,8 @@
             "owner": "pfnet-research",
             "repo": "charge_transfer_nnp",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6901,7 +7284,8 @@
             "owner": "vict0rsch",
             "repo": "faenet",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6916,7 +7300,8 @@
             "owner": "nguyen-group",
             "repo": "GNNOpt",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6931,7 +7316,8 @@
             "owner": "emilemathieu",
             "repo": "escnn_jax",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6946,7 +7332,8 @@
             "owner": "hyllios",
             "repo": "CGAT",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6961,7 +7348,8 @@
             "owner": "risilab",
             "repo": "Autobahn",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6976,7 +7364,8 @@
             "owner": "omron-sinicx",
             "repo": "crystalformer",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -6991,7 +7380,8 @@
             "owner": "learningmatter-mit",
             "repo": "GLAMOUR",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7006,7 +7396,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "field_schnet",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7021,7 +7412,8 @@
             "owner": "Hongyu-yu",
             "repo": "T-e3nn",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7036,7 +7428,8 @@
             "owner": "sparks-baird",
             "repo": "CrabNet",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7051,7 +7444,8 @@
             "owner": "lantunes",
             "repo": "CraTENet",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7066,7 +7460,8 @@
             "owner": "andy90",
             "repo": "SCFNN",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7081,7 +7476,8 @@
             "owner": "gasteigerjo",
             "repo": "gtn",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7096,7 +7492,8 @@
             "owner": "learningmatter-mit",
             "repo": "atom_by_atom",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7111,7 +7508,8 @@
             "owner": "M3RG-IITD",
             "repo": "MDBENCHGNN",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7126,7 +7524,8 @@
             "owner": "HSE-LAMBDA",
             "repo": "ai4material_design",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7141,7 +7540,8 @@
             "owner": "sirmarcel",
             "repo": "gkx",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7156,7 +7556,8 @@
             "owner": "jeherr",
             "repo": "element-encoder",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7171,7 +7572,8 @@
             "owner": "aimat-lab",
             "repo": "ML4pXRDs",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7186,7 +7588,8 @@
             "owner": "risilab",
             "repo": "SphericalNet",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7201,7 +7604,8 @@
             "owner": "learningmatter-mit",
             "repo": "per-site_painn",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7216,7 +7620,8 @@
             "owner": "learningmatter-mit",
             "repo": "per-site_cgcnn",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 49 hidden projects..."
@@ -7236,8 +7641,9 @@
             "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
-            "stars": 2022
-          }
+            "stars": 2024
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DPA-2 (🥇32 · ⭐ 2K) - A large atomic model as a multi-task learner https://arxiv.org/abs/2312.15492. LGPL-3.0 ML-IAP pretrained workflows datasets"
@@ -7257,8 +7663,9 @@
             "last_commit": "2026-08-24T20:49:42Z",
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
-            "stars": 2022
-          }
+            "stars": 2024
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeePMD-DPA3 (🥇32 · ⭐ 2K) - Successor of DPA-2. LGPL-3.0 ML-IAP pretrained workflows datasets"
@@ -7275,11 +7682,12 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-26T21:23:13Z",
+            "last_commit": "2026-08-27T20:39:55Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "FAIRChem EquiformerV2 models (🥈31 · ⭐ 2.2K · 📉) - FAIRChem implementation of Equiformer V2 (eqV2) models. MIT pretrained UIP rep-learn catalysis"
@@ -7296,11 +7704,12 @@
             "archived": false,
             "id": 211001860,
             "language": "Python",
-            "last_commit": "2026-08-26T21:23:13Z",
+            "last_commit": "2026-08-27T20:39:55Z",
             "owner": "facebookresearch",
             "repo": "fairchem",
             "stars": 2231
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "FAIRChem eSEN models (🥈31 · ⭐ 2.2K · 📉) - FAIRChem implementation of Smooth Energy Network (eSEN) models arXiv:2502.12147. MIT pretrained UIP rep-learn catalysis"
@@ -7320,8 +7729,9 @@
             "last_commit": "2026-08-26T09:06:04Z",
             "owner": "ACEsuit",
             "repo": "mace-foundations",
-            "stars": 296
-          }
+            "stars": 297
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MACE-FOUNDATION models (🥈25 · ⭐ 1.2K) - MACE foundation models (MP, OMAT, mh-1). MIT ML-IAP pretrained rep-learn MD"
@@ -7342,7 +7752,8 @@
             "owner": "microsoft",
             "repo": "mattersim",
             "stars": 587
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MatterSim (🥈24 · ⭐ 590) - MatterSim: A deep learning atomistic model across elements, temperatures and pressures. MIT ML-IAP active-learning multimodal phase-transition pretrained"
@@ -7363,7 +7774,8 @@
             "owner": "MDIL-SNU",
             "repo": "SevenNet",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "SevenNet (🥈24 · ⭐ 270) - SevenNet - a graph neural network interatomic potential package supporting efficient multi-GPU parallel molecular.. GPL-3.0 ML-IAP MD pretrained"
@@ -7384,7 +7796,8 @@
             "owner": "orbital-materials",
             "repo": "orb-models",
             "stars": 616
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Orb Models (🥉21 · ⭐ 610) - ORB forcefield models from Orbital Materials. Custom ML-IAP pretrained"
@@ -7405,7 +7818,8 @@
             "owner": "CederGroupHub",
             "repo": "chgnet",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "CHGNet (🥉20 · ⭐ 400) - Pretrained universal neural network potential for charge-informed atomistic modeling https://chgnet.lbl.gov. Custom ML-IAP MD pretrained electrostatics magnetism structure-relaxation"
@@ -7426,7 +7840,8 @@
             "owner": "lab-cosmo",
             "repo": "upet",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "PET-MAD (🥉20 · ⭐ 230) - Universal machine-learning models for advanced atomistic simulations. BSD-3 ML-IAP MD rep-learn transformer"
@@ -7447,7 +7862,8 @@
             "owner": "ICAMS",
             "repo": "grace-tensorpotential",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "GRACE (🥉13 · ⭐ 110) - GRACE models and gracemaker (as implemented in TensorPotential package). Custom ML-IAP pretrained MD rep-learn rep-eng"
@@ -7468,7 +7884,8 @@
             "owner": "atomind-ai",
             "repo": "mlip-arena",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "MLIP Arena Leaderboard (🥉13 · ⭐ 100) - [NeurIPS 25 Spotlight] Fair and transparent benchmark of machine learning interatomic potentials (MLIPs), beyond basic.. Apache-2 ML-IAP benchmarking"
@@ -7489,7 +7906,8 @@
             "owner": "ASK-Berkeley",
             "repo": "EScAIP",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "EScAIP (🥉7 · ⭐ 61 · 💤) - [NeurIPS 2024] Official implementation of the Efficiently Scaled Attention Interatomic Potential. MIT ML-IAP rep-learn transformer single-paper"
@@ -7510,7 +7928,8 @@
             "owner": "materialyzeai",
             "repo": "m3gnet",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7525,7 +7944,8 @@
             "owner": "facebookresearch",
             "repo": "JMP",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7540,7 +7960,8 @@
             "owner": "janosh",
             "repo": "ffonons",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7555,7 +7976,8 @@
             "owner": "usnistgov",
             "repo": "chipsff",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 4 hidden projects..."
@@ -7576,7 +7998,8 @@
             "owner": "sissa-data-science",
             "repo": "DADApy",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DADApy (🥇21 · ⭐ 150) - Distance-based Analysis of DAta-manifolds in python. Apache-2"
@@ -7597,7 +8020,8 @@
             "owner": "BingqingCheng",
             "repo": "ASAP",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7612,7 +8036,8 @@
             "owner": "lab-cosmo",
             "repo": "sketchmap",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7627,7 +8052,8 @@
             "owner": "sparks-baird",
             "repo": "mat_discover",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7642,7 +8068,8 @@
             "owner": "ncfrey",
             "repo": "pumml",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7657,7 +8084,8 @@
             "owner": "jiaor17",
             "repo": "3D-EMGP",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7672,7 +8100,8 @@
             "owner": "learningmatter-mit",
             "repo": "Coarse-Graining-Auto-encoders",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7687,7 +8116,8 @@
             "owner": "Minoru938",
             "repo": "KmdPlus",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7702,7 +8132,8 @@
             "owner": "mathsphy",
             "repo": "paper-ml-robustness-material-property",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 9 hidden projects..."
@@ -7723,7 +8154,8 @@
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Crystal Toolkit (🥇26 · ⭐ 200) - Crystal Toolkit is a framework for building web apps for materials science and is currently powering the new Materials.. MIT"
@@ -7743,8 +8175,9 @@
             "last_commit": "2026-08-23T15:22:44Z",
             "owner": "janosh",
             "repo": "pymatviz",
-            "stars": 329
-          }
+            "stars": 330
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "pymatviz (🥈24 · ⭐ 330) - A toolkit for visualizations in materials informatics. MIT general-tool probabilistic"
@@ -7761,11 +8194,12 @@
             "archived": false,
             "id": 498793280,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:12:26Z",
+            "last_commit": "2026-08-27T16:40:06Z",
             "owner": "janosh",
             "repo": "matterviz",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Elementari (🥈22 · ⭐ 360) - Interactive browser visualizations for materials science: crystal structures/molecules, trajectories, convex hulls,.. MIT JavaScript"
@@ -7786,7 +8220,8 @@
             "owner": "lab-cosmo",
             "repo": "chemiscope",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Chemiscope (🥈22 · ⭐ 180) - An interactive structure/property explorer for materials and molecules. BSD-3 JavaScript"
@@ -7807,7 +8242,8 @@
             "owner": "zincware",
             "repo": "ZnDraw",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "ZnDraw (🥉17 · ⭐ 50) - A powerful tool for visualizing, modifying, and analysing atomistic systems. EPL-2.0 MD generative JavaScript"
@@ -7828,7 +8264,8 @@
             "owner": "usnistgov",
             "repo": "atomvision",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Atomvision (🥉11 · ⭐ 36 · 💤) - Deep learning framework for atomistic image data. Custom computer-vision experimental-data rep-learn"
@@ -7849,7 +8286,8 @@
             "owner": "deepqmc",
             "repo": "deepqmc",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "DeepQMC (🥇22 · ⭐ 420) - Deep learning quantum Monte Carlo for electrons in real space. MIT"
@@ -7870,7 +8308,8 @@
             "owner": "google-deepmind",
             "repo": "ferminet",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "FermiNet (🥈15 · ⭐ 850) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations. Apache-2 transformer"
@@ -7887,11 +8326,12 @@
             "archived": false,
             "id": 560380242,
             "language": "Python",
-            "last_commit": "2026-08-26T13:37:56Z",
+            "last_commit": "2026-08-27T13:16:55Z",
             "owner": "bytedance",
             "repo": "jaqmc",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "JaQMC (🥈12 · ⭐ 120) - JAX accelerated Quantum Monte Carlo. Apache-2"
@@ -7912,7 +8352,8 @@
             "owner": "bytedance",
             "repo": "LapNet",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7927,7 +8368,8 @@
             "owner": "atomistic-machine-learning",
             "repo": "SchNOrb",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7942,7 +8384,8 @@
             "owner": "mdsunivie",
             "repo": "deeperwin",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7957,7 +8400,8 @@
             "owner": "ACEsuit",
             "repo": "ACEpsi.jl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Show 4 hidden projects..."
@@ -7974,11 +8418,12 @@
             "archived": false,
             "id": 651692511,
             "language": null,
-            "last_commit": "2026-08-22T03:39:25Z",
+            "last_commit": "2026-08-28T02:08:26Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 717
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "node_type": "item",
@@ -7989,23 +8434,24 @@
             "archived": false,
             "id": 651692511,
             "language": null,
-            "last_commit": "2026-08-22T03:39:25Z",
+            "last_commit": "2026-08-28T02:08:26Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 717
-          }
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:30.609Z",
+    "last_updated": "2026-08-28T06:22:45.549Z",
     "original_repository_info": {
       "archived": false,
       "id": 651692511,
       "language": null,
-      "last_commit": "2026-08-22T03:39:25Z",
+      "last_commit": "2026-08-28T02:08:26Z",
       "owner": "JuDFTteam",
       "repo": "best-of-atomistic-machine-learning",
       "stars": 717
