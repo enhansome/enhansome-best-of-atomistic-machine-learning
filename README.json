@@ -3771,7 +3771,7 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T07:20:52Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3570,
@@ -11053,7 +11053,7 @@
             "open_issues": 10,
             "owner": "ACEsuit",
             "repo": "mace-foundations",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "chemistry",
               "force-fields",
@@ -12148,7 +12148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:54:49.090Z",
+    "last_updated": "2026-08-29T04:38:00.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome atomistic machine learning projects ⚛️🧬💎.",
