@@ -313,7 +313,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23826,
+            "stars": 23827,
             "topics": [
               "automl",
               "chatgpt",
@@ -396,7 +396,7 @@
             "open_issues": 192,
             "owner": "ddmms",
             "repo": "ml-peg",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ai-for-science",
               "benchmarking",
@@ -431,7 +431,7 @@
             "open_issues": 0,
             "owner": "naganandy",
             "repo": "graph-based-deep-learning-literature",
-            "stars": 5099,
+            "stars": 5098,
             "topics": [
               "conference-publications",
               "deep-learning",
@@ -525,7 +525,7 @@
             "open_issues": 33,
             "owner": "google-deepmind",
             "repo": "materials_discovery",
-            "stars": 1239,
+            "stars": 1240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -552,7 +552,7 @@
             "open_issues": 3,
             "owner": "blaiszik",
             "repo": "awesome-matchem-datasets",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -714,7 +714,7 @@
             "open_issues": 1,
             "owner": "neurreps",
             "repo": "awesome-neural-geometry",
-            "stars": 1085,
+            "stars": 1086,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1083,11 +1083,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T23:00:16Z",
+            "last_commit": "2026-09-30T00:12:28Z",
             "open_issues": 24,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2270,
+            "stars": 2271,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -1110,11 +1110,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T23:00:16Z",
+            "last_commit": "2026-09-30T00:12:28Z",
             "open_issues": 24,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2270,
+            "stars": 2271,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -1696,7 +1696,7 @@
             "open_issues": 4,
             "owner": "aiqm",
             "repo": "ANI1x_datasets",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -1924,7 +1924,7 @@
             "id": 464960503,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T14:29:12Z",
+            "last_commit": "2026-09-29T15:15:52Z",
             "open_issues": 55,
             "owner": "metatensor",
             "repo": "metatensor",
@@ -1982,7 +1982,7 @@
             "open_issues": 27,
             "owner": "dmlc",
             "repo": "dlpack",
-            "stars": 1251,
+            "stars": 1253,
             "topics": [
               "deep-learning",
               "operator",
@@ -2013,7 +2013,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38842,
+            "stars": 38851,
             "topics": [
               "ai",
               "machine-learning",
@@ -2320,7 +2320,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15209,
+            "stars": 15213,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -3157,7 +3157,7 @@
             "open_issues": 13,
             "owner": "deepchem",
             "repo": "DeepLearningLifeSciences",
-            "stars": 414,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -3776,8 +3776,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T13:10:18Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-29T10:43:40Z",
+            "open_issues": 87,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3601,
@@ -3809,10 +3809,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1203,
+            "open_issues": 1206,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7022,
+            "stars": 7023,
             "topics": [
               "biology",
               "deep-learning",
@@ -4891,8 +4891,8 @@
             "id": 114006193,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-28T21:27:06Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-29T22:26:30Z",
+            "open_issues": 216,
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2050,
@@ -4939,11 +4939,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T23:00:16Z",
+            "last_commit": "2026-09-30T00:12:28Z",
             "open_issues": 24,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2270,
+            "stars": 2271,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -5043,7 +5043,7 @@
             "open_issues": 256,
             "owner": "ACEsuit",
             "repo": "mace",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -5099,8 +5099,8 @@
             "id": 721195384,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T14:40:28Z",
-            "open_issues": 116,
+            "last_commit": "2026-09-29T18:48:15Z",
+            "open_issues": 115,
             "owner": "metatensor",
             "repo": "metatrain",
             "stars": 79,
@@ -5131,7 +5131,7 @@
             "id": 754081470,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T14:28:25Z",
+            "last_commit": "2026-09-30T01:07:22Z",
             "open_issues": 55,
             "owner": "stfc",
             "repo": "janus-core",
@@ -5333,7 +5333,7 @@
             "open_issues": 72,
             "owner": "libAtoms",
             "repo": "workflow",
-            "stars": 43,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -5515,7 +5515,7 @@
             "open_issues": 7,
             "owner": "basf",
             "repo": "mlipx",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "interatomic-potentials",
               "machine-learning",
@@ -6377,7 +6377,7 @@
             "open_issues": 1,
             "owner": "sirmarcel",
             "repo": "glp",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "jax"
             ]
@@ -7019,7 +7019,7 @@
             "open_issues": 23,
             "owner": "mcs07",
             "repo": "ChemDataExtractor",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "chemistry",
               "information-extraction",
@@ -7390,8 +7390,8 @@
             "id": 14117740,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T13:33:18Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-29T09:30:21Z",
+            "open_issues": 0,
             "owner": "WMD-group",
             "repo": "SMACT",
             "stars": 142,
@@ -7429,7 +7429,7 @@
             "open_issues": 14,
             "owner": "microsoft",
             "repo": "mattergen",
-            "stars": 1833,
+            "stars": 1836,
             "topics": [
               "generative-ai",
               "materials-design",
@@ -7495,7 +7495,7 @@
             "open_issues": 33,
             "owner": "google-deepmind",
             "repo": "materials_discovery",
-            "stars": 1239,
+            "stars": 1240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -7685,7 +7685,7 @@
             "open_issues": 25,
             "owner": "NVIDIA",
             "repo": "cuEquivariance",
-            "stars": 439,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -7745,7 +7745,7 @@
             "id": 471322163,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T17:47:44Z",
+            "last_commit": "2026-09-30T00:57:16Z",
             "open_issues": 23,
             "owner": "google-deepmind",
             "repo": "kfac-jax",
@@ -8068,7 +8068,7 @@
             "open_issues": 25,
             "owner": "TorchSim",
             "repo": "torch-sim",
-            "stars": 498,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -8091,8 +8091,8 @@
             "id": 97248567,
             "language": "Cuda",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T20:38:42Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-29T21:30:57Z",
+            "open_issues": 22,
             "owner": "brucefan1983",
             "repo": "GPUMD",
             "stars": 843,
@@ -8195,7 +8195,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T19:39:51Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "openmm",
             "repo": "openmm-ml",
             "stars": 183,
@@ -8519,7 +8519,7 @@
             "id": 660443,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-27T12:51:26Z",
+            "last_commit": "2026-09-29T10:11:18Z",
             "open_issues": 11,
             "owner": "cdk",
             "repo": "cdk",
@@ -8653,7 +8653,7 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-22T14:07:25Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "metatensor",
             "repo": "featomic",
             "stars": 83,
@@ -8987,7 +8987,7 @@
             "open_issues": 39,
             "owner": "ppdebreuck",
             "repo": "modnet",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "machine-learning",
               "materials-science"
@@ -9286,11 +9286,11 @@
             "id": 106024057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1353,
+            "last_commit": "2026-09-29T17:21:23Z",
+            "open_issues": 1352,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24098,
+            "stars": 24101,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -9379,7 +9379,7 @@
             "id": 147224878,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T15:44:18Z",
+            "last_commit": "2026-09-29T15:52:04Z",
             "open_issues": 12,
             "owner": "atomistic-machine-learning",
             "repo": "schnetpack",
@@ -9443,8 +9443,8 @@
             "id": 371569604,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T15:49:53Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-29T15:24:37Z",
+            "open_issues": 22,
             "owner": "ORNL",
             "repo": "HydraGNN",
             "stars": 127,
@@ -9690,7 +9690,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14855,
+            "stars": 14856,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -9751,7 +9751,7 @@
             "open_issues": 9,
             "owner": "graphdeeplearning",
             "repo": "benchmarking-gnns",
-            "stars": 2668,
+            "stars": 2669,
             "topics": [
               "benchmark-framework",
               "deep-learning",
@@ -10711,6 +10711,27 @@
         },
         {
           "node_type": "item",
+          "title": "gkx: Green-Kubo Method in JAX",
+          "description": "(🥉5 · ⭐ 8 · 💀) - Green-Kubo + JAX + MLPs = Anharmonic Thermal Conductivities Done Fast. MIT transport-phenomena",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Green-Kubo + JAX + MLPs = Anharmonic Thermal Conductivities Done Fast",
+            "homepage": null,
+            "id": 634527308,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-02-19T15:56:12Z",
+            "open_issues": 1,
+            "owner": "sirmarcel",
+            "repo": "gkx",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "node_type": "item",
           "title": "ai4material_design",
           "description": "(🥈9 · ⭐ 8 · 💀) - Code for Kazeev, N., Al-Maeeni, A.R., Romanov, I. et al. Sparse representation for machine learning the properties of.. Apache-2 pretrained material-defect",
           "children": [],
@@ -10734,27 +10755,6 @@
               "sparse",
               "structure-property"
             ]
-          },
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gkx: Green-Kubo Method in JAX",
-          "description": "(🥉5 · ⭐ 8 · 💀) - Green-Kubo + JAX + MLPs = Anharmonic Thermal Conductivities Done Fast. MIT transport-phenomena",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Green-Kubo + JAX + MLPs = Anharmonic Thermal Conductivities Done Fast",
-            "homepage": null,
-            "id": 634527308,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-02-19T15:56:12Z",
-            "open_issues": 1,
-            "owner": "sirmarcel",
-            "repo": "gkx",
-            "stars": 8,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
@@ -10888,8 +10888,8 @@
             "id": 114006193,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-28T21:27:06Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-29T22:26:30Z",
+            "open_issues": 216,
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2050,
@@ -10936,8 +10936,8 @@
             "id": 114006193,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-28T21:27:06Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-29T22:26:30Z",
+            "open_issues": 216,
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2050,
@@ -10984,11 +10984,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T23:00:16Z",
+            "last_commit": "2026-09-30T00:12:28Z",
             "open_issues": 24,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2270,
+            "stars": 2271,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -11011,11 +11011,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T23:00:16Z",
+            "last_commit": "2026-09-30T00:12:28Z",
             "open_issues": 24,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2270,
+            "stars": 2271,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -11113,7 +11113,7 @@
             "open_issues": 21,
             "owner": "MDIL-SNU",
             "repo": "SevenNet",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:45.549Z"
@@ -11198,8 +11198,8 @@
             "id": 950517431,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T12:13:35Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-29T13:38:24Z",
+            "open_issues": 2,
             "owner": "lab-cosmo",
             "repo": "upet",
             "stars": 235,
@@ -11431,10 +11431,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T10:39:15Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "sissa-data-science",
             "repo": "DADApy",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "data-analysis",
               "data-science",
@@ -11683,8 +11683,8 @@
             "id": 98350025,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:17:23Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-29T21:25:42Z",
+            "open_issues": 76,
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
             "stars": 204,
@@ -11748,7 +11748,7 @@
             "id": 212547680,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T22:24:54Z",
+            "last_commit": "2026-09-29T12:37:07Z",
             "open_issues": 17,
             "owner": "lab-cosmo",
             "repo": "chemiscope",
@@ -12137,7 +12137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:20:08.131Z",
+    "last_updated": "2026-09-30T01:38:25.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome atomistic machine learning projects ⚛️🧬💎.",
