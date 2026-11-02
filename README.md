@@ -183,7 +183,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/janosh/matbench-discovery">MatBench Discovery</a></b> (🥇22 ·  ⭐ 260) - An evaluation framework for machine learning models simulating high-throughput materials discovery. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>datasets</code> <code>benchmarking</code> <code>model-repository</code></summary>
 
-* [GitHub](https://github.com/janosh/matbench-discovery) ⭐ 258 | 🐛 1 | 🌐 Python | 📅 2026-10-31 (👨‍💻 36 · 🔀 72 · 📥 2.3K · 📦 8 · 📋 79 - 3% open · ⏱️ 19.10.2026):
+* [GitHub](https://github.com/janosh/matbench-discovery) ⭐ 258 | 🐛 0 | 🌐 Python | 📅 2026-11-01 (👨‍💻 36 · 🔀 72 · 📥 2.3K · 📦 8 · 📋 79 - 3% open · ⏱️ 19.10.2026):
 
   ```
   git clone https://github.com/janosh/matbench-discovery
@@ -196,7 +196,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/lukasmasuch/best-of-ml-python">Best-of Machine Learning with Python</a></b> (🥇21 ·  ⭐ 24K · 💤) - A ranked list of awesome machine learning Python libraries. Updated weekly. <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">CC-BY-4.0</a></code> <code>general-ml</code> <code>Python</code></summary>
 
-* [GitHub](https://github.com/lukasmasuch/best-of-ml-python) ⭐ 23,848 | 🐛 58 | 📅 2026-10-29 (👨‍💻 57 · 🔀 3.1K · 📋 70 - 50% open · ⏱️ 22.03.2026):
+* [GitHub](https://github.com/lukasmasuch/best-of-ml-python) ⭐ 23,851 | 🐛 58 | 📅 2026-10-29 (👨‍💻 57 · 🔀 3.1K · 📋 70 - 50% open · ⏱️ 22.03.2026):
 
   ```
   git clone https://github.com/ml-tooling/best-of-ml-python
@@ -223,7 +223,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://ml-peg.stfc.ac.uk/">ML-PEG</a></b> (🥇18 ·  ⭐ 71) - ML Performance and Extrapolation Guide. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code>benchmarking</code> <a href="https://en.wikipedia.org/wiki/Visualization"><code>viz</code></a> <code>datasets</code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>structure-optimization</code></a> <a href="https://en.wikipedia.org/wiki/Molecular_dynamics"><code>MD</code></a> <a href="https://en.wikipedia.org/wiki/Transport_phenomena"><code>transport-phenomena</code></a> <a href="https://en.wikipedia.org/wiki/Biomolecule"><code>biomolecules</code></a> <code>long-range</code> <a href="https://en.wikipedia.org/wiki/Electrostatics"><code>electrostatics</code></a></summary>
 
-* [GitHub](https://github.com/ddmms/ml-peg) ⭐ 72 | 🐛 220 | 🌐 Python | 📅 2026-10-31 (👨‍💻 44 · 🔀 72 · 📥 68 · 📋 410 - 53% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/ddmms/ml-peg) ⭐ 72 | 🐛 223 | 🌐 Python | 📅 2026-11-01 (👨‍💻 44 · 🔀 72 · 📥 68 · 📋 410 - 53% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/ddmms/ml-peg
@@ -432,7 +432,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/facebookresearch/fairchem">FAIR Chemistry datasets</a></b> (🥇31 ·  ⭐ 2.3K) - Datasets OC20, OC22, etc. Formerly known as Open Catalyst Project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Catalysis"><code>catalysis</code></a></summary>
 
-* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,338 | 🐛 34 | 🌐 Python | 📅 2026-10-30 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,339 | 🐛 34 | 🌐 Python | 📅 2026-11-01 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/FAIR-Chem/fairchem
@@ -445,7 +445,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://huggingface.co/datasets/fairchem/OMAT24">Meta Open Materials 2024 (OMat24) Dataset</a></b> (🥇30 ·  ⭐ 2.3K) - Contains over 100 million Density Functional Theory calculations focused on structural and compositional diversity. <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">CC-BY-4.0</a></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,338 | 🐛 34 | 🌐 Python | 📅 2026-10-30 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,339 | 🐛 34 | 🌐 Python | 📅 2026-11-01 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/FAIR-Chem/fairchem
@@ -471,7 +471,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/Materials-Consortia/optimade-python-tools">OPTIMADE Python tools</a></b> (🥇22 ·  ⭐ 92) - Tools for implementing and consuming OPTIMADE APIs in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Materials-Consortia/optimade-python-tools) ⭐ 92 | 🐛 103 | 🌐 Python | 📅 2026-10-31 (👨‍💻 37 · 🔀 56 · 📋 500 - 21% open · ⏱️ 06.08.2026):
+* [GitHub](https://github.com/Materials-Consortia/optimade-python-tools) ⭐ 92 | 🐛 104 | 🌐 Python | 📅 2026-11-01 (👨‍💻 37 · 🔀 56 · 📋 500 - 21% open · ⏱️ 06.08.2026):
 
   ```
   git clone https://github.com/Materials-Consortia/optimade-python-tools
@@ -667,7 +667,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/metatensor/metatensor">Metatensor</a></b> (🥈23 ·  ⭐ 110) - Self-describing sparse tensor data format for atomistic machine learning and beyond. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>ML-IAP</code> <a href="https://en.wikipedia.org/wiki/Molecular_dynamics"><code>MD</code></a> <code>Rust</code> <code>C-lang</code> <code>C++</code> <code>Python</code></summary>
 
-* [GitHub](https://github.com/metatensor/metatensor) ⭐ 110 | 🐛 57 | 🌐 Python | 📅 2026-10-27 (👨‍💻 37 · 🔀 28 · 📥 59K · 📦 16 · 📋 270 - 20% open · ⏱️ 15.10.2026):
+* [GitHub](https://github.com/metatensor/metatensor) ⭐ 110 | 🐛 58 | 🌐 Python | 📅 2026-11-01 (👨‍💻 37 · 🔀 28 · 📥 59K · 📦 16 · 📋 270 - 20% open · ⏱️ 15.10.2026):
 
   ```
   git clone https://github.com/metatensor/metatensor
@@ -693,7 +693,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/dmlc/dlpack">dlpack</a></b> (🥉16 ·  ⭐ 1.3K) - common in-memory tensor structure. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>C++</code></summary>
 
-* [GitHub](https://github.com/dmlc/dlpack) ⭐ 1,261 | 🐛 27 | 🌐 C++ | 📅 2026-08-11 (👨‍💻 36 · 🔀 170 · 📋 90 - 28% open · ⏱️ 11.08.2026):
+* [GitHub](https://github.com/dmlc/dlpack) ⭐ 1,262 | 🐛 27 | 🌐 C++ | 📅 2026-08-11 (👨‍💻 36 · 🔀 170 · 📋 90 - 28% open · ⏱️ 11.08.2026):
 
   ```
   git clone https://github.com/dmlc/dlpack
@@ -714,7 +714,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/google-research/google-research/tree/master/jax_dft">JAX-DFT</a></b> (🥇26 ·  ⭐ 39K) - This library provides basic building blocks that can construct DFT calculations as a differentiable program. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/google-research/google-research) ⭐ 39,076 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 (👨‍💻 890 · 🔀 8.4K · 📋 2.3K - 84% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/google-research/google-research) ⭐ 39,090 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30 (👨‍💻 890 · 🔀 8.4K · 📋 2.3K - 84% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/google-research/google-research
@@ -741,7 +741,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/cider-dft/CiderPress">CiderPress</a></b> (🥈15 ·  ⭐ 29) - A high-performance software package for training and evaluating machine-learned XC functionals using the CIDER.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <a href="https://en.wikipedia.org/wiki/Category:Density_functional_theory"><code>ml-functional</code></a> <code>C-lang</code></summary>
 
-* [GitHub](https://github.com/cider-dft/CiderPress) ⭐ 30 | 🐛 3 | 🌐 Python | 📅 2026-08-27 (👨‍💻 3 · 🔀 5 · ⏱️ 27.08.2026):
+* [GitHub](https://github.com/cider-dft/CiderPress) ⭐ 31 | 🐛 3 | 🌐 Python | 📅 2026-08-27 (👨‍💻 3 · 🔀 5 · ⏱️ 27.08.2026):
 
   ```
   git clone https://github.com/mir-group/CiderPress
@@ -808,7 +808,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary>Show 27 hidden projects...</summary>
 
-* <b>[DM21](https://github.com/google-deepmind/deepmind-research/tree/master/density_functional_approximation_dm21) ⭐ 15,261 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17</b> (🥇19 ·  ⭐ 15K · 💀) - This package provides a PySCF interface to the DM21 (DeepMind 21) family of exchange-correlation functionals described.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[DM21](https://github.com/google-deepmind/deepmind-research/tree/master/density_functional_approximation_dm21) ⭐ 15,264 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17</b> (🥇19 ·  ⭐ 15K · 💀) - This package provides a PySCF interface to the DM21 (DeepMind 21) family of exchange-correlation functionals described.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[DeepH-pack](https://github.com/mzjb/DeepH-pack) ⭐ 347 | 🐛 27 | 🌐 Python | 📅 2024-10-07</b> (🥈12 ·  ⭐ 340 · 💀) - Deep neural networks for density functional theory Hamiltonian. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code> <code>Julia</code>
 * <b>[DeePKS-kit](https://github.com/deepmodeling/deepks-kit) ⭐ 120 | 🐛 16 | 🌐 Python | 📅 2025-04-28</b> (🥈9 ·  ⭐ 120 · 💀) - a package for developing machine learning-based chemically accurate energy and density functional models. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code> <a href="https://en.wikipedia.org/wiki/Category:Density_functional_theory"><code>ml-functional</code></a>
 * <b>[Grad DFT](https://github.com/XanaduAI/GradDFT) ⭐ 115 | 🐛 13 | 🌐 Python | 📅 2024-02-13</b> (🥈10 ·  ⭐ 120 · 💀) - GradDFT is a JAX-based library enabling the differentiable design and experimentation of exchange-correlation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -823,7 +823,7 @@ The current focus of this list is more on simulation data rather than experiment
 * <b>[ML-DFT](https://github.com/MihailBogojeski/ml-dft) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2020-09-18</b> (🥉4 ·  ⭐ 29 · 💀) - A package for density functional approximation using machine learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[ACEhamiltonians](https://github.com/ACEsuit/ACEhamiltonians.jl) ⭐ 17 | 🐛 3 | 🌐 Julia | 📅 2025-09-17</b> (🥈9 ·  ⭐ 17 · 💀) - Provides tools for constructing, fitting, and predicting self-consistent Hamiltonian and overlap matrices in solid-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Julia</code>
 * <b>[InfGCN for Electron Density Estimation](https://github.com/ccr-cheng/InfGCN-pytorch) ⭐ 17 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-12-05</b> (🥉5 ·  ⭐ 17 · 💀) - Official implementation of the NeurIPS 23 spotlight paper of InfGCN. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Neural_operators"><code>neural-operator</code></a>
-* <b>[charge-density-models](https://github.com/ulissigroup/charge-density-models) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-11-29</b> (🥉6 ·  ⭐ 16 · 💀) - Tools to build charge density models using [fairchem](https://github.com/FAIR-Chem/fairchem) ⭐ 2,338 | 🐛 34 | 🌐 Python | 📅 2026-10-30. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a>
+* <b>[charge-density-models](https://github.com/ulissigroup/charge-density-models) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-11-29</b> (🥉6 ·  ⭐ 16 · 💀) - Tools to build charge density models using [fairchem](https://github.com/FAIR-Chem/fairchem) ⭐ 2,339 | 🐛 34 | 🌐 Python | 📅 2026-11-01. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a>
 * <b>[ofdft\_nflows](https://github.com/ChemAI-Lab/ofdft_nflows) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2024-09-20</b> (🥉3 ·  ⭐ 12 · 💀) - Nomalizing flows for orbita-free DFT. <code>Unlicensed</code> <a href="https://en.wikipedia.org/wiki/Generative_model"><code>generative</code></a>
 * <b>[A3MD](https://github.com/brunocuevas/a3md) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2021-12-02</b> (🥉2 ·  ⭐ 8 · 💀) - MPNN-like + Analytic Density Model = Accurate electron densities. <code>Unlicensed</code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <code>single-paper</code>
 * <b>[APET](https://github.com/emotionor/APET) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2024-04-24</b> (🥉3 ·  ⭐ 7 · 💀) - Atomic Positional Embedding-based Transformer. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <a href="https://en.wikipedia.org/wiki/Density_of_states"><code>density-of-states</code></a> <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)"><code>transformer</code></a>
@@ -853,7 +853,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/lab-cosmo/atomistic-cookbook">COSMO Software Cookbook</a></b> (🥇14 ·  ⭐ 56) - A collection of simulation recipes for the atomic-scale modeling of materials and molecules. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/lab-cosmo/atomistic-cookbook) ⭐ 56 | 🐛 26 | 🌐 Python | 📅 2026-10-24 (👨‍💻 23 · 🔀 13 · 📋 35 - 31% open · ⏱️ 19.10.2026):
+* [GitHub](https://github.com/lab-cosmo/atomistic-cookbook) ⭐ 57 | 🐛 26 | 🌐 Python | 📅 2026-10-24 (👨‍💻 23 · 🔀 13 · 📋 35 - 31% open · ⏱️ 19.10.2026):
 
   ```
   git clone https://github.com/lab-cosmo/software-cookbook
@@ -1029,7 +1029,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/rdkit/rdkit">RDKit</a></b> (🥇39 ·  ⭐ 3.6K) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>C++</code> <a href="https://en.wikipedia.org/wiki/Cheminformatics"><code>cheminformatics</code></a></summary>
 
-* [GitHub](https://github.com/rdkit/rdkit) ⭐ 3,655 | 🐛 115 | 🌐 HTML | 📅 2026-10-30 (👨‍💻 290 · 🔀 1.1K · 📦 320 · 📋 3.8K - 2% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/rdkit/rdkit) ⭐ 3,658 | 🐛 110 | 🌐 HTML | 📅 2026-11-01 (👨‍💻 290 · 🔀 1.1K · 📦 320 · 📋 3.8K - 2% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/rdkit/rdkit
@@ -1046,7 +1046,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/deepchem/deepchem">DeepChem</a></b> (🥇33 ·  ⭐ 7.1K) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/deepchem/deepchem) ⭐ 7,112 | 🐛 1,266 | 🌐 Python | 📅 2026-08-20 (👨‍💻 260 · 🔀 2.3K · 📦 670 · 📋 2.5K - 47% open · ⏱️ 20.08.2026):
+* [GitHub](https://github.com/deepchem/deepchem) ⭐ 7,117 | 🐛 1,267 | 🌐 Python | 📅 2026-08-20 (👨‍💻 260 · 🔀 2.3K · 📦 670 · 📋 2.5K - 47% open · ⏱️ 20.08.2026):
 
   ```
   git clone https://github.com/deepchem/deepchem
@@ -1067,7 +1067,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/hackingmaterials/matminer">Matminer</a></b> (🥇28 ·  ⭐ 620) - Data mining for materials science. <code><a href="https://github.com/hackingmaterials/matminer/blob/main/LICENSE">Custom</a></code></summary>
 
-* [GitHub](https://github.com/hackingmaterials/matminer) ⭐ 623 | 🐛 45 | 🌐 HTML | 📅 2026-10-26 (👨‍💻 58 · 🔀 220 · 📦 500 · 📋 240 - 14% open · ⏱️ 19.10.2026):
+* [GitHub](https://github.com/hackingmaterials/matminer) ⭐ 624 | 🐛 45 | 🌐 HTML | 📅 2026-10-26 (👨‍💻 58 · 🔀 220 · 📦 500 · 📋 240 - 14% open · ⏱️ 19.10.2026):
 
   ```
   git clone https://github.com/hackingmaterials/matminer
@@ -1101,7 +1101,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/datamol-io/molfeat">Molfeat</a></b> (🥈24 ·  ⭐ 240) - molfeat - the hub for all your molecular featurizers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://en.wikipedia.org/wiki/Cheminformatics"><code>cheminformatics</code></a> <a href="https://en.wikipedia.org/wiki/Feature_engineering"><code>rep-eng</code></a> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Generative_model"><code>generative</code></a> <a href="https://en.wikipedia.org/wiki/Language_model"><code>language-models</code></a> <code>pretrained</code></summary>
 
-* [GitHub](https://github.com/datamol-io/molfeat) ⭐ 235 | 🐛 9 | 🌐 Python | 📅 2026-10-01 (👨‍💻 22 · 🔀 31 · 📦 79 · 📋 59 - 15% open · ⏱️ 09.09.2026):
+* [GitHub](https://github.com/datamol-io/molfeat) ⭐ 235 | 🐛 7 | 🌐 Python | 📅 2026-11-01 (👨‍💻 22 · 🔀 31 · 📦 79 · 📋 59 - 15% open · ⏱️ 09.09.2026):
 
   ```
   git clone https://github.com/datamol-io/molfeat
@@ -1180,7 +1180,7 @@ The current focus of this list is more on simulation data rather than experiment
 <details><summary>Show 14 hidden projects...</summary>
 
 * <b>[OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 759 | 🐛 17 | 🌐 Python | 📅 2023-11-26</b> (🥉10 ·  ⭐ 750 · 💀) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b>[JARVIS-Tools](https://github.com/usnistgov/jarvis) ⭐ 403 | 🐛 55 | 🌐 Python | 📅 2025-08-25</b> (🥈23 ·  ⭐ 400 · 💀) - About JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications:.. <code>[Custom](https://github.com/usnistgov/jarvis/blob/master/LICENSE.rst) ⭐ 403 | 🐛 55 | 🌐 Python | 📅 2025-08-25</code>
+* <b>[JARVIS-Tools](https://github.com/usnistgov/jarvis) ⭐ 403 | 🐛 56 | 🌐 Python | 📅 2025-08-25</b> (🥈23 ·  ⭐ 400 · 💀) - About JARVIS-Tools: an open-source software package for data-driven atomistic materials design. Publications:.. <code>[Custom](https://github.com/usnistgov/jarvis/blob/master/LICENSE.rst) ⭐ 403 | 🐛 56 | 🌐 Python | 📅 2025-08-25</code>
 * <b>[AtomAI](https://github.com/pycroscopy/atomai) ⭐ 230 | 🐛 11 | 🌐 Python | 📅 2025-06-24</b> (🥈18 ·  ⭐ 230 · 💀) - Deep and Machine Learning for Microscopy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Computer_vision"><code>computer-vision</code></a> <a href="https://en.wikipedia.org/wiki/Unsupervised_learning"><code>USL</code></a> <a href="https://en.wikipedia.org/wiki/Experimental_physics"><code>experimental-data</code></a>
 * <b>[QML](https://github.com/qmlcode/qml) ⚠️ Archived</b> (🥉15 ·  ⭐ 210 · 💀) - QML: Quantum Machine Learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[Automatminer](https://github.com/hackingmaterials/automatminer) ⚠️ Archived</b> (🥉14 ·  ⭐ 180 · 💀) - An automatic engine for predicting materials properties. <code>[Custom](https://github.com/hackingmaterials/automatminer/blob/main/LICENSE) ⚠️ Archived</code> <a href="https://en.wikipedia.org/wiki/Automated_machine_learning"><code>autoML</code></a>
@@ -1303,7 +1303,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/facebookresearch/fairchem">fairchem</a></b> (🥇31 ·  ⭐ 2.3K) - FAIR Chemistrys library of machine learning methods for chemistry. Formerly known as Open Catalyst Project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>pretrained</code> <a href="https://www.google.com/search?q=universal+interatomic+potential"><code>UIP</code></a> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Catalysis"><code>catalysis</code></a></summary>
 
-* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,338 | 🐛 34 | 🌐 Python | 📅 2026-10-30 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,339 | 🐛 34 | 🌐 Python | 📅 2026-11-01 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/FAIR-Chem/fairchem
@@ -1316,7 +1316,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/deepmd-kit">DeePMD-kit</a></b> (🥇30 ·  ⭐ 2.1K) - A deep learning package for many-body potential energy representation and molecular dynamics. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code> <a href="https://en.wikipedia.org/wiki/Molecular_dynamics"><code>MD</code></a> <code>workflows</code> <code>C++</code></summary>
 
-* [GitHub](https://github.com/deepmodeling/deepmd-kit) ⭐ 2,074 | 🐛 244 | 🌐 Python | 📅 2026-10-31 (👨‍💻 96 · 🔀 640 · 📥 79K · 📦 63 · 📋 1.3K - 15% open · ⏱️ 21.10.2026):
+* [GitHub](https://github.com/deepmodeling/deepmd-kit) ⭐ 2,075 | 🐛 247 | 🌐 Python | 📅 2026-11-01 (👨‍💻 96 · 🔀 640 · 📥 79K · 📦 63 · 📋 1.3K - 15% open · ⏱️ 21.10.2026):
 
   ```
   git clone https://github.com/deepmodeling/deepmd-kit
@@ -1371,7 +1371,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/materialyzeai/matcalc">MatCalc</a></b> (🥇25 ·  ⭐ 160) - A python library for calculating materials properties from the PES. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>workflows</code> <code>benchmarking</code> <a href="https://www.google.com/search?q=universal+interatomic+potential"><code>UIP</code></a> <code>pretrained</code> <code>model-repository</code></summary>
 
-* [GitHub](https://github.com/materialyzeai/matcalc) ⭐ 157 | 🐛 4 | 🌐 Python | 📅 2026-10-30 (👨‍💻 24 · 🔀 38 · 📦 27 · 📋 48 - 8% open · ⏱️ 08.10.2026):
+* [GitHub](https://github.com/materialyzeai/matcalc) ⭐ 157 | 🐛 25 | 🌐 Python | 📅 2026-11-02 (👨‍💻 24 · 🔀 38 · 📦 27 · 📋 48 - 8% open · ⏱️ 08.10.2026):
 
   ```
   git clone https://github.com/materialsvirtuallab/matcalc
@@ -1406,7 +1406,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/stfc/janus-core">janus-core</a></b> (🥇21 ·  ⭐ 51) - Tools for machine learnt interatomic potentials. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>benchmarking</code> <code>workflows</code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>structure-optimization</code></a> <a href="https://en.wikipedia.org/wiki/Molecular_dynamics"><code>MD</code></a> <a href="https://en.wikipedia.org/wiki/Transport_phenomena"><code>transport-phenomena</code></a></summary>
 
-* [GitHub](https://github.com/stfc/janus-core) ⭐ 51 | 🐛 48 | 🌐 Python | 📅 2026-10-30 (👨‍💻 11 · 🔀 18 · 📥 280 · 📦 19 · 📋 320 - 17% open · ⏱️ 02.10.2026):
+* [GitHub](https://github.com/stfc/janus-core) ⭐ 52 | 🐛 48 | 🌐 Python | 📅 2026-10-30 (👨‍💻 11 · 🔀 18 · 📥 280 · 📦 19 · 📋 320 - 17% open · ⏱️ 02.10.2026):
 
   ```
   git clone https://github.com/stfc/janus-core
@@ -1432,7 +1432,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/autoatml/autoplex">Autoplex</a></b> (🥈18 ·  ⭐ 160) - Code for automated fitting of machine learned interatomic potentials. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code>benchmarking</code> <code>workflows</code></summary>
 
-* [GitHub](https://github.com/autoatml/autoplex) ⭐ 164 | 🐛 47 | 🌐 Python | 📅 2026-10-27 (👨‍💻 18 · 🔀 28 · 📦 2 · 📋 150 - 22% open · ⏱️ 21.10.2026):
+* [GitHub](https://github.com/autoatml/autoplex) ⭐ 165 | 🐛 47 | 🌐 Python | 📅 2026-10-27 (👨‍💻 18 · 🔀 28 · 📦 2 · 📋 150 - 22% open · ⏱️ 21.10.2026):
 
   ```
   git clone https://github.com/autoatml/autoplex
@@ -1445,7 +1445,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/openkim/kliff">KLIFF</a></b> (🥈18 ·  ⭐ 40 · 💤) - KIM-based Learning-Integrated Fitting Framework for interatomic potentials. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">LGPL-2.1</a></code> <code>probabilistic</code> <code>workflows</code></summary>
 
-* [GitHub](https://github.com/openkim/kliff) ⭐ 40 | 🐛 19 | 🌐 Python | 📅 2026-10-29 (👨‍💻 14 · 🔀 21 · 📦 4 · 📋 56 - 41% open · ⏱️ 28.02.2026):
+* [GitHub](https://github.com/openkim/kliff) ⭐ 40 | 🐛 24 | 🌐 Python | 📅 2026-11-01 (👨‍💻 14 · 🔀 21 · 📦 4 · 📋 56 - 41% open · ⏱️ 28.02.2026):
 
   ```
   git clone https://github.com/openkim/kliff
@@ -1593,7 +1593,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/deepmd-gnn">DeepMD-GNN</a></b> (🥈12 ·  ⭐ 57) - DeePMD-kit plugin for various graph neural network models. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Molecular_dynamics"><code>MD</code></a> <a href="https://www.google.com/search?q=universal+interatomic+potential"><code>UIP</code></a> <code>C++</code></summary>
 
-* [GitHub](https://github.com/deepmodeling/deepmd-gnn) ⭐ 57 | 🐛 14 | 🌐 Python | 📅 2026-10-26 (👨‍💻 10 · 🔀 10 · 📋 30 - 20% open · ⏱️ 16.09.2026):
+* [GitHub](https://github.com/deepmodeling/deepmd-gnn) ⭐ 57 | 🐛 15 | 🌐 Python | 📅 2026-10-26 (👨‍💻 10 · 🔀 10 · 📋 30 - 20% open · ⏱️ 16.09.2026):
 
   ```
   git clone https://github.com/deepmodeling/deepmd-gnn
@@ -1807,8 +1807,8 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary>Show 20 hidden projects...</summary>
 
-* <b>[ChemCrow](https://github.com/ur-whitelab/chemcrow-public) ⭐ 970 | 🐛 15 | 🌐 Python | 📅 2024-12-19</b> (🥈15 ·  ⭐ 970 · 💀) - Open source package for the accurate solution of reasoning-intensive chemical tasks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Large_language_model#Agency"><code>ai-agent</code></a>
-* <b>[mat2vec](https://github.com/materialsintelligence/mat2vec) ⭐ 641 | 🐛 8 | 🌐 Python | 📅 2023-05-06</b> (🥈12 ·  ⭐ 640 · 💀) - Supplementary Materials for Tshitoyan et al. Unsupervised word embeddings capture latent knowledge from materials.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a>
+* <b>[ChemCrow](https://github.com/ur-whitelab/chemcrow-public) ⭐ 971 | 🐛 15 | 🌐 Python | 📅 2024-12-19</b> (🥈15 ·  ⭐ 970 · 💀) - Open source package for the accurate solution of reasoning-intensive chemical tasks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Large_language_model#Agency"><code>ai-agent</code></a>
+* <b>[mat2vec](https://github.com/materialsintelligence/mat2vec) ⭐ 642 | 🐛 8 | 🌐 Python | 📅 2023-05-06</b> (🥈12 ·  ⭐ 640 · 💀) - Supplementary Materials for Tshitoyan et al. Unsupervised word embeddings capture latent knowledge from materials.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a>
 * <b>[MoLFormer](https://github.com/IBM/molformer) ⭐ 420 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-09-17</b> (🥉9 ·  ⭐ 420 · 💀) - Repository for MolFormer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)"><code>transformer</code></a> <code>pretrained</code> <a href="https://en.wikipedia.org/wiki/Drug_design#Computer-aided_drug_design"><code>drug-discovery</code></a>
 * <b>[ChemDataExtractor](https://github.com/mcs07/ChemDataExtractor) ⭐ 367 | 🐛 23 | 🌐 Python | 📅 2023-07-27</b> (🥇17 ·  ⭐ 370 · 💀) - Automatically extract chemical information from scientific documents. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>literature-data</code>
 * <b>[gptchem](https://github.com/kjappelbaum/gptchem) ⭐ 262 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2024-05-17</b> (🥈12 ·  ⭐ 260 · 💀) - Use GPT-3 to solve chemistry problems. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -1958,7 +1958,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/PASSIONLab/OpenEquivariance">OpenEquivariance</a></b> (🥇23 ·  ⭐ 170) - OpenEquivariance: a fast, open-source GPU JIT kernel generator for the Clebsch-Gordon Tensor Product. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a></summary>
 
-* [GitHub](https://github.com/PASSIONLab/OpenEquivariance) ⭐ 172 | 🐛 5 | 🌐 Python | 📅 2026-10-25 (👨‍💻 7 · 🔀 17 · 📦 8 · 📋 42 - 9% open · ⏱️ 27.09.2026):
+* [GitHub](https://github.com/PASSIONLab/OpenEquivariance) ⭐ 172 | 🐛 7 | 🌐 Python | 📅 2026-11-01 (👨‍💻 7 · 🔀 17 · 📦 8 · 📋 42 - 9% open · ⏱️ 27.09.2026):
 
   ```
   git clone https://github.com/PASSIONLab/OpenEquivariance
@@ -2077,7 +2077,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/brucefan1983/GPUMD">GPUMD</a></b> (🥈23 ·  ⭐ 860) - GPUMD is a highly efficient general-purpose molecular dynamic (MD) package and enables machine-learned potentials.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code>ML-IAP</code> <code>C++</code> <a href="https://en.wikipedia.org/wiki/Electrostatics"><code>electrostatics</code></a></summary>
 
-* [GitHub](https://github.com/brucefan1983/GPUMD) ⭐ 862 | 🐛 23 | 🌐 Cuda | 📅 2026-10-30 (👨‍💻 70 · 🔀 210 · 📋 290 - 5% open · ⏱️ 21.10.2026):
+* [GitHub](https://github.com/brucefan1983/GPUMD) ⭐ 862 | 🐛 23 | 🌐 Cuda | 📅 2026-11-01 (👨‍💻 70 · 🔀 210 · 📋 290 - 5% open · ⏱️ 21.10.2026):
 
   ```
   git clone https://github.com/brucefan1983/GPUMD
@@ -2229,7 +2229,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/cdk/cdk">cdk</a></b> (🥇27 ·  ⭐ 610) - The Chemistry Development Kit. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">LGPL-2.1</a></code> <a href="https://en.wikipedia.org/wiki/Cheminformatics"><code>cheminformatics</code></a> <code>Java</code></summary>
 
-* [GitHub](https://github.com/cdk/cdk) ⭐ 612 | 🐛 16 | 🌐 Java | 📅 2026-10-31 (👨‍💻 170 · 🔀 180 · 📥 150K · 📋 340 - 3% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/cdk/cdk) ⭐ 612 | 🐛 14 | 🌐 Java | 📅 2026-11-01 (👨‍💻 170 · 🔀 180 · 📥 150K · 📋 340 - 3% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/cdk/cdk
@@ -2259,7 +2259,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/WMD-group/ElementEmbeddings">ElementEmbeddings</a></b> (🥇17 ·  ⭐ 52) - Python package to interact with high-dimensional representations of the chemical elements. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"><code>XAI</code></a> <a href="https://en.wikipedia.org/wiki/Unsupervised_learning"><code>USL</code></a> <a href="https://en.wikipedia.org/wiki/Visualization"><code>viz</code></a></summary>
 
-* [GitHub](https://github.com/WMD-group/ElementEmbeddings) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-10-04 (👨‍💻 10 · 🔀 5 · 📦 6 · ⏱️ 04.10.2026):
+* [GitHub](https://github.com/WMD-group/ElementEmbeddings) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-11-01 (👨‍💻 10 · 🔀 5 · 📦 6 · ⏱️ 04.10.2026):
 
   ```
   git clone https://github.com/WMD-group/ElementEmbeddings
@@ -2408,7 +2408,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/pyg-team/pytorch_geometric/tree/master/torch_geometric/nn/models">PyG Models</a></b> (🥇34 ·  ⭐ 24K · 📈) - Representation learning models implemented in PyTorch Geometric. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>general-ml</code></summary>
 
-* [GitHub](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,131 | 🐛 1,385 | 🌐 Python | 📅 2026-10-21 (👨‍💻 570 · 🔀 4.1K · 📦 12K · 📋 4.2K - 33% open · ⏱️ 21.10.2026):
+* [GitHub](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,130 | 🐛 1,385 | 🌐 Python | 📅 2026-10-21 (👨‍💻 570 · 🔀 4.1K · 📦 12K · 📋 4.2K - 33% open · ⏱️ 21.10.2026):
 
   ```
   git clone https://github.com/pyg-team/pytorch_geometric
@@ -2417,7 +2417,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/e3nn/e3nn">e3nn</a></b> (🥇28 ·  ⭐ 1.3K · 💤) - A modular framework for neural networks with Euclidean symmetry. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/e3nn/e3nn) ⭐ 1,292 | 🐛 35 | 🌐 Python | 📅 2026-02-13 (👨‍💻 38 · 🔀 180 · 📦 720 · 📋 180 - 17% open · ⏱️ 13.02.2026):
+* [GitHub](https://github.com/e3nn/e3nn) ⭐ 1,293 | 🐛 35 | 🌐 Python | 📅 2026-02-13 (👨‍💻 38 · 🔀 180 · 📦 720 · 📋 180 - 17% open · ⏱️ 13.02.2026):
 
   ```
   git clone https://github.com/e3nn/e3nn
@@ -2486,7 +2486,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/microsoft/Graphormer">Graphormer</a></b> (🥈16 ·  ⭐ 2.5K) - Graphormer is a general-purpose deep learning backbone for molecular modeling. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)"><code>transformer</code></a> <code>pretrained</code></summary>
 
-* [GitHub](https://github.com/microsoft/Graphormer) ⭐ 2,482 | 🐛 101 | 🌐 Python | 📅 2026-10-31 (👨‍💻 18 · 🔀 360 · 📋 160 - 58% open · ⏱️ 24.09.2026):
+* [GitHub](https://github.com/microsoft/Graphormer) ⭐ 2,483 | 🐛 101 | 🌐 Python | 📅 2026-10-31 (👨‍💻 18 · 🔀 360 · 📋 160 - 58% open · ⏱️ 24.09.2026):
 
   ```
   git clone https://github.com/microsoft/Graphormer
@@ -2495,7 +2495,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/lanl/hippynn">hippynn</a></b> (🥈13 ·  ⭐ 98) - python library for atomistic machine learning. <code><a href="https://github.com/lanl/hippynn/blob/main/LICENSE.txt">Custom</a></code> <code>workflows</code></summary>
 
-* [GitHub](https://github.com/lanl/hippynn) ⭐ 98 | 🐛 21 | 🌐 Python | 📅 2026-08-22 (👨‍💻 22 · 🔀 37 · 📦 4 · 📋 42 - 33% open · ⏱️ 22.08.2026):
+* [GitHub](https://github.com/lanl/hippynn) ⭐ 98 | 🐛 22 | 🌐 Python | 📅 2026-08-22 (👨‍💻 22 · 🔀 37 · 📦 4 · 📋 42 - 33% open · ⏱️ 22.08.2026):
 
   ```
   git clone https://github.com/lanl/hippynn
@@ -2558,7 +2558,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary>Show 49 hidden projects...</summary>
 
-* <b>[NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples#graph-neural-networks) ⭐ 14,869 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2024-08-12</b> (🥈20 ·  ⭐ 15K · 💀) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and.. <code>[Custom](https://github.com/NVIDIA/DeepLearningExamples/blob/master/DGLPyTorch/DrugDiscovery/SE3Transformer/LICENSE) ⭐ 14,869 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2024-08-12</code> <code>educational</code> <a href="https://en.wikipedia.org/wiki/Drug_design#Computer-aided_drug_design"><code>drug-discovery</code></a>
+* <b>[NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples#graph-neural-networks) ⭐ 14,871 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2024-08-12</b> (🥈20 ·  ⭐ 15K · 💀) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and.. <code>[Custom](https://github.com/NVIDIA/DeepLearningExamples/blob/master/DGLPyTorch/DrugDiscovery/SE3Transformer/LICENSE) ⭐ 14,871 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2024-08-12</code> <code>educational</code> <a href="https://en.wikipedia.org/wiki/Drug_design#Computer-aided_drug_design"><code>drug-discovery</code></a>
 * <b>[Deep Graph Library (DGL)](https://github.com/dmlc/dgl) ⭐ 14,290 | 🐛 610 | 🌐 Python | 📅 2025-07-31</b> (🥇36 ·  ⭐ 14K · 💀) - Python package built to ease deep learning on graph, on top of existing DL frameworks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) ⭐ 2,670 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-06-22</b> (🥈14 ·  ⭐ 2.7K · 💀) - Repository for benchmarking graph neural networks (JMLR 2023). <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>single-paper</code> <code>benchmarking</code>
 * <b>[DIG: Dive into Graphs](https://github.com/divelab/DIG) ⭐ 2,010 | 🐛 43 | 🌐 Python | 📅 2024-07-15</b> (🥈19 ·  ⭐ 2K · 💀) - A library for graph deep learning research. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code>
@@ -2623,7 +2623,7 @@ The current focus of this list is more on simulation data rather than experiment
 
 <details><summary><b><a href="https://github.com/FAIR-Chem/fairchem/tree/main/src/fairchem/core/models/equiformer_v2">FAIRChem EquiformerV2 models</a></b> (🥇31 ·  ⭐ 2.3K) - FAIRChem implementation of Equiformer V2 (eqV2) models. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>pretrained</code> <a href="https://www.google.com/search?q=universal+interatomic+potential"><code>UIP</code></a> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Catalysis"><code>catalysis</code></a></summary>
 
-* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,338 | 🐛 34 | 🌐 Python | 📅 2026-10-30 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,339 | 🐛 34 | 🌐 Python | 📅 2026-11-01 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/FAIR-Chem/fairchem
@@ -2636,7 +2636,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/janosh/matbench-discovery/tree/main/models/eSEN">FAIRChem eSEN models</a></b> (🥇31 ·  ⭐ 2.3K) - FAIRChem implementation of Smooth Energy Network (eSEN) models arXiv:2502.12147. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>pretrained</code> <a href="https://www.google.com/search?q=universal+interatomic+potential"><code>UIP</code></a> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Catalysis"><code>catalysis</code></a></summary>
 
-* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,338 | 🐛 34 | 🌐 Python | 📅 2026-10-30 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/facebookresearch/fairchem) ⭐ 2,339 | 🐛 34 | 🌐 Python | 📅 2026-11-01 (👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/FAIR-Chem/fairchem
@@ -2649,7 +2649,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/deepmd-kit">DPA-2</a></b> (🥇31 ·  ⭐ 2.1K) - A large atomic model as a multi-task learner https://arxiv.org/abs/2312.15492. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code> <code>ML-IAP</code> <code>pretrained</code> <code>workflows</code> <code>datasets</code></summary>
 
-* [GitHub](https://github.com/deepmodeling/deepmd-kit) ⭐ 2,074 | 🐛 244 | 🌐 Python | 📅 2026-10-31 (👨‍💻 96 · 🔀 640 · 📥 79K · 📦 63 · 📋 1.3K - 15% open · ⏱️ 21.10.2026):
+* [GitHub](https://github.com/deepmodeling/deepmd-kit) ⭐ 2,075 | 🐛 247 | 🌐 Python | 📅 2026-11-01 (👨‍💻 96 · 🔀 640 · 📥 79K · 📦 63 · 📋 1.3K - 15% open · ⏱️ 21.10.2026):
 
   ```
   git clone https://github.com/deepmodeling/deepmd-kit
@@ -2670,7 +2670,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/deepmodeling/deepmd-kit">DeePMD-DPA3</a></b> (🥇31 ·  ⭐ 2.1K) - Successor of DPA-2. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code> <code>ML-IAP</code> <code>pretrained</code> <code>workflows</code> <code>datasets</code></summary>
 
-* [GitHub](https://github.com/deepmodeling/deepmd-kit) ⭐ 2,074 | 🐛 244 | 🌐 Python | 📅 2026-10-31 (👨‍💻 96 · 🔀 640 · 📥 79K · 📦 63 · 📋 1.3K - 15% open · ⏱️ 21.10.2026):
+* [GitHub](https://github.com/deepmodeling/deepmd-kit) ⭐ 2,075 | 🐛 247 | 🌐 Python | 📅 2026-11-01 (👨‍💻 96 · 🔀 640 · 📥 79K · 📦 63 · 📋 1.3K - 15% open · ⏱️ 21.10.2026):
 
   ```
   git clone https://github.com/deepmodeling/deepmd-kit
@@ -2691,7 +2691,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/ACEsuit/mace-foundations">MACE-FOUNDATION models</a></b> (🥈24 ·  ⭐ 1.2K) - MACE foundation models (MP, OMAT, mh-1). <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ML-IAP</code> <code>pretrained</code> <a href="https://en.wikipedia.org/wiki/Feature_learning"><code>rep-learn</code></a> <a href="https://en.wikipedia.org/wiki/Molecular_dynamics"><code>MD</code></a></summary>
 
-* [GitHub](https://github.com/ACEsuit/mace-foundations) ⭐ 317 | 🐛 12 | 🌐 Shell | 📅 2026-08-26 (👨‍💻 6 · 🔀 420 · 📥 830K · 📋 45 - 22% open · ⏱️ 26.08.2026):
+* [GitHub](https://github.com/ACEsuit/mace-foundations) ⭐ 318 | 🐛 12 | 🌐 Shell | 📅 2026-08-26 (👨‍💻 6 · 🔀 420 · 📥 830K · 📋 45 - 22% open · ⏱️ 26.08.2026):
 
   ```
   git clone https://github.com/ACEsuit/mace-foundations
@@ -2855,7 +2855,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/janosh/pymatviz">pymatviz</a></b> (🥈24 ·  ⭐ 340) - A toolkit for visualizations in materials informatics. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>general-tool</code> <code>probabilistic</code></summary>
 
-* [GitHub](https://github.com/janosh/pymatviz) ⭐ 340 | 🐛 1 | 🌐 Python | 📅 2026-10-19 (👨‍💻 15 · 🔀 43 · 📥 26K · 📦 37 · ⏱️ 19.10.2026):
+* [GitHub](https://github.com/janosh/pymatviz) ⭐ 340 | 🐛 0 | 🌐 Python | 📅 2026-11-01 (👨‍💻 15 · 🔀 43 · 📥 26K · 📦 37 · ⏱️ 19.10.2026):
 
   ```
   git clone https://github.com/janosh/pymatviz
@@ -2868,7 +2868,7 @@ The current focus of this list is more on simulation data rather than experiment
 </details>
 <details><summary><b><a href="https://github.com/janosh/matterviz">Elementari</a></b> (🥈23 ·  ⭐ 360 · 📈) - Interactive browser visualizations for materials science: crystal structures/molecules, trajectories, convex hulls,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>JavaScript</code></summary>
 
-* [GitHub](https://github.com/janosh/matterviz) ⭐ 368 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 (👨‍💻 12 · 🔀 49 · 📥 18K · 📦 9 · ⏱️ 22.10.2026):
+* [GitHub](https://github.com/janosh/matterviz) ⭐ 369 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-01 (👨‍💻 12 · 🔀 49 · 📥 18K · 📦 9 · ⏱️ 22.10.2026):
 
   ```
   git clone https://github.com/janosh/elementari
@@ -2982,4 +2982,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
