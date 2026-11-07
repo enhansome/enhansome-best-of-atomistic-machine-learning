@@ -52,6 +52,30 @@
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
+          "children": [],
+          "description": "2nd generation of the Deep Potential GENerator. LGPL-3.0 ML-IAP MD workflows",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "2nd generation of the Deep Potential GENerator",
+            "homepage": "https://docs.deepmodeling.com/projects/dpgen2/",
+            "id": 464315033,
+            "language": "Python",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-10-26T14:04:16Z",
+            "open_issues": 69,
+            "owner": "deepmodeling",
+            "repo": "dpgen2",
+            "stars": 42,
+            "topics": [
+              "concurrent-learning",
+              "python"
+            ]
+          },
+          "title": "DP-GEN2",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -98,31 +122,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Bgolearn (🥈17 · ⭐ 160) - [NPJ Com. Mat.] Offical implement of Bgolearn. MIT materials-discovery probabilistic"
-        },
-        {
-          "children": [],
-          "description": "2nd generation of the Deep Potential GENerator. LGPL-3.0 ML-IAP MD workflows",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "2nd generation of the Deep Potential GENerator",
-            "homepage": "https://docs.deepmodeling.com/projects/dpgen2/",
-            "id": 464315033,
-            "language": "Python",
-            "license": "LGPL-3.0",
-            "last_commit": "2026-10-26T14:04:16Z",
-            "open_issues": 69,
-            "owner": "deepmodeling",
-            "repo": "dpgen2",
-            "stars": 42,
-            "topics": [
-              "concurrent-learning",
-              "python"
-            ]
-          },
-          "title": "DP-GEN2",
-          "first_seen": "2026-08-28T06:22:45.549Z"
+          "title": "Bgolearn (🥈16 · ⭐ 160) - [NPJ Com. Mat.] Offical implement of Bgolearn. MIT materials-discovery probabilistic"
         },
         {
           "children": [],
@@ -262,7 +262,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "matbench-discovery",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "bayesian-optimization",
               "convex-hull",
@@ -273,47 +273,6 @@
             ]
           },
           "title": "MatBench Discovery",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
-          "description": "A ranked list of awesome machine learning Python libraries. Updated weekly. CC-BY-4.0 general-ml Python",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
-            "homepage": "https://ml-python.best-of.org",
-            "id": 317029148,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-05T14:09:31Z",
-            "open_issues": 58,
-            "owner": "lukasmasuch",
-            "repo": "best-of-ml-python",
-            "stars": 23858,
-            "topics": [
-              "automl",
-              "chatgpt",
-              "data-analysis",
-              "data-science",
-              "data-visualization",
-              "data-visualizations",
-              "deep-learning",
-              "gpt",
-              "gpt-3",
-              "jax",
-              "keras",
-              "machine-learning",
-              "ml",
-              "nlp",
-              "python",
-              "pytorch",
-              "scikit-learn",
-              "tensorflow",
-              "transformer"
-            ]
-          },
-          "title": "Best-of Machine Learning with Python",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -344,6 +303,77 @@
             ]
           },
           "title": "OpenML",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
+          "description": "Matbench: Benchmarks for materials science property prediction. MIT datasets benchmarking model-repository",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Matbench: Benchmarks for materials science property prediction",
+            "homepage": "https://matbench.materialsproject.org",
+            "id": 341773226,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-04T14:03:23Z",
+            "open_issues": 34,
+            "owner": "materialsproject",
+            "repo": "matbench",
+            "stars": 224,
+            "topics": [
+              "benchmark",
+              "chemistry",
+              "condensed-matter",
+              "data-science",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "materials-science",
+              "physics"
+            ]
+          },
+          "title": "MatBench",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
+          "description": "A ranked list of awesome machine learning Python libraries. Updated weekly. CC-BY-4.0 general-ml Python",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+            "homepage": "https://ml-python.best-of.org",
+            "id": 317029148,
+            "language": null,
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-11-05T14:09:31Z",
+            "open_issues": 58,
+            "owner": "lukasmasuch",
+            "repo": "best-of-ml-python",
+            "stars": 23859,
+            "topics": [
+              "automl",
+              "chatgpt",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "data-visualizations",
+              "deep-learning",
+              "gpt",
+              "gpt-3",
+              "jax",
+              "keras",
+              "machine-learning",
+              "ml",
+              "nlp",
+              "python",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow",
+              "transformer"
+            ]
+          },
+          "title": "Best-of Machine Learning with Python",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -380,7 +410,7 @@
             {
               "node_type": "item",
               "title": "ddmms/ml-peg",
-              "description": "(👨‍💻 44 · 🔀 72 · 📥 68 · 📋 410 - 53% open · ⏱️ 22.10.2026):",
+              "description": "(👨‍💻 44 · 🔀 77 · 📥 88 · 📋 410 - 53% open · ⏱️ 05.11.2026):",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -389,8 +419,8 @@
                 "id": 959951302,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T15:21:28Z",
-                "open_issues": 219,
+                "last_commit": "2026-11-06T17:34:08Z",
+                "open_issues": 216,
                 "owner": "ddmms",
                 "repo": "ml-peg",
                 "stars": 72,
@@ -409,7 +439,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "ML-PEG (🥇18 · ⭐ 71) - ML Performance and Extrapolation Guide. GPL-3.0 benchmarking viz datasets structure-optimization MD transport-phenomena biomolecules long-range electrostatics"
+          "title": "ML-PEG (🥈18 · ⭐ 72) - ML Performance and Extrapolation Guide. GPL-3.0 benchmarking viz datasets structure-optimization MD transport-phenomena biomolecules long-range electrostatics"
         },
         {
           "children": [
@@ -519,7 +549,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "GNoME Explorer (🥈12 · ⭐ 1.2K) - Graph Networks for Materials Exploration Database. Apache-2 datasets materials-discovery"
+          "title": "GNoME Explorer (🥈12 · ⭐ 1.3K · 💤) - Graph Networks for Materials Exploration Database. Apache-2 datasets materials-discovery"
         },
         {
           "children": [],
@@ -556,27 +586,6 @@
         },
         {
           "children": [],
-          "description": "A curated list of the most useful datasets in materials science and chemistry for training machine learning and AI.. MIT datasets experimental-data literature-data proprietary",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 958966060,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-19T22:04:16Z",
-            "open_issues": 6,
-            "owner": "blaiszik",
-            "repo": "awesome-matchem-datasets",
-            "stars": 403,
-            "topics": []
-          },
-          "title": "Awesome Materials & Chemistry Datasets",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery (EMNLP24). MIT language-models general-ml pretrained multimodal",
           "node_type": "item",
           "repo_info": {
@@ -600,6 +609,27 @@
             ]
           },
           "title": "Awesome-Scientific-Language-Models",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
+          "description": "A curated list of the most useful datasets in materials science and chemistry for training machine learning and AI.. MIT datasets experimental-data literature-data proprietary",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 958966060,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-19T22:04:16Z",
+            "open_issues": 6,
+            "owner": "blaiszik",
+            "repo": "awesome-matchem-datasets",
+            "stars": 403,
+            "topics": []
+          },
+          "title": "Awesome Materials & Chemistry Datasets",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -654,7 +684,7 @@
             "open_issues": 1,
             "owner": "neurreps",
             "repo": "awesome-neural-geometry",
-            "stars": 1088,
+            "stars": 1089,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -737,7 +767,7 @@
             "open_issues": 1,
             "owner": "sedaoturak",
             "repo": "data-resources-for-materials-science",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "material-design",
               "material-properties",
@@ -860,36 +890,6 @@
             },
             {
               "node_type": "item",
-              "title": "MatBench",
-              "description": "Matbench: Benchmarks for materials science property prediction. MIT datasets benchmarking model-repository",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Matbench: Benchmarks for materials science property prediction",
-                "homepage": "https://matbench.materialsproject.org",
-                "id": 341773226,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-04T14:03:23Z",
-                "open_issues": 34,
-                "owner": "materialsproject",
-                "repo": "matbench",
-                "stars": 224,
-                "topics": [
-                  "benchmark",
-                  "chemistry",
-                  "condensed-matter",
-                  "data-science",
-                  "machine-learning",
-                  "machine-learning-algorithms",
-                  "materials-science",
-                  "physics"
-                ]
-              },
-              "first_seen": "2026-08-28T06:22:45.549Z"
-            },
-            {
-              "node_type": "item",
               "title": "AI for Science paper collection",
               "description": "List the AI for Science papers accepted by top conferences. Apache-2",
               "children": [],
@@ -969,7 +969,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 12 hidden projects..."
+          "title": "Show 11 hidden projects..."
         }
       ],
       "title": "Community resources"
@@ -988,11 +988,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T02:40:02Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-07T01:51:05Z",
+            "open_issues": 39,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2348,
+            "stars": 2349,
             "topics": []
           },
           "title": "FAIR Chemistry datasets",
@@ -1003,7 +1003,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/fairchem",
-              "description": "(👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):",
+              "description": "(👨‍💻 78 · 🔀 520 · 📋 620 - 1% open · ⏱️ 05.11.2026):",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1012,11 +1012,11 @@
                 "id": 211001860,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T02:40:02Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-07T01:51:05Z",
+                "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "fairchem",
-                "stars": 2348,
+                "stars": 2349,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -1037,7 +1037,7 @@
             "id": 27885364,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T00:38:49Z",
+            "last_commit": "2026-11-07T00:45:50Z",
             "open_issues": 23,
             "owner": "materialsproject",
             "repo": "MPContribs",
@@ -1077,8 +1077,8 @@
             "id": 136234321,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:57:05Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-06T21:01:18Z",
+            "open_issues": 93,
             "owner": "Materials-Consortia",
             "repo": "optimade-python-tools",
             "stars": 92,
@@ -1167,7 +1167,7 @@
             {
               "node_type": "item",
               "title": "materialyzeai/matpes",
-              "description": "(👨‍💻 3 · 🔀 5 · 📋 10 - 20% open · ⏱️ 01.07.2026):",
+              "description": "(👨‍💻 3 · 🔀 5 · 📋 10 - 20% open · ⏱️ 03.11.2026):",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1228,40 +1228,6 @@
         },
         {
           "children": [],
-          "description": "Tutorials, notebooks, issue tracker, and website on the MPDS API: the data retrieval interface for the Materials.. CC-BY-4.0 phase-transition",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Tutorials, notebooks, issue tracker, and website on the MPDS API: the data retrieval interface for the Materials Platform for Data Science",
-            "homepage": "https://developer.mpds.io",
-            "id": 74370730,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-08-23T23:12:30Z",
-            "open_issues": 1,
-            "owner": "mpds-io",
-            "repo": "mpds-api",
-            "stars": 27,
-            "topics": [
-              "calphad",
-              "crystal-structure",
-              "crystallography",
-              "data-science",
-              "materials",
-              "materials-informatics",
-              "materials-platform",
-              "materials-science",
-              "mpds-api",
-              "mpds-platform",
-              "phase-diagram",
-              "phase-diagrams"
-            ]
-          },
-          "title": "MPDS API",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "A collection of QM data for training potential functions. MIT ML-IAP MD",
           "node_type": "item",
           "repo_info": {
@@ -1307,7 +1273,41 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "OpenKIM (🥈11 · ⭐ 40 · 💤) - The Open Knowledgebase of Interatomic Models (OpenKIM) aims to be an online resource for standardized testing, long-.. LGPL-2.1 model-repository knowledge-base pretrained"
+          "title": "OpenKIM (🥈11 · ⭐ 41 · 💤) - The Open Knowledgebase of Interatomic Models (OpenKIM) aims to be an online resource for standardized testing, long-.. LGPL-2.1 model-repository knowledge-base pretrained"
+        },
+        {
+          "children": [],
+          "description": "Tutorials, notebooks, issue tracker, and website on the MPDS API: the data retrieval interface for the Materials.. CC-BY-4.0 phase-transition",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Tutorials, notebooks, issue tracker, and website on the MPDS API: the data retrieval interface for the Materials Platform for Data Science",
+            "homepage": "https://developer.mpds.io",
+            "id": 74370730,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-08-23T23:12:30Z",
+            "open_issues": 1,
+            "owner": "mpds-io",
+            "repo": "mpds-api",
+            "stars": 27,
+            "topics": [
+              "calphad",
+              "crystal-structure",
+              "crystallography",
+              "data-science",
+              "materials",
+              "materials-informatics",
+              "materials-platform",
+              "materials-science",
+              "mpds-api",
+              "mpds-platform",
+              "phase-diagram",
+              "phase-diagrams"
+            ]
+          },
+          "title": "MPDS API",
+          "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
           "children": [],
@@ -1822,11 +1822,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T02:01:32Z",
+            "last_commit": "2026-11-06T18:41:04Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39120,
+            "stars": 39122,
             "topics": [
               "ai",
               "machine-learning",
@@ -1880,27 +1880,6 @@
         },
         {
           "children": [],
-          "description": "A high-performance software package for training and evaluating machine-learned XC functionals using the CIDER.. GPL-3.0 ml-functional C-lang",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A high-performance software package for training and evaluating machine-learned XC functionals using the CIDER framework",
-            "homepage": "https://cider-dft.github.io/CiderPress/",
-            "id": 790830064,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-27T18:07:08Z",
-            "open_issues": 4,
-            "owner": "cider-dft",
-            "repo": "CiderPress",
-            "stars": 32,
-            "topics": []
-          },
-          "title": "CiderPress",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "Artificial Intelligence Research for Science (AIRS). GPL-3.0 rep-learn",
           "node_type": "item",
           "repo_info": {
@@ -1918,6 +1897,27 @@
             "topics": []
           },
           "title": "QHNet",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
+          "description": "A high-performance software package for training and evaluating machine-learned XC functionals using the CIDER.. GPL-3.0 ml-functional C-lang",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "A high-performance software package for training and evaluating machine-learned XC functionals using the CIDER framework",
+            "homepage": "https://cider-dft.github.io/CiderPress/",
+            "id": 790830064,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-27T18:07:08Z",
+            "open_issues": 4,
+            "owner": "cider-dft",
+            "repo": "CiderPress",
+            "stars": 32,
+            "topics": []
+          },
+          "title": "CiderPress",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -2048,7 +2048,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15269,
+                "stars": 15271,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -2657,37 +2657,6 @@
         },
         {
           "children": [],
-          "description": "New to geometric GNNs: try our practical notebook, prepared for MPhil students at the University of Cambridge. MIT rep-learn",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Geometric GNN Dojo provides unified implementations and experiments to explore the design space of Geometric Graph Neural Networks (ICML 2023)",
-            "homepage": "https://arxiv.org/abs/2301.09308",
-            "id": 591770079,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2025-10-09T03:30:52Z",
-            "open_issues": 2,
-            "owner": "chaitjo",
-            "repo": "geometric-gnn-dojo",
-            "stars": 526,
-            "topics": [
-              "e3nn",
-              "equivariance",
-              "equivariant-networks",
-              "geometric-deep-learning",
-              "geometric-graphs",
-              "graph-isomorphism",
-              "graph-neural-networks",
-              "pytorch",
-              "pytorch-geometric"
-            ]
-          },
-          "title": "Geometric GNN Dojo",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "whitead/dmol-book",
           "node_type": "item",
           "repo_info": {
@@ -2857,7 +2826,7 @@
             "open_issues": 0,
             "owner": "NabKh",
             "repo": "ML-for-Materials-Science",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "computational-chemistry",
               "jupyter-notebook",
@@ -2876,6 +2845,37 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Geometric GNN Dojo",
+              "description": "New to geometric GNNs: try our practical notebook, prepared for MPhil students at the University of Cambridge. MIT rep-learn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Geometric GNN Dojo provides unified implementations and experiments to explore the design space of Geometric Graph Neural Networks (ICML 2023)",
+                "homepage": "https://arxiv.org/abs/2301.09308",
+                "id": 591770079,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2025-10-09T03:30:52Z",
+                "open_issues": 2,
+                "owner": "chaitjo",
+                "repo": "geometric-gnn-dojo",
+                "stars": 526,
+                "topics": [
+                  "e3nn",
+                  "equivariance",
+                  "equivariant-networks",
+                  "geometric-deep-learning",
+                  "geometric-graphs",
+                  "graph-isomorphism",
+                  "graph-neural-networks",
+                  "pytorch",
+                  "pytorch-geometric"
+                ]
+              },
+              "first_seen": "2026-08-28T06:22:45.549Z"
+            },
             {
               "node_type": "item",
               "title": "DeepLearningLifeSciences",
@@ -3012,7 +3012,7 @@
                 "open_issues": 1,
                 "owner": "JARVIS-Materials-Design",
                 "repo": "jarvis-tools-notebooks",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -3298,7 +3298,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 20 hidden projects..."
+          "title": "Show 21 hidden projects..."
         }
       ],
       "title": "Educational Resources"
@@ -3517,11 +3517,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T14:04:05Z",
-            "open_issues": 110,
+            "last_commit": "2026-11-06T12:11:22Z",
+            "open_issues": 111,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3670,
+            "stars": 3672,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -3544,10 +3544,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1273,
+            "open_issues": 1275,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7125,
+            "stars": 7127,
             "topics": [
               "biology",
               "deep-learning",
@@ -3714,27 +3714,6 @@
             ]
           },
           "title": "MLatom",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
-          "description": "MAterials Simulation Toolkit for Machine Learning (MAST-ML). MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "MAterials Simulation Toolkit for Machine Learning (MAST-ML)",
-            "homepage": null,
-            "id": 82204883,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2025-10-10T20:15:45Z",
-            "open_issues": 32,
-            "owner": "uw-cmg",
-            "repo": "MAST-ML",
-            "stars": 130,
-            "topics": []
-          },
-          "title": "MAST-ML",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -3941,6 +3920,27 @@
             },
             {
               "node_type": "item",
+              "title": "MAST-ML",
+              "description": "MAterials Simulation Toolkit for Machine Learning (MAST-ML). MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MAterials Simulation Toolkit for Machine Learning (MAST-ML)",
+                "homepage": null,
+                "id": 82204883,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2025-10-10T20:15:45Z",
+                "open_issues": 32,
+                "owner": "uw-cmg",
+                "repo": "MAST-ML",
+                "stars": 130,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:22:45.549Z"
+            },
+            {
+              "node_type": "item",
               "title": "JAXChem",
               "description": "JAXChem is a JAX-based deep learning library for complex and versatile chemical modeling. MIT",
               "children": [],
@@ -4089,7 +4089,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 14 hidden projects..."
+          "title": "Show 15 hidden projects..."
         }
       ],
       "title": "General Tools"
@@ -4146,6 +4146,36 @@
         },
         {
           "children": [],
+          "description": "SLICES: An Invertible, Invariant, and String-based Crystal Representation [2023, Nature Communications] MatterGPT,.. LGPL-2.1 rep-eng language-models transformer materials-discovery structure-prediction",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "SLICES: An Invertible, Invariant, and String-based Crystal Representation [2023, Nature Communications] MatterGPT, SLICES-PLUS",
+            "homepage": "https://www.nature.com/articles/s41467-023-42870-7",
+            "id": 633230994,
+            "language": "Python",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-11-06T02:52:18Z",
+            "open_issues": 5,
+            "owner": "xiaohang007",
+            "repo": "SLICES",
+            "stars": 145,
+            "topics": [
+              "crystal",
+              "crystallography",
+              "deep-learning",
+              "machine-learning",
+              "materials-informatics",
+              "materials-science",
+              "representation",
+              "smiles"
+            ]
+          },
+          "title": "SLICES and MatterGPT",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
           "description": "Zero Shot Molecular Generation via Similarity Kernels. MIT viz",
           "node_type": "item",
           "repo_info": {
@@ -4163,36 +4193,6 @@
             "topics": []
           },
           "title": "SiMGen",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
-          "description": "SLICES: An Invertible, Invariant, and String-based Crystal Representation [2023, Nature Communications] MatterGPT,.. LGPL-2.1 rep-eng language-models transformer materials-discovery structure-prediction",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "SLICES: An Invertible, Invariant, and String-based Crystal Representation [2023, Nature Communications] MatterGPT, SLICES-PLUS",
-            "homepage": "https://www.nature.com/articles/s41467-023-42870-7",
-            "id": 633230994,
-            "language": "Python",
-            "license": "LGPL-2.1",
-            "last_commit": "2026-03-03T13:51:20Z",
-            "open_issues": 5,
-            "owner": "xiaohang007",
-            "repo": "SLICES",
-            "stars": 145,
-            "topics": [
-              "crystal",
-              "crystallography",
-              "deep-learning",
-              "machine-learning",
-              "materials-informatics",
-              "materials-science",
-              "representation",
-              "smiles"
-            ]
-          },
-          "title": "SLICES and MatterGPT",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -4270,7 +4270,7 @@
                 "open_issues": 4,
                 "owner": "ehoogeboom",
                 "repo": "e3_diffusion_for_molecules",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -4550,11 +4550,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T02:40:02Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-07T01:51:05Z",
+            "open_issues": 39,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2348,
+            "stars": 2349,
             "topics": []
           },
           "title": "fairchem",
@@ -4571,8 +4571,8 @@
             "id": 114006193,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-06T01:12:06Z",
-            "open_issues": 241,
+            "last_commit": "2026-11-06T03:57:46Z",
+            "open_issues": 237,
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2078,
@@ -4617,7 +4617,7 @@
             "open_issues": 6,
             "owner": "mir-group",
             "repo": "nequip",
-            "stars": 972,
+            "stars": 973,
             "topics": [
               "atomistic-simulations",
               "computational-chemistry",
@@ -4702,10 +4702,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T14:29:37Z",
-            "open_issues": 277,
+            "open_issues": 278,
             "owner": "ACEsuit",
             "repo": "mace",
-            "stars": 1404,
+            "stars": 1406,
             "topics": []
           },
           "title": "MACE",
@@ -4791,6 +4791,27 @@
         },
         {
           "children": [],
+          "description": "ICAMS/python-ace",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 429776445,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-31T20:21:24Z",
+            "open_issues": 35,
+            "owner": "ICAMS",
+            "repo": "python-ace",
+            "stars": 115,
+            "topics": []
+          },
+          "title": "Custom",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
           "description": "Code for automated fitting of machine learned interatomic potentials. GPL-3.0 benchmarking workflows",
           "node_type": "item",
           "repo_info": {
@@ -4801,7 +4822,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-03T00:05:39Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "autoatml",
             "repo": "autoplex",
             "stars": 165,
@@ -4848,38 +4869,6 @@
         },
         {
           "children": [],
-          "description": "Allegro is a code for building highly scalable E(3)-equivariant interatomic potentials. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Allegro is a code for building highly scalable E(3)-equivariant interatomic potentials",
-            "homepage": "https://nequip.readthedocs.io/projects/allegro",
-            "id": 456303287,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-29T03:39:52Z",
-            "open_issues": 2,
-            "owner": "mir-group",
-            "repo": "allegro",
-            "stars": 506,
-            "topics": [
-              "atomistic-simulations",
-              "computational-chemistry",
-              "deep-learning",
-              "drug-discovery",
-              "force-fields",
-              "interatomic-potentials",
-              "machine-learning",
-              "materials-science",
-              "molecular-dynamics",
-              "pytorch"
-            ]
-          },
-          "title": "Allegro",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "train and use graph-based ML models of potential energy surfaces. MIT rep-learn UIP MD pretrained",
           "node_type": "item",
           "repo_info": {
@@ -4903,48 +4892,6 @@
             ]
           },
           "title": "Graph-PES",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
-          "description": "ICAMS/python-ace",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 429776445,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-31T20:21:24Z",
-            "open_issues": 35,
-            "owner": "ICAMS",
-            "repo": "python-ace",
-            "stars": 115,
-            "topics": []
-          },
-          "title": "Custom",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
-          "description": "Workflow is a Python toolkit for building interatomic potential creation and atomistic simulation workflows. GPL-2.0 workflows HTC",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "python workflow toolkit",
-            "homepage": null,
-            "id": 424674780,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2026-08-22T13:53:52Z",
-            "open_issues": 72,
-            "owner": "libAtoms",
-            "repo": "workflow",
-            "stars": 42,
-            "topics": []
-          },
-          "title": "wfl",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -5005,6 +4952,38 @@
         },
         {
           "children": [],
+          "description": "Allegro is a code for building highly scalable E(3)-equivariant interatomic potentials. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Allegro is a code for building highly scalable E(3)-equivariant interatomic potentials",
+            "homepage": "https://nequip.readthedocs.io/projects/allegro",
+            "id": 456303287,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-29T03:39:52Z",
+            "open_issues": 2,
+            "owner": "mir-group",
+            "repo": "allegro",
+            "stars": 507,
+            "topics": [
+              "atomistic-simulations",
+              "computational-chemistry",
+              "deep-learning",
+              "drug-discovery",
+              "force-fields",
+              "interatomic-potentials",
+              "machine-learning",
+              "materials-science",
+              "molecular-dynamics",
+              "pytorch"
+            ]
+          },
+          "title": "Allegro",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
           "description": "A Python library for building atomic neural networks. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -5022,33 +5001,6 @@
             "topics": []
           },
           "title": "PiNN",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
-          "description": "Machine-Learned Interatomic Potential eXploration (mlipx) is designed at BASF for evaluating machine-learned.. MIT benchmarking viz workflows",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Machine-Learned Interatomic Potential eXploration (mlipx) is designed at BASF for evaluating machine-learned interatomic potentials (MLIPs). It offers a growing set of evaluation methods alongside powerful visualization and comparison tools.",
-            "homepage": "https://mlipx.readthedocs.io",
-            "id": 874669404,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-28T13:30:02Z",
-            "open_issues": 7,
-            "owner": "basf",
-            "repo": "mlipx",
-            "stars": 108,
-            "topics": [
-              "interatomic-potentials",
-              "machine-learning",
-              "materials-informatics",
-              "mlips",
-              "testing-framework"
-            ]
-          },
-          "title": "MLIPX - Machine-Learned Interatomic Potential eXploration",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -5076,6 +5028,54 @@
             ]
           },
           "title": "NNPOps",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
+          "description": "UF3: a python library for generating ultra-fast interatomic potentials. Apache-2",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "UF3: a python library for generating ultra-fast interatomic potentials",
+            "homepage": null,
+            "id": 412475026,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-23T14:15:32Z",
+            "open_issues": 29,
+            "owner": "uf3",
+            "repo": "uf3",
+            "stars": 74,
+            "topics": [
+              "force-fields",
+              "interatomic-potentials",
+              "machine-learning",
+              "materials-science",
+              "molecular-dynamics"
+            ]
+          },
+          "title": "Ultra-Fast Force Fields (UF3)",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
+          "description": "Workflow is a Python toolkit for building interatomic potential creation and atomistic simulation workflows. GPL-2.0 workflows HTC",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "python workflow toolkit",
+            "homepage": null,
+            "id": 424674780,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-22T13:53:52Z",
+            "open_issues": 72,
+            "owner": "libAtoms",
+            "repo": "workflow",
+            "stars": 42,
+            "topics": []
+          },
+          "title": "wfl",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -5234,30 +5234,6 @@
         },
         {
           "children": [],
-          "description": "A python interface of the machine learning potential NEP used in GPUMD. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A python interface of NEP",
-            "homepage": null,
-            "id": 472212639,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2025-10-27T09:37:03Z",
-            "open_issues": 6,
-            "owner": "bigd4",
-            "repo": "PyNEP",
-            "stars": 71,
-            "topics": [
-              "machine-learning",
-              "python"
-            ]
-          },
-          "title": "PyNEP",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "libAtoms/GAP",
           "node_type": "item",
           "repo_info": {
@@ -5288,7 +5264,7 @@
             "id": 585338324,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T00:08:52Z",
+            "last_commit": "2026-11-07T02:14:52Z",
             "open_issues": 1,
             "owner": "lanl",
             "repo": "ALF",
@@ -5457,7 +5433,7 @@
                 "open_issues": 2,
                 "owner": "atomistic-machine-learning",
                 "repo": "SchNet",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -5507,8 +5483,8 @@
                 "id": 142296892,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T16:39:18Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-06T08:51:28Z",
+                "open_issues": 79,
                 "owner": "CompPhysVienna",
                 "repo": "n2p2",
                 "stars": 244,
@@ -5676,6 +5652,33 @@
             },
             {
               "node_type": "item",
+              "title": "MLIPX - Machine-Learned Interatomic Potential eXploration",
+              "description": "Machine-Learned Interatomic Potential eXploration (mlipx) is designed at BASF for evaluating machine-learned.. MIT benchmarking viz workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Machine-Learned Interatomic Potential eXploration (mlipx) is designed at BASF for evaluating machine-learned interatomic potentials (MLIPs). It offers a growing set of evaluation methods alongside powerful visualization and comparison tools.",
+                "homepage": "https://mlipx.readthedocs.io",
+                "id": 874669404,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-01-28T13:30:02Z",
+                "open_issues": 7,
+                "owner": "basf",
+                "repo": "mlipx",
+                "stars": 108,
+                "topics": [
+                  "interatomic-potentials",
+                  "machine-learning",
+                  "materials-informatics",
+                  "mlips",
+                  "testing-framework"
+                ]
+              },
+              "first_seen": "2026-08-28T06:22:45.549Z"
+            },
+            {
+              "node_type": "item",
               "title": "PyXtalFF",
               "description": "Machine Learning Interatomic Potential Predictions. MIT",
               "children": [],
@@ -5697,27 +5700,24 @@
             },
             {
               "node_type": "item",
-              "title": "Ultra-Fast Force Fields (UF3)",
-              "description": "UF3: a python library for generating ultra-fast interatomic potentials. Apache-2",
+              "title": "PyNEP",
+              "description": "A python interface of the machine learning potential NEP used in GPUMD. MIT",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "UF3: a python library for generating ultra-fast interatomic potentials",
+                "description": "A python interface of NEP",
                 "homepage": null,
-                "id": 412475026,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-23T14:15:32Z",
-                "open_issues": 29,
-                "owner": "uf3",
-                "repo": "uf3",
-                "stars": 74,
+                "id": 472212639,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2025-10-27T09:37:03Z",
+                "open_issues": 6,
+                "owner": "bigd4",
+                "repo": "PyNEP",
+                "stars": 71,
                 "topics": [
-                  "force-fields",
-                  "interatomic-potentials",
                   "machine-learning",
-                  "materials-science",
-                  "molecular-dynamics"
+                  "python"
                 ]
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -6284,7 +6284,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 44 hidden projects..."
+          "title": "Show 45 hidden projects..."
         }
       ],
       "title": "Interatomic Potentials (ML-IAP)"
@@ -6892,7 +6892,7 @@
         },
         {
           "children": [],
-          "description": "Automated creation and manipulation of chemical reaction networks (CRNs) in heterogeneous catalysis, powered by state-.. MIT catalysis cheminformatics ML-IAP Julia",
+          "description": "Automated creation of chemical reaction networks (CRNs) in heterogeneous catalysis, powered by state-of-the-art ML.. MIT catalysis cheminformatics ML-IAP Julia",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7116,11 +7116,11 @@
             "id": 876809949,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-04T22:30:32Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-06T20:27:09Z",
+            "open_issues": 32,
             "owner": "NVIDIA",
             "repo": "cuEquivariance",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "title": "cuEquivariance",
@@ -7453,7 +7453,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T21:36:42Z",
-            "open_issues": 23,
+            "open_issues": 29,
             "owner": "TorchSim",
             "repo": "torch-sim",
             "stars": 507,
@@ -7473,11 +7473,11 @@
             "id": 97248567,
             "language": "Cuda",
             "license": null,
-            "last_commit": "2026-11-05T17:08:28Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-06T18:02:14Z",
+            "open_issues": 21,
             "owner": "brucefan1983",
             "repo": "GPUMD",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "cuda",
               "gpu",
@@ -7528,27 +7528,6 @@
         },
         {
           "children": [],
-          "description": "Software for generating machine-learning interatomic potentials for LAMMPS. GPL-2.0",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Software for generating machine-learning interatomic potentials for LAMMPS",
-            "homepage": null,
-            "id": 208074667,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2025-10-17T21:59:15Z",
-            "open_issues": 20,
-            "owner": "FitSNAP",
-            "repo": "FitSNAP",
-            "stars": 189,
-            "topics": []
-          },
-          "title": "FitSNAP",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "High level API for using machine learning models in OpenMM simulations. MIT ML-IAP",
           "node_type": "item",
           "repo_info": {
@@ -7559,7 +7538,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-20T16:35:52Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "openmm",
             "repo": "openmm-ml",
             "stars": 186,
@@ -7726,6 +7705,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FitSNAP",
+              "description": "Software for generating machine-learning interatomic potentials for LAMMPS. GPL-2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Software for generating machine-learning interatomic potentials for LAMMPS",
+                "homepage": null,
+                "id": 208074667,
+                "language": "Python",
+                "license": "GPL-2.0",
+                "last_commit": "2025-10-17T21:59:15Z",
+                "open_issues": 20,
+                "owner": "FitSNAP",
+                "repo": "FitSNAP",
+                "stars": 189,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:22:45.549Z"
+            },
+            {
+              "node_type": "item",
               "title": "pair_nequip",
               "description": "LAMMPS pair style for NequIP. MIT ML-IAP rep-learn",
               "children": [],
@@ -7774,7 +7774,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 3 hidden projects..."
+          "title": "Show 4 hidden projects..."
         }
       ],
       "title": "Molecular Dynamics"
@@ -7855,8 +7855,8 @@
             "id": 660443,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-05T21:55:56Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-06T22:01:17Z",
+            "open_issues": 14,
             "owner": "cdk",
             "repo": "cdk",
             "stars": 612,
@@ -7977,33 +7977,6 @@
         },
         {
           "children": [],
-          "description": "A data-driven method combining symbolic regression and compressed sensing for accurate & interpretable models. Apache-2 Fortran",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A data-driven method combining symbolic regression and compressed sensing for accurate & interpretable models.",
-            "homepage": null,
-            "id": 107118697,
-            "language": "Fortran",
-            "license": "Apache-2.0",
-            "last_commit": "2026-01-26T07:47:46Z",
-            "open_issues": 18,
-            "owner": "rouyang2017",
-            "repo": "SISSO",
-            "stars": 379,
-            "topics": [
-              "big-data-analytics",
-              "compressed-sensing",
-              "machine-learning",
-              "material-science",
-              "symbolic-regression"
-            ]
-          },
-          "title": "SISSO",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "Python module for scientists working with glass materials. GPL-3.0",
           "node_type": "item",
           "repo_info": {
@@ -8029,23 +8002,29 @@
         },
         {
           "children": [],
-          "description": "ML benchmarking and pipeling framework. Apache-2 benchmarking",
+          "description": "A data-driven method combining symbolic regression and compressed sensing for accurate & interpretable models. Apache-2 Fortran",
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "ML benchmarking and pipeling framework",
+            "description": "A data-driven method combining symbolic regression and compressed sensing for accurate & interpretable models.",
             "homepage": null,
-            "id": 259644402,
-            "language": "Jupyter Notebook",
+            "id": 107118697,
+            "language": "Fortran",
             "license": "Apache-2.0",
-            "last_commit": "2025-10-28T14:07:32Z",
-            "open_issues": 5,
-            "owner": "capoe",
-            "repo": "benchml",
-            "stars": 15,
-            "topics": []
+            "last_commit": "2026-01-26T07:47:46Z",
+            "open_issues": 18,
+            "owner": "rouyang2017",
+            "repo": "SISSO",
+            "stars": 379,
+            "topics": [
+              "big-data-analytics",
+              "compressed-sensing",
+              "machine-learning",
+              "material-science",
+              "symbolic-regression"
+            ]
           },
-          "title": "BenchML",
+          "title": "SISSO",
           "first_seen": "2026-08-28T06:22:45.549Z"
         },
         {
@@ -8357,6 +8336,27 @@
             },
             {
               "node_type": "item",
+              "title": "BenchML",
+              "description": "ML benchmarking and pipeling framework. Apache-2 benchmarking",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ML benchmarking and pipeling framework",
+                "homepage": null,
+                "id": 259644402,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2025-10-28T14:07:32Z",
+                "open_issues": 5,
+                "owner": "capoe",
+                "repo": "benchml",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:22:45.549Z"
+            },
+            {
+              "node_type": "item",
               "title": "NICE",
               "description": "NICE (N-body Iteratively Contracted Equivariants) is a set of tools designed for the calculation of invariant and.. MIT",
               "children": [],
@@ -8526,7 +8526,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 19 hidden projects..."
+          "title": "Show 20 hidden projects..."
         }
       ],
       "title": "Representation Engineering"
@@ -8545,11 +8545,11 @@
             "id": 106024057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T00:08:32Z",
+            "last_commit": "2026-11-06T06:58:35Z",
             "open_issues": 1384,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24133,
+            "stars": 24138,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -8573,7 +8573,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-13T22:16:58Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "e3nn",
             "repo": "e3nn",
             "stars": 1294,
@@ -8620,7 +8620,7 @@
             "id": 147224878,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T15:27:29Z",
+            "last_commit": "2026-11-06T15:12:44Z",
             "open_issues": 3,
             "owner": "atomistic-machine-learning",
             "repo": "schnetpack",
@@ -8762,6 +8762,27 @@
         },
         {
           "children": [],
+          "description": "Time-reversal Euclidean neural networks based on e3nn. MIT magnetism",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Time-reversal Euclidean neural networks based on e3nn",
+            "homepage": null,
+            "id": 568852908,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-25T03:51:35Z",
+            "open_issues": 0,
+            "owner": "Hongyu-yu",
+            "repo": "T-e3nn",
+            "stars": 24,
+            "topics": []
+          },
+          "title": "T-e3nn",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
           "description": "Open MatSci ML Toolkit is a framework for prototyping and scaling out deep learning models for materials discovery.. MIT workflows benchmarking",
           "node_type": "item",
           "repo_info": {
@@ -8830,39 +8851,6 @@
         },
         {
           "children": [],
-          "description": "The official code respository for Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR.. MIT transformer single-paper",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "The official code respository for \"Rethinking the role of frames for SE(3)-invariant crystal structure modeling\" (ICLR 2025)",
-            "homepage": "https://omron-sinicx.github.io/crystalframer/",
-            "id": 924509386,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-10-16T12:56:33Z",
-            "open_issues": 0,
-            "owner": "omron-sinicx",
-            "repo": "crystalframer",
-            "stars": 21,
-            "topics": [
-              "graph-neural-network",
-              "graph-neural-networks",
-              "iclr",
-              "iclr2025",
-              "machine-learning",
-              "materials",
-              "materials-informatics",
-              "materials-science",
-              "transformer",
-              "transformer-architecture",
-              "transformers"
-            ]
-          },
-          "title": "Crystalframer",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "Scalable graph neural networks for materials property prediction. MIT",
           "node_type": "item",
           "repo_info": {
@@ -8900,7 +8888,7 @@
                 "open_issues": 323,
                 "owner": "NVIDIA",
                 "repo": "DeepLearningExamples",
-                "stars": 14872,
+                "stars": 14869,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9068,7 +9056,7 @@
                 "open_issues": 23,
                 "owner": "txie-93",
                 "repo": "cgcnn",
-                "stars": 899,
+                "stars": 900,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -9756,22 +9744,34 @@
             },
             {
               "node_type": "item",
-              "title": "T-e3nn",
-              "description": "Time-reversal Euclidean neural networks based on e3nn. MIT magnetism",
+              "title": "Crystalframer",
+              "description": "The official code respository for Rethinking the role of frames for SE(3)-invariant crystal structure modeling (ICLR.. MIT transformer single-paper",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Time-reversal Euclidean neural networks based on e3nn",
-                "homepage": null,
-                "id": 568852908,
+                "description": "The official code respository for \"Rethinking the role of frames for SE(3)-invariant crystal structure modeling\" (ICLR 2025)",
+                "homepage": "https://omron-sinicx.github.io/crystalframer/",
+                "id": 924509386,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-25T03:51:35Z",
+                "license": "MIT",
+                "last_commit": "2025-10-16T12:56:33Z",
                 "open_issues": 0,
-                "owner": "Hongyu-yu",
-                "repo": "T-e3nn",
-                "stars": 24,
-                "topics": []
+                "owner": "omron-sinicx",
+                "repo": "crystalframer",
+                "stars": 21,
+                "topics": [
+                  "graph-neural-network",
+                  "graph-neural-networks",
+                  "iclr",
+                  "iclr2025",
+                  "machine-learning",
+                  "materials",
+                  "materials-informatics",
+                  "materials-science",
+                  "transformer",
+                  "transformer-architecture",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
             },
@@ -10096,7 +10096,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/fairchem",
-              "description": "(👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):",
+              "description": "(👨‍💻 78 · 🔀 520 · 📋 620 - 1% open · ⏱️ 05.11.2026):",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10105,11 +10105,11 @@
                 "id": 211001860,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T02:40:02Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-07T01:51:05Z",
+                "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "fairchem",
-                "stars": 2348,
+                "stars": 2349,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -10124,11 +10124,11 @@
             "id": 211001860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T02:40:02Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-07T01:51:05Z",
+            "open_issues": 39,
             "owner": "facebookresearch",
             "repo": "fairchem",
-            "stars": 2348,
+            "stars": 2349,
             "topics": []
           },
           "title": "FAIRChem EquiformerV2 models",
@@ -10139,7 +10139,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/fairchem",
-              "description": "(👨‍💻 75 · 🔀 520 · 📋 620 - 2% open · ⏱️ 22.10.2026):",
+              "description": "(👨‍💻 78 · 🔀 520 · 📋 620 - 1% open · ⏱️ 05.11.2026):",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10148,11 +10148,11 @@
                 "id": 211001860,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T02:40:02Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-07T01:51:05Z",
+                "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "fairchem",
-                "stars": 2348,
+                "stars": 2349,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:22:45.549Z"
@@ -10171,7 +10171,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "matbench-discovery",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "bayesian-optimization",
               "convex-hull",
@@ -10195,8 +10195,8 @@
             "id": 114006193,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-06T01:12:06Z",
-            "open_issues": 241,
+            "last_commit": "2026-11-06T03:57:46Z",
+            "open_issues": 237,
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2078,
@@ -10237,8 +10237,8 @@
             "id": 114006193,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-06T01:12:06Z",
-            "open_issues": 241,
+            "last_commit": "2026-11-06T03:57:46Z",
+            "open_issues": 237,
             "owner": "deepmodeling",
             "repo": "deepmd-kit",
             "stars": 2078,
@@ -10299,6 +10299,27 @@
         },
         {
           "children": [],
+          "description": "SevenNet - a graph neural network interatomic potential package supporting efficient multi-GPU parallel molecular.. GPL-3.0 ML-IAP MD pretrained",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "SevenNet - a graph neural network interatomic potential package supporting efficient multi-GPU parallel molecular dynamics simulations.",
+            "homepage": "https://pubs.acs.org/doi/10.1021/acs.jctc.4c00190",
+            "id": 602411034,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-29T08:22:10Z",
+            "open_issues": 21,
+            "owner": "MDIL-SNU",
+            "repo": "SevenNet",
+            "stars": 278,
+            "topics": []
+          },
+          "title": "SevenNet",
+          "first_seen": "2026-08-28T06:22:45.549Z"
+        },
+        {
+          "children": [],
           "description": "MatterSim: A deep learning atomistic model across elements, temperatures and pressures. MIT ML-IAP active-learning multimodal phase-transition pretrained",
           "node_type": "item",
           "repo_info": {
@@ -10329,27 +10350,6 @@
         },
         {
           "children": [],
-          "description": "SevenNet - a graph neural network interatomic potential package supporting efficient multi-GPU parallel molecular.. GPL-3.0 ML-IAP MD pretrained",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "SevenNet - a graph neural network interatomic potential package supporting efficient multi-GPU parallel molecular dynamics simulations.",
-            "homepage": "https://pubs.acs.org/doi/10.1021/acs.jctc.4c00190",
-            "id": 602411034,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-29T08:22:10Z",
-            "open_issues": 21,
-            "owner": "MDIL-SNU",
-            "repo": "SevenNet",
-            "stars": 278,
-            "topics": []
-          },
-          "title": "SevenNet",
-          "first_seen": "2026-08-28T06:22:45.549Z"
-        },
-        {
-          "children": [],
           "description": "ORB forcefield models from Orbital Materials. Custom ML-IAP pretrained",
           "node_type": "item",
           "repo_info": {
@@ -10360,7 +10360,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T16:10:22Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "orbital-materials",
             "repo": "orb-models",
             "stars": 626,
@@ -10884,7 +10884,7 @@
             "open_issues": 75,
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "title": "Crystal Toolkit",
@@ -11048,8 +11048,8 @@
             "id": 226350919,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T12:42:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-06T13:11:15Z",
+            "open_issues": 1,
             "owner": "deepqmc",
             "repo": "deepqmc",
             "stars": 423,
@@ -11215,7 +11215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:51:33.292Z",
+    "last_updated": "2026-11-07T02:24:03.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome atomistic machine learning projects ⚛️🧬💎.",
@@ -11223,8 +11223,8 @@
       "id": 651692511,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-11-05T23:14:05Z",
-      "open_issues": 52,
+      "last_commit": "2026-11-06T07:06:41Z",
+      "open_issues": 51,
       "owner": "JuDFTteam",
       "repo": "best-of-atomistic-machine-learning",
       "stars": 735,
@@ -11249,7 +11249,7 @@
         "surrogate-models"
       ]
     },
-    "original_repository_sha": "f3a048f2be9e7fc9746ce8ec64a57061e8832f7b",
+    "original_repository_sha": "ef2520bce508bc133d64e0b26f3d851048cc2579",
     "enhanced_repository": "enhansome/enhansome-best-of-atomistic-machine-learning",
     "enhanced_repository_description": null,
     "title": "Awesome best of atomistic machine learning with stars"
